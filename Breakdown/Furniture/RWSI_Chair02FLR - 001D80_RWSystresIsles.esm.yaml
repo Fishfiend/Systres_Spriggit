@@ -1,8 +1,8 @@
 FormKey: 001D80:RWSystresIsles.esm
 EditorID: RWSI_Chair02FLR
 ObjectBounds:
-  First: -62, -17, 0
-  Second: 62, 73, 98
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Chair

@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 10, -8
-  Flags: 1665680896
+  Flags: 1690469376
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006B80:RWSystresIsles.esm
@@ -1526,7 +1526,7 @@ Temporary:
   Scale: 1.52
   Placement:
     Position: 43254.746, -32525.25, -905.7397
-    Rotation: 0, -0, 1.883195
+    Rotation: 0, 0, 1.883195
 - MutagenObjectType: PlacedObject
   FormKey: 00119E:RWSystresIsles.esm
   Base: 044E6E:RWSystresIsles.esm
@@ -1596,7 +1596,7 @@ Temporary:
   Scale: 1.03
   Placement:
     Position: 43802.043, -31815.19, -465.75354
-    Rotation: 0.30289087, -0, 1.4521639
+    Rotation: 0.30289087, 0, 1.4521639
 - MutagenObjectType: PlacedObject
   FormKey: 0011A8:RWSystresIsles.esm
   Base: 044EAC:RWSystresIsles.esm
@@ -1659,7 +1659,7 @@ Temporary:
   Scale: 0.93
   Placement:
     Position: 43121.07, -32078.938, -25.120808
-    Rotation: 0, -0, 2.1383257
+    Rotation: 0, 0, 2.1383257
 - MutagenObjectType: PlacedObject
   FormKey: 0011B1:RWSystresIsles.esm
   Base: 044E70:RWSystresIsles.esm
@@ -1764,7 +1764,7 @@ Temporary:
   Scale: 1.05
   Placement:
     Position: 43644.33, -32698.416, -137.39612
-    Rotation: 0.24497637, -0, 0.9577386
+    Rotation: 0.24497637, 0, 0.9577386
 - MutagenObjectType: PlacedObject
   FormKey: 0011C7:RWSystresIsles.esm
   Base: 044E7C:RWSystresIsles.esm
@@ -1832,4 +1832,4 @@ Temporary:
   Base: 02ADC4:Dragonborn.esm
   Placement:
     Position: 42986.707, -32448.197, -0.00024414062
-    Rotation: 0, -0, 3.383202
+    Rotation: 0, 0, 3.383202

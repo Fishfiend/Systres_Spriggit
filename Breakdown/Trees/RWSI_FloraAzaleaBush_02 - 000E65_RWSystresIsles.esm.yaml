@@ -1,8 +1,8 @@
 FormKey: 000E65:RWSystresIsles.esm
 EditorID: RWSI_FloraAzaleaBush_02
 ObjectBounds:
-  First: -49, -51, -14
-  Second: 47, 53, 39
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Plants\Azalea\RWSI_AzaleaBush_02.nif
   Data: 0x020000000000000000000000

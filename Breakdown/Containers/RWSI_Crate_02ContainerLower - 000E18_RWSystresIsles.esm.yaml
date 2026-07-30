@@ -4,8 +4,8 @@ EditorID: RWSI_Crate_02ContainerLower
 SkyrimMajorRecordFlags:
 - 0x8000000
 ObjectBounds:
-  First: -54, -29, -1
-  Second: 54, 29, 59
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Crate

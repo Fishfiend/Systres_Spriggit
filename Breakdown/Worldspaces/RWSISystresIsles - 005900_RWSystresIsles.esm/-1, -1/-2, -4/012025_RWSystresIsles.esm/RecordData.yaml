@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -11, -26
-  Flags: 1665859328
+  Flags: 1690286848
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 0121B7:RWSystresIsles.esm
@@ -1094,7 +1094,7 @@ Temporary:
   Scale: 0.86
   Placement:
     Position: -42205.76, -102832.19, -81.05138
-    Rotation: -0.12434359, -0, 4.2333813
+    Rotation: -0.12434359, 0, 4.2333813
 - MutagenObjectType: PlacedObject
   FormKey: 00148E:RWSystresIsles.esm
   Base: 0009AD:RWSystresIsles.esm
@@ -1115,7 +1115,7 @@ Temporary:
   Scale: 1.01
   Placement:
     Position: -41087.8, -102664.09, -80.12473
-    Rotation: -0.06241116, -0, 0.58935535
+    Rotation: -0.06241116, 0, 0.58935535
 - MutagenObjectType: PlacedObject
   FormKey: 001491:RWSystresIsles.esm
   Base: 0009AD:RWSystresIsles.esm
@@ -1192,14 +1192,14 @@ Temporary:
   Scale: 0.88
   Placement:
     Position: -41373.688, -102496.586, -7.999878
-    Rotation: -0, -0, 5.175687
+    Rotation: 0, 0, 5.175687
 - MutagenObjectType: PlacedObject
   FormKey: 001527:RWSystresIsles.esm
   Base: 044E8A:RWSystresIsles.esm
   Scale: 0.84
   Placement:
     Position: -42170.992, -102561.38, -19.687012
-    Rotation: -0, 0.06241881, 6.242345
+    Rotation: 0, 0.06241881, 6.242345
 - MutagenObjectType: PlacedObject
   FormKey: 001528:RWSystresIsles.esm
   Base: 044E8A:RWSystresIsles.esm
@@ -1213,7 +1213,7 @@ Temporary:
   Scale: 1.16
   Placement:
     Position: -42121.637, -102807.52, -34.940063
-    Rotation: -0.12434359, -0, 3.6100621
+    Rotation: -0.12434359, 0, 3.6100621
 - MutagenObjectType: PlacedObject
   FormKey: 00152A:RWSystresIsles.esm
   Base: 044E70:RWSystresIsles.esm
@@ -1227,14 +1227,14 @@ Temporary:
   Scale: 1.15
   Placement:
     Position: -42039.945, -102930.72, -50.340332
-    Rotation: -0.12434359, -0, 3.4485133
+    Rotation: -0.12434359, 0, 3.4485133
 - MutagenObjectType: PlacedObject
   FormKey: 00152C:RWSystresIsles.esm
   Base: 044EA4:RWSystresIsles.esm
   Scale: 0.85
   Placement:
     Position: -41702.07, -102600.27, -20.517334
-    Rotation: -0.06241116, -0, 2.3095806
+    Rotation: -0.06241116, 0, 2.3095806
 - MutagenObjectType: PlacedObject
   FormKey: 00152E:RWSystresIsles.esm
   Base: 044EA4:RWSystresIsles.esm
@@ -1276,7 +1276,7 @@ Temporary:
   Scale: 1.03
   Placement:
     Position: -42744.3, -102978.695, -76.168335
-    Rotation: -0.06241116, -0, 0.04586
+    Rotation: -0.06241116, 0, 0.04586
 - MutagenObjectType: PlacedObject
   FormKey: 001534:RWSystresIsles.esm
   Base: 044EA4:RWSystresIsles.esm
@@ -1325,7 +1325,7 @@ Temporary:
   Scale: 0.91
   Placement:
     Position: -44713.004, -102681.61, -89.60217
-    Rotation: -0.35878178, -0, 5.9180927
+    Rotation: -0.35878178, 0, 5.9180927
 - MutagenObjectType: PlacedObject
   FormKey: 001548:RWSystresIsles.esm
   Base: 044E7C:RWSystresIsles.esm
@@ -1346,7 +1346,7 @@ Temporary:
   Scale: 0.84
   Placement:
     Position: -44167.934, -102634.53, -75.974976
-    Rotation: -0.18533866, -0, 4.3918753
+    Rotation: -0.18533866, 0, 4.3918753
 - MutagenObjectType: PlacedObject
   FormKey: 00154B:RWSystresIsles.esm
   Base: 044E8A:RWSystresIsles.esm
@@ -1360,7 +1360,7 @@ Temporary:
   Scale: 0.99
   Placement:
     Position: -41821.027, -102639.16, -22.947266
-    Rotation: -0.06241116, -0, 4.042765
+    Rotation: -0.06241116, 0, 4.042765
 - MutagenObjectType: PlacedObject
   FormKey: 0015BE:RWSystresIsles.esm
   Base: 0009D2:RWSystresIsles.esm
@@ -1372,7 +1372,7 @@ Temporary:
   Scale: 1.14
   Placement:
     Position: -41169.844, -103268.56, -54.285156
-    Rotation: -0.06241116, -0, 3.213997
+    Rotation: -0.06241116, 0, 3.213997
 - MutagenObjectType: PlacedObject
   FormKey: 0015C0:RWSystresIsles.esm
   Base: 0009D2:RWSystresIsles.esm
@@ -1384,7 +1384,7 @@ Temporary:
   Scale: 1.14
   Placement:
     Position: -41246.934, -102553.05, -8
-    Rotation: -0, -0, 0.15032631
+    Rotation: 0, 0, 0.15032631
 - MutagenObjectType: PlacedObject
   FormKey: 0015C5:RWSystresIsles.esm
   Base: 0009D3:RWSystresIsles.esm
@@ -1419,4 +1419,4 @@ Temporary:
   Scale: 5.17
   Placement:
     Position: -41995.8, -103930.836, -213.55055
-    Rotation: -0.18533866, -0, 6.0788965
+    Rotation: -0.18533866, 0, 6.0788965

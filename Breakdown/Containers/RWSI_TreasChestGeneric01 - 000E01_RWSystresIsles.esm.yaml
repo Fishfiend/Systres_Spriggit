@@ -4,8 +4,8 @@ EditorID: RWSI_TreasChestGeneric01
 SkyrimMajorRecordFlags:
 - 0x8000000
 ObjectBounds:
-  First: -50, -26, 0
-  Second: 50, 26, 61
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Chest

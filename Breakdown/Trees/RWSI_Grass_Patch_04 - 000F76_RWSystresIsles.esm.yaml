@@ -1,8 +1,8 @@
 FormKey: 000F76:RWSystresIsles.esm
 EditorID: RWSI_Grass_Patch_04
 ObjectBounds:
-  First: -157, -116, -2
-  Second: 108, 136, 75
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Plants\RWSI_Grass_Patch_04.nif
   Data: 0x020000000000000000000000

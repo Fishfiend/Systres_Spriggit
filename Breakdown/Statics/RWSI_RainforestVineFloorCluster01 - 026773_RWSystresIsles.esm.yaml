@@ -1,8 +1,8 @@
 FormKey: 026773:RWSystresIsles.esm
 EditorID: RWSI_RainforestVineFloorCluster01
 ObjectBounds:
-  First: -559, -559, -15
-  Second: 345, 259, 15
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Vines\RWSI_rainforestvinefloorCluster01.nif
   Data: 0x020000000000000000000000

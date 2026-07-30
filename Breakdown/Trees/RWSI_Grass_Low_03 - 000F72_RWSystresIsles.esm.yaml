@@ -1,8 +1,8 @@
 FormKey: 000F72:RWSystresIsles.esm
 EditorID: RWSI_Grass_Low_03
 ObjectBounds:
-  First: -74, -56, 0
-  Second: 80, 64, 42
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Plants\RWSI_Grass_Low_03.nif
   Data: 0x020000000000000000000000

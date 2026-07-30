@@ -1,13 +1,9 @@
 FormKey: 005E87:RWSystresIsles.esm
-IsCompressed: True
-MajorRecordFlagsRaw: 262144
-SkyrimMajorRecordFlags:
-- Compressed
 Flags:
 - HasWater
 Grid:
   Point: -1, 23
-  Flags: 1665812736
+  Flags: 1690349824
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006967:RWSystresIsles.esm
@@ -630,5 +626,3 @@ Landscape:
       Opacity: 0.007843138
     - Position: 135
       Opacity: 0.07450981
-MajorFlags:
-- 0x40000

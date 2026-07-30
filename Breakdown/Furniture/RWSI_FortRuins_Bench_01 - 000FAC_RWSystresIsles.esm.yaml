@@ -1,8 +1,8 @@
 FormKey: 000FAC:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Bench_01
 ObjectBounds:
-  First: -62, -73, -1
-  Second: 61, 15, 98
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Bench

@@ -4,6 +4,9 @@ MajorRecordFlagsRaw: 262144
 EditorID: RWSI_LvlCoralcrab
 SkyrimMajorRecordFlags:
 - Compressed
+ObjectBounds:
+  First: -41, -25, 0
+  Second: 41, 72, 86
 Configuration:
   Level:
     MutagenObjectType: NpcLevel

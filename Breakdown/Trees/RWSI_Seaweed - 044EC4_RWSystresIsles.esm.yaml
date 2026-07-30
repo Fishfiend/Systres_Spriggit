@@ -1,8 +1,8 @@
 FormKey: 044EC4:RWSystresIsles.esm
 EditorID: RWSI_Seaweed
 ObjectBounds:
-  First: -3, 0, 0
-  Second: 4, 0, 81
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Sea\Seaweed\RWSI_Seaweed.nif
   Data: 0x020000000000000000000000

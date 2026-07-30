@@ -1,8 +1,8 @@
 FormKey: 02164F:RWSystresIsles.esm
 EditorID: RWSI_RainforestOakUnderstory01
 ObjectBounds:
-  First: -610, -506, -16
-  Second: 540, 608, 1411
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Trees\Rainforest\RWSI_RainforestOakUnderstory01.nif
   Data: 0x020000000000000000000000

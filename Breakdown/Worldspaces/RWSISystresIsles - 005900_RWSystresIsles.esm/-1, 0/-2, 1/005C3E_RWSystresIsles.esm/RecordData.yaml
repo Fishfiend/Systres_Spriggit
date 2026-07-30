@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -12, 11
-  Flags: 1665769216
+  Flags: 1690370560
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 00671E:RWSystresIsles.esm
@@ -436,31 +436,31 @@ Temporary:
   Base: 07E898:Skyrim.esm
   Placement:
     Position: -48437.812, 48808.81, 2490.9578
-    Rotation: 0, -0, 5.5631895
+    Rotation: 0, 0, 5.5631895
 - MutagenObjectType: PlacedObject
   FormKey: 000944:RWSystresIsles.esm
   Base: 07E898:Skyrim.esm
   Placement:
     Position: -47789.484, 48154.375, 1986.0537
-    Rotation: 0, -0, 5.5631895
+    Rotation: 0, 0, 5.5631895
 - MutagenObjectType: PlacedObject
   FormKey: 000945:RWSystresIsles.esm
   Base: 07E898:Skyrim.esm
   Placement:
     Position: -48299.727, 48701.97, 2355.157
-    Rotation: 0, -0, 5.5631895
+    Rotation: 0, 0, 5.5631895
 - MutagenObjectType: PlacedObject
   FormKey: 000946:RWSystresIsles.esm
   Base: 07E898:Skyrim.esm
   Placement:
     Position: -48129.33, 48534.883, 2226.4338
-    Rotation: 0, -0, 5.5631895
+    Rotation: 0, 0, 5.5631895
 - MutagenObjectType: PlacedObject
   FormKey: 000947:RWSystresIsles.esm
   Base: 07E898:Skyrim.esm
   Placement:
     Position: -47971.14, 48358.77, 2131.5562
-    Rotation: 0, -0, 5.5631895
+    Rotation: 0, 0, 5.5631895
 - MutagenObjectType: PlacedObject
   FormKey: 000955:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -469,7 +469,7 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -49067.645, 48662.652, 2267.3594
-    Rotation: 0, -0, 3.9131892
+    Rotation: 0, 0, 3.9131892
 - MutagenObjectType: PlacedObject
   FormKey: 000956:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -478,7 +478,7 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -47246.855, 48104.387, 1524.3049
-    Rotation: 0, -0, 2.4431915
+    Rotation: 0, 0, 2.4431915
 - MutagenObjectType: PlacedObject
   FormKey: 000957:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -487,7 +487,7 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -47139.316, 47802.21, 1522.5571
-    Rotation: 0, -0, 3.3131905
+    Rotation: 0, 0, 3.3131905
 - MutagenObjectType: PlacedObject
   FormKey: 000958:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -496,7 +496,7 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -47348.305, 47558.688, 1509.8278
-    Rotation: 0, -0, 4.09319
+    Rotation: 0, 0, 4.09319
 - MutagenObjectType: PlacedObject
   FormKey: 000959:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -505,7 +505,7 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -47646.92, 47517.086, 1486.2328
-    Rotation: 0, -0, 5.1431894
+    Rotation: 0, 0, 5.1431894
 - MutagenObjectType: PlacedObject
   FormKey: 00095A:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -514,4 +514,4 @@ Temporary:
   Base: 0D6C26:Skyrim.esm
   Placement:
     Position: -48029.062, 47857.51, 1486.2328
-    Rotation: 0, -0, 5.683189
+    Rotation: 0, 0, 5.683189

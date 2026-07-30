@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -14, 13
-  Flags: 1665767168
+  Flags: 1690368512
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 0066B6:RWSystresIsles.esm
@@ -1092,4 +1092,4 @@ Temporary:
   Base: 0CAD7B:Skyrim.esm
   Placement:
     Position: -54620.64, 55262.383, 2294.8945
-    Rotation: 0, -0, 2.0700004
+    Rotation: 0, 0, 2.0700004

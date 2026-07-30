@@ -4,8 +4,8 @@ EditorID: RWSI_RockCliffPillarMedium02
 SkyrimMajorRecordFlags:
 - VisibleWhenDistant
 ObjectBounds:
-  First: -746, -909, -309
-  Second: 715, 863, 3330
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Rocks\RWSI_RockCliffPillarMedium02.nif
   Data: 0x020000000000000000000000

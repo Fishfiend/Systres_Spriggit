@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 8, -10
-  Flags: 1665670144
+  Flags: 1690477568
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006B14:RWSystresIsles.esm
@@ -1484,10 +1484,10 @@ Temporary:
   Base: 02ADC4:Dragonborn.esm
   Placement:
     Position: 35595.75, -36970.926, -0.00024414062
-    Rotation: 0, -0, 2.000006
+    Rotation: 0, 0, 2.000006
 - MutagenObjectType: PlacedObject
   FormKey: 00124E:RWSystresIsles.esm
   Base: 02ADC4:Dragonborn.esm
   Placement:
     Position: 35595.75, -36970.926, -0.00024414062
-    Rotation: 0, -0, 2.000006
+    Rotation: 0, 0, 2.000006

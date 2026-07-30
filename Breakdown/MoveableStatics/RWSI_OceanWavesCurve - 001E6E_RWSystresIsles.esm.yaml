@@ -5,8 +5,8 @@ SkyrimMajorRecordFlags:
 - 0x200
 - 0x10000
 ObjectBounds:
-  First: -4878, -231, 0
-  Second: 1207, 1031, 986
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Water\RWSI_OceanWavesCurve.nif
   Data: 0x020000000000000000000000

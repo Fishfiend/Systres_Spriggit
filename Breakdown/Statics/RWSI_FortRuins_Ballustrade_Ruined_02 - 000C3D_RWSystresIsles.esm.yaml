@@ -1,8 +1,8 @@
 FormKey: 000C3D:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Ballustrade_Ruined_02
 ObjectBounds:
-  First: -120, -11, 0
-  Second: 120, 11, 59
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Dungeons\Fortruins\Ballustrades\RWSI_FortRuins_Ballustrade_Ruined_02.nif
   Data: 0x020000000000000000000000

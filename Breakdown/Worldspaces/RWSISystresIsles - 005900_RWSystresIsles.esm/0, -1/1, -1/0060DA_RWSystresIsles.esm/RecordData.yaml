@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 11, -3
-  Flags: 1665682688
+  Flags: 1690471168
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006BBA:RWSystresIsles.esm
@@ -1648,7 +1648,7 @@ Temporary:
   Scale: 1.44
   Placement:
     Position: 45354.58, -11521.122, 2358.715
-    Rotation: 0, -0, 0.5999992
+    Rotation: 0, 0, 0.5999992
 - MutagenObjectType: PlacedObject
   FormKey: 001D52:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -1658,7 +1658,7 @@ Temporary:
   Scale: 0.92
   Placement:
     Position: 46006.723, -11735.935, -721.8508
-    Rotation: 0, -0, 4.706382
+    Rotation: 0, 0, 4.706382
 - MutagenObjectType: PlacedObject
   FormKey: 001D53:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -1688,7 +1688,7 @@ Temporary:
   Scale: 1.32
   Placement:
     Position: 47555.832, -11892.101, 2393.787
-    Rotation: 0, -0, 4.963188
+    Rotation: 0, 0, 4.963188
 - MutagenObjectType: PlacedObject
   FormKey: 001D5A:RWSystresIsles.esm
   Base: 000C11:RWSystresIsles.esm
@@ -1701,7 +1701,7 @@ Temporary:
   Base: 000A09:RWSystresIsles.esm
   Placement:
     Position: 46023.316, -10498.33, 2356.512
-    Rotation: 0, -0, 0.57
+    Rotation: 0, 0, 0.57
 - MutagenObjectType: PlacedObject
   FormKey: 001D62:RWSystresIsles.esm
   Base: 000A19:RWSystresIsles.esm
@@ -1722,21 +1722,21 @@ Temporary:
   Scale: 0.98
   Placement:
     Position: 47048.16, -10229.799, 2434.1038
-    Rotation: 0, -0, 6.1463733
+    Rotation: 0, 0, 6.1463733
 - MutagenObjectType: PlacedObject
   FormKey: 001D66:RWSystresIsles.esm
   Base: 0009C9:RWSystresIsles.esm
   Scale: 1.18
   Placement:
     Position: 46560.277, -8958.33, 2284.3884
-    Rotation: 0, -0, 4.886381
+    Rotation: 0, 0, 4.886381
 - MutagenObjectType: PlacedObject
   FormKey: 001EF4:RWSystresIsles.esm
   Base: 0009AE:RWSystresIsles.esm
   Scale: 2.9
   Placement:
     Position: 45279.59, -11214.484, 2136.5962
-    Rotation: -0.7800002, -0, 0.45000368
+    Rotation: -0.7800002, 0, 0.45000368
 - MutagenObjectType: PlacedObject
   FormKey: 001EF5:RWSystresIsles.esm
   Base: 0009AF:RWSystresIsles.esm

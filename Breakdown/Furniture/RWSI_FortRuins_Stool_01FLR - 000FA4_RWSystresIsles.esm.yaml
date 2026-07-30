@@ -1,8 +1,8 @@
 FormKey: 000FA4:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Stool_01FLR
 ObjectBounds:
-  First: -62, -17, -1
-  Second: 62, 73, 98
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Stool

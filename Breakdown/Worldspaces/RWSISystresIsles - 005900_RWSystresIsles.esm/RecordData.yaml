@@ -29,7 +29,7 @@ TopCell:
   Flags:
   - HasWater
   Grid:
-    Flags: 1026266624
+    Flags: 1025702144
   WaterHeight: 3.4028235E+38
   Persistent:
   - MutagenObjectType: PlacedObject
@@ -175,7 +175,7 @@ TopCell:
     Scale: 3.98
     Placement:
       Position: -62576.33, 59454.56, 2896.3464
-      Rotation: 0, -0, 0.09000068
+      Rotation: 0, 0, 0.09000068
   - MutagenObjectType: PlacedObject
     FormKey: 000938:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -198,7 +198,7 @@ TopCell:
     Scale: 4.4
     Placement:
       Position: -60608.203, 72355.836, 6028.9136
-      Rotation: 0, -0, 6.0131855
+      Rotation: 0, 0, 6.0131855
   - MutagenObjectType: PlacedObject
     FormKey: 00093B:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -301,7 +301,7 @@ TopCell:
         Value: Yffre's Cauldron
     Placement:
       Position: -1381.9702, -83871.625, 913.8743
-      Rotation: 0, -0, 5.863185
+      Rotation: 0, 0, 5.863185
   - MutagenObjectType: PlacedObject
     FormKey: 000985:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -315,7 +315,7 @@ TopCell:
       Type: Landmark
     Placement:
       Position: -18666.914, -77968.734, 1981.4934
-      Rotation: 0, -0, 4.483187
+      Rotation: 0, 0, 4.483187
   - MutagenObjectType: PlacedObject
     FormKey: 000988:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -342,7 +342,7 @@ TopCell:
       Type: Cave
     Placement:
       Position: -35655.67, -65433.613, 1777.0182
-      Rotation: 0, -0, 1.83
+      Rotation: 0, 0, 1.83
   - MutagenObjectType: PlacedObject
     FormKey: 000992:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -369,7 +369,7 @@ TopCell:
       Type: Shack
     Placement:
       Position: -41876.758, -91163.055, 166.63528
-      Rotation: 0, -0, 5.323187
+      Rotation: 0, 0, 5.323187
   - MutagenObjectType: PlacedObject
     FormKey: 000996:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -396,7 +396,7 @@ TopCell:
       Type: Cave
     Placement:
       Position: -29388.932, -100728.516, 0
-      Rotation: 0, -0, 5.743186
+      Rotation: 0, 0, 5.743186
   - MutagenObjectType: PlacedObject
     FormKey: 000C1F:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -419,7 +419,7 @@ TopCell:
       Type: ImperialTower
     Placement:
       Position: 33154.2, -16803.23, 7106.8623
-      Rotation: 0, -0, 3.2531908
+      Rotation: 0, 0, 3.2531908
   - MutagenObjectType: PlacedObject
     FormKey: 001825:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -454,7 +454,7 @@ TopCell:
       Type: Landmark
     Placement:
       Position: 37742.332, -14941.3125, 3147.9453
-      Rotation: 0, -0, 5.143188
+      Rotation: 0, 0, 5.143188
   - MutagenObjectType: PlacedObject
     FormKey: 001D64:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -464,7 +464,7 @@ TopCell:
     Scale: 3.8
     Placement:
       Position: 47574.23, -8184.525, 2468.094
-      Rotation: 0, -0, 5.563185
+      Rotation: 0, 0, 5.563185
   - MutagenObjectType: PlacedObject
     FormKey: 00201B:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -491,7 +491,7 @@ TopCell:
       Type: Shrine
     Placement:
       Position: 26930.316, -71343.84, 2472.0425
-      Rotation: 0, -0, 1.83
+      Rotation: 0, 0, 1.83
   - MutagenObjectType: PlacedObject
     FormKey: 002028:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -531,7 +531,7 @@ TopCell:
       Type: Cave
     Placement:
       Position: 20846.637, -47817.41, 321.91776
-      Rotation: 0, -0, 5.5931864
+      Rotation: 0, 0, 5.5931864
   - MutagenObjectType: PlacedObject
     FormKey: 002060:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -545,7 +545,7 @@ TopCell:
       Type: Docks
     Placement:
       Position: 21667.516, -52636.836, 205.39279
-      Rotation: 0, -0, 5.2031865
+      Rotation: 0, 0, 5.2031865
   - MutagenObjectType: PlacedObject
     FormKey: 002063:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -676,7 +676,7 @@ TopCell:
       Type: Fort
     Placement:
       Position: -22044.125, -3570.23, 7200
-      Rotation: 0, -0, 6.0731854
+      Rotation: 0, 0, 6.0731854
   - MutagenObjectType: PlacedObject
     FormKey: 0020B5:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -789,7 +789,7 @@ TopCell:
         Value: Death's Valor Keep
     Placement:
       Position: -47135.34, 7409.101, 6128.8857
-      Rotation: 0, -0, 1.5600001
+      Rotation: 0, 0, 1.5600001
   - MutagenObjectType: PlacedObject
     FormKey: 002147:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -813,7 +813,7 @@ TopCell:
     Scale: 0.3
     Placement:
       Position: 7300.797, 65144.344, 9458.631
-      Rotation: 0, -0, 5.0231895
+      Rotation: 0, 0, 5.0231895
   - MutagenObjectType: PlacedObject
     FormKey: 00C714:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -853,7 +853,7 @@ TopCell:
       Type: Cave
     Placement:
       Position: 43644.777, 10212.18, 2804.2683
-      Rotation: 0, -0, 2.5500002
+      Rotation: 0, 0, 2.5500002
   - MutagenObjectType: PlacedObject
     FormKey: 00C726:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -893,7 +893,7 @@ TopCell:
       Type: Shipwreck
     Placement:
       Position: 45010.49, 54362.594, 391.68835
-      Rotation: 0, -0, 3.5400004
+      Rotation: 0, 0, 3.5400004
   MajorFlags:
   - Persistent
   - 0x40000

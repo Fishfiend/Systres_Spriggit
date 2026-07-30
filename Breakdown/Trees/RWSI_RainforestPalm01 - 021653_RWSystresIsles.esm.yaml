@@ -1,8 +1,8 @@
 FormKey: 021653:RWSystresIsles.esm
 EditorID: RWSI_RainforestPalm01
 ObjectBounds:
-  First: -199, -144, -8
-  Second: 184, 231, 508
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Trees\Rainforest\RWSI_Palm01.nif
   Data: 0x020000000000000000000000
