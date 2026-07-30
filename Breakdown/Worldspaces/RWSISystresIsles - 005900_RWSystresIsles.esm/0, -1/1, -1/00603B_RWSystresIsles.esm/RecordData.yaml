@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 8, -3
-  Flags: 1665679360
+  Flags: 1690468096
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006B1B:RWSystresIsles.esm
@@ -731,21 +731,21 @@ Temporary:
   Scale: 1.51
   Placement:
     Position: 35947.5, -10186.649, 4395.2944
-    Rotation: 0, -0, 2.1900036
+    Rotation: 0, 0, 2.1900036
 - MutagenObjectType: PlacedObject
   FormKey: 000BE1:RWSystresIsles.esm
   Base: 0009C0:RWSystresIsles.esm
   Scale: 1.58
   Placement:
     Position: 33473.758, -11943.249, 4319.8457
-    Rotation: 0, -0, 2.5200047
+    Rotation: 0, 0, 2.5200047
 - MutagenObjectType: PlacedObject
   FormKey: 000BE2:RWSystresIsles.esm
   Base: 0009D7:RWSystresIsles.esm
   Scale: 1.82
   Placement:
     Position: 35762.188, -9887.649, 6589.078
-    Rotation: 0, -0, 2.2800035
+    Rotation: 0, 0, 2.2800035
 - MutagenObjectType: PlacedObject
   FormKey: 000BE3:RWSystresIsles.esm
   Base: 0009D9:RWSystresIsles.esm
@@ -766,7 +766,7 @@ Temporary:
   Scale: 0.79
   Placement:
     Position: 33138.02, -12043.5625, 3791.925
-    Rotation: 0, -0, 6.0563755
+    Rotation: 0, 0, 6.0563755
 - MutagenObjectType: PlacedObject
   FormKey: 000C19:RWSystresIsles.esm
   Base: 0009CD:RWSystresIsles.esm
@@ -793,25 +793,25 @@ Temporary:
   Base: 001D1F:RWSystresIsles.esm
   Placement:
     Position: 36396, -11730, 6813.414
-    Rotation: 0, -0, 5.4977875
+    Rotation: 0, 0, 5.4977875
 - MutagenObjectType: PlacedObject
   FormKey: 02B8AA:RWSystresIsles.esm
   Base: 021653:RWSystresIsles.esm
   Scale: 1.04
   Placement:
     Position: 34157.63, -8818.57, 4016.5776
-    Rotation: 0, -0, 4.920002
+    Rotation: 0, 0, 4.920002
 - MutagenObjectType: PlacedObject
   FormKey: 02B8AB:RWSystresIsles.esm
   Base: 021657:RWSystresIsles.esm
   Scale: 1.18
   Placement:
     Position: 34297.633, -8798.302, 4016.5776
-    Rotation: 0, -0, 0.52681637
+    Rotation: 0, 0, 0.52681637
 - MutagenObjectType: PlacedObject
   FormKey: 02B8AC:RWSystresIsles.esm
   Base: 021653:RWSystresIsles.esm
   Scale: 0.83
   Placement:
     Position: 34401.844, -8892.751, 4016.5776
-    Rotation: 0, -0, 2.790005
+    Rotation: 0, 0, 2.790005

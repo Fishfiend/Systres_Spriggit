@@ -1,8 +1,8 @@
 FormKey: 000F9A:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Chair_01F
 ObjectBounds:
-  First: -32, -21, 0
-  Second: 32, 73, 98
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Chair

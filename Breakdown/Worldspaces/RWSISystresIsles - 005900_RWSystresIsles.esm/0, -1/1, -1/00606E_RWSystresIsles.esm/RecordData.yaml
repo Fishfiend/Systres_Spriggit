@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 9, -5
-  Flags: 1665680128
+  Flags: 1690468864
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006B4E:RWSystresIsles.esm
@@ -1606,7 +1606,7 @@ Temporary:
   Scale: 0.93
   Placement:
     Position: 36962.152, -16824.781, 1976.4215
-    Rotation: 0, -0, 4.123184
+    Rotation: 0, 0, 4.123184
 - MutagenObjectType: PlacedObject
   FormKey: 001D4A:RWSystresIsles.esm
   Base: 034417:Skyrim.esm
@@ -1634,21 +1634,21 @@ Temporary:
   Scale: 0.83
   Placement:
     Position: 39052.234, -16886.602, 225.73518
-    Rotation: 0, -0, 0.05999776
+    Rotation: 0, 0, 0.05999776
 - MutagenObjectType: PlacedObject
   FormKey: 001DA9:RWSystresIsles.esm
   Base: 02164F:RWSystresIsles.esm
   Scale: 1.06
   Placement:
     Position: 38781.03, -17579.982, 196.97362
-    Rotation: 0, -0, 2.7899978
+    Rotation: 0, 0, 2.7899978
 - MutagenObjectType: PlacedObject
   FormKey: 001DAC:RWSystresIsles.esm
   Base: 0009CC:RWSystresIsles.esm
   Scale: 1.51
   Placement:
     Position: 39546.203, -16815.434, 33.61541
-    Rotation: 0, -0, 1.6200024
+    Rotation: 0, 0, 1.6200024
 - MutagenObjectType: PlacedObject
   FormKey: 001DE9:RWSystresIsles.esm
   Base: 02C68B:Skyrim.esm
@@ -1716,7 +1716,7 @@ Temporary:
   Scale: 1.07
   Placement:
     Position: 36911.5, -19772.729, 132.2378
-    Rotation: 0, -0, 5.8331857
+    Rotation: 0, 0, 5.8331857
 - MutagenObjectType: PlacedObject
   FormKey: 001ED6:RWSystresIsles.esm
   Base: 000A3B:RWSystresIsles.esm
@@ -1766,35 +1766,35 @@ Temporary:
   Scale: 1.73
   Placement:
     Position: 38544.445, -17479.088, -347.65594
-    Rotation: 0, -0, 3.7500045
+    Rotation: 0, 0, 3.7500045
 - MutagenObjectType: PlacedObject
   FormKey: 001EEE:RWSystresIsles.esm
   Base: 0009C9:RWSystresIsles.esm
   Scale: 1.73
   Placement:
     Position: 37832.86, -17349.771, -246.97882
-    Rotation: 0, -0, 2.7900038
+    Rotation: 0, 0, 2.7900038
 - MutagenObjectType: PlacedObject
   FormKey: 001EEF:RWSystresIsles.esm
   Base: 0009CC:RWSystresIsles.esm
   Scale: 1.39
   Placement:
     Position: 38837.16, -18660.018, -169.27478
-    Rotation: 0, -0, 3.3131838
+    Rotation: 0, 0, 3.3131838
 - MutagenObjectType: PlacedObject
   FormKey: 001F17:RWSystresIsles.esm
   Base: 044E97:RWSystresIsles.esm
   Scale: 1.43
   Placement:
     Position: 38625.434, -18783.316, 8.655868
-    Rotation: 0, -0, 1.1100079
+    Rotation: 0, 0, 1.1100079
 - MutagenObjectType: PlacedObject
   FormKey: 001F18:RWSystresIsles.esm
   Base: 044E9E:RWSystresIsles.esm
   Scale: 1.43
   Placement:
     Position: 38691.098, -18904.904, 0.9967842
-    Rotation: 0, -0, 1.1100079
+    Rotation: 0, 0, 1.1100079
 - MutagenObjectType: PlacedObject
   FormKey: 001F19:RWSystresIsles.esm
   Base: 044E6D:RWSystresIsles.esm
@@ -1808,7 +1808,7 @@ Temporary:
   Scale: 1.43
   Placement:
     Position: 38829.457, -18975.838, 43.60572
-    Rotation: -0.030000068, -0, 1.35
+    Rotation: -0.030000068, 0, 1.35
 - MutagenObjectType: PlacedObject
   FormKey: 001F1B:RWSystresIsles.esm
   Base: 001E1F:RWSystresIsles.esm
@@ -1822,14 +1822,14 @@ Temporary:
   Scale: 1.43
   Placement:
     Position: 38460.4, -17862.1, -6.075864
-    Rotation: 0, -0, 0.5400075
+    Rotation: 0, 0, 0.5400075
 - MutagenObjectType: PlacedObject
   FormKey: 001F1F:RWSystresIsles.esm
   Base: 044E98:RWSystresIsles.esm
   Scale: 1.43
   Placement:
     Position: 38344.105, -17796.719, -19.51724
-    Rotation: 0, -0, 0.63001084
+    Rotation: 0, 0, 0.63001084
 - MutagenObjectType: PlacedObject
   FormKey: 001F20:RWSystresIsles.esm
   Base: 0009CB:RWSystresIsles.esm
@@ -1843,14 +1843,14 @@ Temporary:
   Scale: 1.43
   Placement:
     Position: 38276.246, -18382.305, 14.022135
-    Rotation: 0, -0, 6.0131955
+    Rotation: 0, 0, 6.0131955
 - MutagenObjectType: PlacedObject
   FormKey: 001F22:RWSystresIsles.esm
   Base: 044E97:RWSystresIsles.esm
   Scale: 1.43
   Placement:
     Position: 38184.47, -18322.22, 49.31738
-    Rotation: 0, -0, 0.42000002
+    Rotation: 0, 0, 0.42000002
 - MutagenObjectType: PlacedObject
   FormKey: 001F23:RWSystresIsles.esm
   Base: 044E7C:RWSystresIsles.esm
@@ -1864,35 +1864,35 @@ Temporary:
   Scale: 1.43
   Placement:
     Position: 38131.77, -18341.285, 6.829506
-    Rotation: 0, -0, 0.42000002
+    Rotation: 0, 0, 0.42000002
 - MutagenObjectType: PlacedObject
   FormKey: 001F25:RWSystresIsles.esm
   Base: 044E71:RWSystresIsles.esm
   Scale: 1.3
   Placement:
     Position: 37991.477, -18325.309, 8.960254
-    Rotation: 0, -0, 3.8531878
+    Rotation: 0, 0, 3.8531878
 - MutagenObjectType: PlacedObject
   FormKey: 001F26:RWSystresIsles.esm
   Base: 044E70:RWSystresIsles.esm
   Scale: 1.3
   Placement:
     Position: 38205.008, -18511, 20.684767
-    Rotation: 0, -0, 4.9631877
+    Rotation: 0, 0, 4.9631877
 - MutagenObjectType: PlacedObject
   FormKey: 001F27:RWSystresIsles.esm
   Base: 044E96:RWSystresIsles.esm
   Scale: 1.3
   Placement:
     Position: 38151.57, -18138.268, 20.793238
-    Rotation: 0, -0, 3.7031882
+    Rotation: 0, 0, 3.7031882
 - MutagenObjectType: PlacedObject
   FormKey: 001F28:RWSystresIsles.esm
   Base: 044E95:RWSystresIsles.esm
   Scale: 1.3
   Placement:
     Position: 38235.227, -18181.896, 21.679401
-    Rotation: 0, -0, 0.2231942
+    Rotation: 0, 0, 0.2231942
 - MutagenObjectType: PlacedObject
   FormKey: 001F29:RWSystresIsles.esm
   Base: 086929:Skyrim.esm
@@ -1934,91 +1934,91 @@ Temporary:
   Scale: 0.62
   Placement:
     Position: 39082.54, -18389.924, 128
-    Rotation: 0, -0, 4.783195
+    Rotation: 0, 0, 4.783195
 - MutagenObjectType: PlacedObject
   FormKey: 001F2F:RWSystresIsles.esm
   Base: 000B78:RWSystresIsles.esm
   Scale: 0.62
   Placement:
     Position: 39624.133, -17282.793, 125.834816
-    Rotation: 0, -0, 3.7631967
+    Rotation: 0, 0, 3.7631967
 - MutagenObjectType: PlacedObject
   FormKey: 001F30:RWSystresIsles.esm
   Base: 000B77:RWSystresIsles.esm
   Scale: 0.62
   Placement:
     Position: 39814.65, -16537.316, 166.43555
-    Rotation: 0, -0, 3.7331972
+    Rotation: 0, 0, 3.7331972
 - MutagenObjectType: PlacedObject
   FormKey: 001F31:RWSystresIsles.esm
   Base: 000109:_ResourcePack.esl
   Scale: 0.92
   Placement:
     Position: 39272.97, -18558.22, 72.9369
-    Rotation: 0, -0, 3.8231893
+    Rotation: 0, 0, 3.8231893
 - MutagenObjectType: PlacedObject
   FormKey: 001F32:RWSystresIsles.esm
   Base: 000108:_ResourcePack.esl
   Scale: 1.07
   Placement:
     Position: 39194.75, -17877.19, 113.07158
-    Rotation: 0, -0, 5.4731894
+    Rotation: 0, 0, 5.4731894
 - MutagenObjectType: PlacedObject
   FormKey: 001F33:RWSystresIsles.esm
   Base: 021657:RWSystresIsles.esm
   Scale: 1.37
   Placement:
     Position: 39455.367, -17232.744, 93.545944
-    Rotation: 0, -0, 1.6800048
+    Rotation: 0, 0, 1.6800048
 - MutagenObjectType: PlacedObject
   FormKey: 001F34:RWSystresIsles.esm
   Base: 021653:RWSystresIsles.esm
   Scale: 1.2
   Placement:
     Position: 39174.355, -18442.033, 88.83011
-    Rotation: 0, -0, 5.0831933
+    Rotation: 0, 0, 5.0831933
 - MutagenObjectType: PlacedObject
   FormKey: 001F35:RWSystresIsles.esm
   Base: 000108:_ResourcePack.esl
   Scale: 1.07
   Placement:
     Position: 39235.742, -16647.887, 347.56683
-    Rotation: 0, -0, 5.983189
+    Rotation: 0, 0, 5.983189
 - MutagenObjectType: PlacedObject
   FormKey: 001F37:RWSystresIsles.esm
   Base: 000108:_ResourcePack.esl
   Scale: 1.07
   Placement:
     Position: 38611.613, -16927.64, 404.0481
-    Rotation: 0, -0, 1.1400037
+    Rotation: 0, 0, 1.1400037
 - MutagenObjectType: PlacedObject
   FormKey: 001F38:RWSystresIsles.esm
   Base: 021657:RWSystresIsles.esm
   Scale: 1.37
   Placement:
     Position: 38555.44, -17146.32, 152.5572
-    Rotation: 0, -0, 2.2200048
+    Rotation: 0, 0, 2.2200048
 - MutagenObjectType: PlacedObject
   FormKey: 001F39:RWSystresIsles.esm
   Base: 021657:RWSystresIsles.esm
   Scale: 1.37
   Placement:
     Position: 39486.65, -16452.793, 248.85213
-    Rotation: 0, -0, 0.45000905
+    Rotation: 0, 0, 0.45000905
 - MutagenObjectType: PlacedObject
   FormKey: 001F3A:RWSystresIsles.esm
   Base: 021653:RWSystresIsles.esm
   Scale: 1.37
   Placement:
     Position: 39941.57, -16592.484, 103.86076
-    Rotation: 0, -0, 0.9300091
+    Rotation: 0, 0, 0.9300091
 - MutagenObjectType: PlacedObject
   FormKey: 001F3C:RWSystresIsles.esm
   Base: 000B78:RWSystresIsles.esm
   Scale: 0.93
   Placement:
     Position: 38815.9, -16481.625, 494.80862
-    Rotation: 0, -0, 3.7331972
+    Rotation: 0, 0, 3.7331972
 - MutagenObjectType: PlacedObject
   FormKey: 001F3D:RWSystresIsles.esm
   Base: 03A1F9:Skyrim.esm
@@ -2032,14 +2032,14 @@ Temporary:
   Scale: 1.5
   Placement:
     Position: 38654.582, -16830.832, 389.76294
-    Rotation: 0, -0, 5.983189
+    Rotation: 0, 0, 5.983189
 - MutagenObjectType: PlacedObject
   FormKey: 001F41:RWSystresIsles.esm
   Base: 044E97:RWSystresIsles.esm
   Scale: 1.43
   Placement:
     Position: 40052.805, -17585.668, -7.2509136
-    Rotation: 0, -0, 4.5731983
+    Rotation: 0, 0, 4.5731983
 - MutagenObjectType: PlacedObject
   FormKey: 001FDD:RWSystresIsles.esm
   Base: 0B8A62:Skyrim.esm
@@ -2060,4 +2060,4 @@ Temporary:
   Scale: 1.44
   Placement:
     Position: 39504.562, -16802.2, 349.05872
-    Rotation: -0.2100003, -0, 0
+    Rotation: -0.2100003, 0, 0

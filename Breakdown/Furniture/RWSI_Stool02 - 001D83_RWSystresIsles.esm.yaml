@@ -1,8 +1,8 @@
 FormKey: 001D83:RWSystresIsles.esm
 EditorID: RWSI_Stool02
 ObjectBounds:
-  First: -32, -14, 0
-  Second: 32, 68, 114
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Stool

@@ -1,8 +1,8 @@
 FormKey: 000D80:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Wall_Thick_Ruined_03
 ObjectBounds:
-  First: -130, -39, -1
-  Second: 127, 39, 163
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Dungeons\Fortruins\Walls\RWSI_FortRuins_Wall_Thick_Ruined_03.nif
   Data: 0x020000000000000000000000

@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 1, -14
-  Flags: 1665647616
+  Flags: 1690447360
 WaterHeight: 1630
 Landscape:
   FormKey: 0069A7:RWSystresIsles.esm
@@ -299,7 +299,7 @@ Temporary:
   Scale: 0.73
   Placement:
     Position: 6350.0703, -55655.85, 1655.3757
-    Rotation: 0, -0, 0.7200004
+    Rotation: 0, 0, 0.7200004
 - MutagenObjectType: PlacedObject
   FormKey: 002048:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768

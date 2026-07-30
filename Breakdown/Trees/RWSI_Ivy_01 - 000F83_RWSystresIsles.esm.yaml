@@ -1,8 +1,8 @@
 FormKey: 000F83:RWSystresIsles.esm
 EditorID: RWSI_Ivy_01
 ObjectBounds:
-  First: -75, -27, -138
-  Second: 53, 3, 87
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Plants\RWSI_Ivy_01.nif
   Data: 0x020000000000000000000000

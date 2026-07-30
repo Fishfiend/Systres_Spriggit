@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -16, 23
-  Flags: 1665774336
+  Flags: 1690375680
 WaterHeight: 6840
 Landscape:
   FormKey: 006656:RWSystresIsles.esm
@@ -465,18 +465,18 @@ Temporary:
   Scale: 1.29
   Placement:
     Position: -62972.59, 96428.336, 7148.1934
-    Rotation: 0, -0, 4.2600026
+    Rotation: 0, 0, 4.2600026
 - MutagenObjectType: PlacedObject
   FormKey: 000855:RWSystresIsles.esm
   Base: 09D45F:Skyrim.esm
   Scale: 0.57
   Placement:
     Position: -65312.66, 95121.35, 7748.1694
-    Rotation: 0, -0, 1.1700003
+    Rotation: 0, 0, 1.1700003
 - MutagenObjectType: PlacedObject
   FormKey: 00090F:RWSystresIsles.esm
   Base: 09D45F:Skyrim.esm
   Scale: 0.57
   Placement:
     Position: -64093.137, 95756.25, 7555.2383
-    Rotation: 0, -0, 1.1700003
+    Rotation: 0, 0, 1.1700003

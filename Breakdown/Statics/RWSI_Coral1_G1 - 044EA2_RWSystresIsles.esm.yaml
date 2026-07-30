@@ -1,8 +1,8 @@
 FormKey: 044EA2:RWSystresIsles.esm
 EditorID: RWSI_Coral1_G1
 ObjectBounds:
-  First: -13, -13, -9
-  Second: 15, 13, 48
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Landscape\Sea\Coral\RWSI_Coral1_G1.nif
   Data: 0x020000000000000000000000

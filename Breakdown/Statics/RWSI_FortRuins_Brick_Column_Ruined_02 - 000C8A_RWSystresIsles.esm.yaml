@@ -1,8 +1,8 @@
 FormKey: 000C8A:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Brick_Column_Ruined_02
 ObjectBounds:
-  First: -46, -47, 0
-  Second: 46, 47, 250
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Dungeons\Fortruins\Columns\RWSI_FortRuins_Brick_Column_Ruined_02.nif
   Data: 0x020000000000000000000000

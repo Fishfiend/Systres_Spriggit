@@ -1,5 +1,8 @@
 FormKey: 000C75:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Candlestick_01
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Dungeons\Fortruins\Clutter\RWSI_FortRuins_Candlestick_01.nif
   Data: 0x020000000000000000000000

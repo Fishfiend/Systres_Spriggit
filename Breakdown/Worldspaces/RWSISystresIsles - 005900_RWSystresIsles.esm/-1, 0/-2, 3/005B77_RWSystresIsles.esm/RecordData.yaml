@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -16, 24
-  Flags: 1905728512
+  Flags: 920731904
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006657:RWSystresIsles.esm

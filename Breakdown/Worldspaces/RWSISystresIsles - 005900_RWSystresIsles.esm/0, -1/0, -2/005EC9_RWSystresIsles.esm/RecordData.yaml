@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 1, -12
-  Flags: 1665647872
+  Flags: 1690447616
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 0069A9:RWSystresIsles.esm
@@ -93,4 +93,4 @@ Temporary:
   Scale: 5.07
   Placement:
     Position: 4741.4976, -47941.727, 1541.6503
-    Rotation: 0, -0, 1.9200001
+    Rotation: 0, 0, 1.9200001

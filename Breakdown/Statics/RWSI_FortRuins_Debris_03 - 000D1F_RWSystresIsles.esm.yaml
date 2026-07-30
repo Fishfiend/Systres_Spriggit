@@ -1,8 +1,8 @@
 FormKey: 000D1F:RWSystresIsles.esm
 EditorID: RWSI_FortRuins_Debris_03
 ObjectBounds:
-  First: -137, -120, -6
-  Second: 136, 121, 42
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Model:
   File: RWSI\Dungeons\Fortruins\Rubble\RWSI_FortRuins_Debris_03.nif
   Data: 0x020000000000000000000000

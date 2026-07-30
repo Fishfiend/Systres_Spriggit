@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: -12, 1
-  Flags: 1665757952
+  Flags: 1690359552
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006714:RWSystresIsles.esm
@@ -219,7 +219,7 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -46190.785, 6500.5796, 5726.9727
-    Rotation: 0, -0, 4.903187
+    Rotation: 0, 0, 4.903187
 - MutagenObjectType: PlacedObject
   FormKey: 002112:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -228,7 +228,7 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -45692.297, 6399.9224, 5726.9727
-    Rotation: 0, -0, 4.903187
+    Rotation: 0, 0, 4.903187
 - MutagenObjectType: PlacedObject
   FormKey: 002113:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -237,7 +237,7 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -45189.08, 6314.8047, 6526.1763
-    Rotation: 0, -0, 4.903187
+    Rotation: 0, 0, 4.903187
 - MutagenObjectType: PlacedObject
   FormKey: 002135:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -246,7 +246,7 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -45129.832, 7962.25, 6040.5244
-    Rotation: 0, -0, 1.6331916
+    Rotation: 0, 0, 1.6331916
 - MutagenObjectType: PlacedObject
   FormKey: 002136:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -255,7 +255,7 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -45637.113, 7998.256, 6040.5244
-    Rotation: 0, -0, 1.6331916
+    Rotation: 0, 0, 1.6331916
 - MutagenObjectType: PlacedObject
   FormKey: 002137:RWSystresIsles.esm
   MajorRecordFlagsRaw: 32768
@@ -264,4 +264,4 @@ Temporary:
   Base: 03F201:Skyrim.esm
   Placement:
     Position: -46147.09, 8018.2334, 6040.5244
-    Rotation: 0, -0, 1.6331916
+    Rotation: 0, 0, 1.6331916

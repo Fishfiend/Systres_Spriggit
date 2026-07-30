@@ -1,8 +1,8 @@
 FormKey: 001D81:RWSystresIsles.esm
 EditorID: RWSI_Bench01
 ObjectBounds:
-  First: -89, -73, 0
-  Second: 92, 16, 98
+  First: -117, -28, -117
+  Second: 117, 28, 117
 Name:
   TargetLanguage: English
   Value: Bench
