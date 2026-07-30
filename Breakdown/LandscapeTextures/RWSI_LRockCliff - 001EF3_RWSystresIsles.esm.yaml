@@ -1,0 +1,8 @@
+FormKey: 001EF3:RWSystresIsles.esm
+EditorID: RWSI_LRockCliff
+TextureSet: 000A0B:RWSystresIsles.esm
+MaterialType: 0E7714:Skyrim.esm
+HavokFriction: 30
+HavokRestitution: 30
+TextureSpecularExponent: 30
+Flags: []

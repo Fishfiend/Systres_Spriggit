@@ -1,0 +1,10 @@
+FormKey: 00177C:RWSystresIsles.esm
+EditorID: RWSI_Awning1
+ObjectBounds:
+  First: -123, -133, -20
+  Second: 125, -2, 75
+Model:
+  File: RWSI\Architecture\Houses\Modular\RWSI_Awning1.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

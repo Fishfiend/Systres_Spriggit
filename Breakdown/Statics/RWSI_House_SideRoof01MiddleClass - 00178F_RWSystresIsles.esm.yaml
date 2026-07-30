@@ -1,0 +1,10 @@
+FormKey: 00178F:RWSystresIsles.esm
+EditorID: RWSI_House_SideRoof01MiddleClass
+ObjectBounds:
+  First: -222, -205, -1
+  Second: 283, 8, 477
+Model:
+  File: RWSI\Architecture\Houses\Buildings\RWSI_House_SideRoof01MiddleClass.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

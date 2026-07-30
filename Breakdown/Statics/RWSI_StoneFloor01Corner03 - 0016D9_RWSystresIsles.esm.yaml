@@ -1,0 +1,10 @@
+FormKey: 0016D9:RWSystresIsles.esm
+EditorID: RWSI_StoneFloor01Corner03
+ObjectBounds:
+  First: -248, -247, 0
+  Second: 0, 0, 5
+Model:
+  File: RWSI\Architecture\Houses\Modular\Floor\Stone\RWSI_StoneFloor01Corner03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

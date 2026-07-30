@@ -1,0 +1,11 @@
+FormKey: 0009A0:RWSystresIsles.esm
+EditorID: RWSI_LitemBirdFeathers50
+ChanceNone: 0.5
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 00099F:RWSystresIsles.esm
+    Count: 1

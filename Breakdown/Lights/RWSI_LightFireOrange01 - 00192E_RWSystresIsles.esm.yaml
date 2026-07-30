@@ -1,0 +1,19 @@
+FormKey: 00192E:RWSystresIsles.esm
+EditorID: RWSI_LightFireOrange01
+ObjectBounds:
+  First: -38, -40, -74
+  Second: 38, 40, 48
+Time: -1
+Radius: 512
+Color: '#00E28C3F'
+Flags:
+- Dynamic
+- Flicker
+- ShadowOmnidirectional
+FalloffExponent: 1
+FOV: 90
+NearClip: 1
+FlickerPeriod: 0.6666667
+FlickerIntensityAmplitude: 0.2
+FlickerMovementAmplitude: 4
+FadeValue: 1.25

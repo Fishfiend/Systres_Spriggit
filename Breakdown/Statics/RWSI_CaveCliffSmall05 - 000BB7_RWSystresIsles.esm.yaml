@@ -1,0 +1,10 @@
+FormKey: 000BB7:RWSystresIsles.esm
+EditorID: RWSI_CaveCliffSmall05
+ObjectBounds:
+  First: -356, -469, -23
+  Second: 360, 407, 241
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockCliffSmall05.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

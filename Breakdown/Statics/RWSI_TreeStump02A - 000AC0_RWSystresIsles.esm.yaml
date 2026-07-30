@@ -1,0 +1,16 @@
+FormKey: 000AC0:RWSystresIsles.esm
+EditorID: RWSI_TreeStump02A
+ObjectBounds:
+  First: -320, -329, -89
+  Second: 452, 406, 417
+Model:
+  File: Landscape\Trees\TreePineForestStump02A.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L1_Dirt
+    NewTexture: 0009F4:RWSystresIsles.esm
+  - Name: TreePineForestStump02A:0 - L2_Bark:0 - L2_Branches:0
+    NewTexture: 000A9D:RWSystresIsles.esm
+    Index: 3
+MaxAngle: 90
+Unused: 0x000000

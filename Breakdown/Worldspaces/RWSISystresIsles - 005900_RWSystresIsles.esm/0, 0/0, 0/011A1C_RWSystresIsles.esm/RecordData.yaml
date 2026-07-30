@@ -1,0 +1,71 @@
+FormKey: 011A1C:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 2, 7
+  Flags: 1638366208
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D77:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Position: 38
+      Opacity: 0.003921569
+    - Position: 55
+      Opacity: 0.003921569
+    - Position: 71
+      Opacity: 0.019607844
+    - Position: 72
+      Opacity: 0.03529412
+    - Position: 73
+      Opacity: 0.02745098
+    - Position: 88
+      Opacity: 0.03137255
+    - Position: 89
+      Opacity: 0.03529412
+    - Position: 90
+      Opacity: 0.03137255
+    - Position: 105
+      Opacity: 0.03529412
+    - Position: 106
+      Opacity: 0.05882353
+    - Position: 107
+      Opacity: 0.06666667
+    - Position: 123
+      Opacity: 0.03529412
+    - Position: 124
+      Opacity: 0.05490196

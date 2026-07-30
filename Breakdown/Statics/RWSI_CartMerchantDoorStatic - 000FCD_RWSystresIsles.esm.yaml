@@ -1,0 +1,10 @@
+FormKey: 000FCD:RWSystresIsles.esm
+EditorID: RWSI_CartMerchantDoorStatic
+ObjectBounds:
+  First: -58, 193, 0
+  Second: 13, 207, 182
+Model:
+  File: RWSI\Clutter\Carts\RWSI_CartMerchantDoor.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

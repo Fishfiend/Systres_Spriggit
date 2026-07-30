@@ -1,0 +1,10 @@
+FormKey: 000DDB:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Support_09
+ObjectBounds:
+  First: -97, -14, 0
+  Second: 97, 16, 356
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Wooden_Support_09.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

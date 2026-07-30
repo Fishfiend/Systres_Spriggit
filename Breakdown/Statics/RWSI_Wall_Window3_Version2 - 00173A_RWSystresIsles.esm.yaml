@@ -1,0 +1,10 @@
+FormKey: 00173A:RWSystresIsles.esm
+EditorID: RWSI_Wall_Window3_Version2
+ObjectBounds:
+  First: -22, -74, 0
+  Second: 102, 38, 276
+Model:
+  File: RWSI\Architecture\Houses\Modular\Walls\Annexes\RWSI_Wall_Window3_Version2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

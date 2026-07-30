@@ -1,0 +1,14 @@
+FormKey: 044EC4:RWSystresIsles.esm
+EditorID: RWSI_Seaweed
+ObjectBounds:
+  First: -3, 0, 0
+  Second: 4, 0, 81
+Model:
+  File: RWSI\Landscape\Sea\Seaweed\RWSI_Seaweed.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0BD7233D90C2F53C0BD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 10
+LeafFrequency: 0.35

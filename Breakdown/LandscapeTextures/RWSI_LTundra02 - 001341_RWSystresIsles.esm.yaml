@@ -1,0 +1,11 @@
+FormKey: 001341:RWSystresIsles.esm
+EditorID: RWSI_LTundra02
+TextureSet: 0300E3:Skyrim.esm
+MaterialType: 012F46:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Grasses:
+- 0713D8:Skyrim.esm
+- 074A8B:Skyrim.esm
+- 000067:_ResourcePack.esl
+Flags: []

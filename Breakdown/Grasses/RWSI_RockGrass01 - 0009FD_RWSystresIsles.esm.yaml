@@ -1,0 +1,16 @@
+FormKey: 0009FD:RWSystresIsles.esm
+EditorID: RWSI_RockGrass01
+Model:
+  File: Landscape\Grass\RWSI_RockGrass01.nif
+  Data: 0x020000000000000000000000
+Density: 20
+MaxSlope: 40
+Unknown2: 4448
+PositionRange: 32
+HeightRange: 0.25
+ColorRange: 0.1
+WavePeriod: 60
+Flags:
+- UniformScaling
+- FitToSlope
+Unknown3: 0x000000

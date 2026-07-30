@@ -1,0 +1,7 @@
+FormKey: 000CBB:RWSystresIsles.esm
+EditorID: RWSI_Crate_Lid_01
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Crate_Lid_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

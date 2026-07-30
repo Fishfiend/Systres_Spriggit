@@ -1,0 +1,10 @@
+FormKey: 001018:RWSystresIsles.esm
+EditorID: RWSI_HayScatter03
+ObjectBounds:
+  First: -82, -64, 0
+  Second: 82, 64, 0
+Model:
+  File: RWSI\Clutter\Hay\RWSI_HayScatter03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

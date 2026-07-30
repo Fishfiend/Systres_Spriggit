@@ -1,0 +1,10 @@
+FormKey: 000D1E:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Debris_02
+ObjectBounds:
+  First: -115, -97, -13
+  Second: 117, 97, 38
+Model:
+  File: RWSI\Dungeons\Fortruins\Rubble\RWSI_FortRuins_Debris_02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

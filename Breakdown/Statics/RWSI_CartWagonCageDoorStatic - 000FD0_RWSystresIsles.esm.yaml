@@ -1,0 +1,10 @@
+FormKey: 000FD0:RWSystresIsles.esm
+EditorID: RWSI_CartWagonCageDoorStatic
+ObjectBounds:
+  First: 80, -3, 9
+  Second: 158, 7, 180
+Model:
+  File: RWSI\Clutter\Carts\RWSI_CartWagonCageDoor.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

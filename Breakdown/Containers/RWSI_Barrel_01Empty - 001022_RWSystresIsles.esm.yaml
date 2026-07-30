@@ -1,0 +1,11 @@
+FormKey: 001022:RWSystresIsles.esm
+EditorID: RWSI_Barrel_01Empty
+ObjectBounds:
+  First: -31, -31, -1
+  Second: 31, 31, 79
+Name:
+  TargetLanguage: English
+  Value: Barrel
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Barrel_01.nif
+  Data: 0x020000000000000000000000

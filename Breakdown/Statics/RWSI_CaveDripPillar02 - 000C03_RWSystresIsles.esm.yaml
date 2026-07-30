@@ -1,0 +1,10 @@
+FormKey: 000C03:RWSystresIsles.esm
+EditorID: RWSI_CaveDripPillar02
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_DripPillar02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Drip_Pillar2:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

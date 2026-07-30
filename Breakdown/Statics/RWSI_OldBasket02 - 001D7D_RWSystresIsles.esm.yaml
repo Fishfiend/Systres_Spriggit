@@ -1,0 +1,10 @@
+FormKey: 001D7D:RWSystresIsles.esm
+EditorID: RWSI_OldBasket02
+ObjectBounds:
+  First: -24, -23, 0
+  Second: 22, 23, 30
+Model:
+  File: RWSI\Clutter\Misc\RWSI_OldBasket02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,13 @@
+FormKey: 000BCD:RWSystresIsles.esm
+EditorID: RWSI_CaveRockPileS05
+ObjectBounds:
+  First: -69, -66, -6
+  Second: 69, 66, 9
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockPileS05.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Debris_Rocks_5:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

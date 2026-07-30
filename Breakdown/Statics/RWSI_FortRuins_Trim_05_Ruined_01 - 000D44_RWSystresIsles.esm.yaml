@@ -1,0 +1,10 @@
+FormKey: 000D44:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Trim_05_Ruined_01
+ObjectBounds:
+  First: 0, -25, -33
+  Second: 110, 25, 0
+Model:
+  File: RWSI\Dungeons\Fortruins\Trims\RWSI_FortRuins_Trim_05_Ruined_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,76 @@
+FormKey: 011A36:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 5, -25
+  Flags: 1638433536
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D92:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header: {}
+    AlphaLayerData:
+    - Position: 205
+      Opacity: 0.05490196
+    - Position: 206
+      Opacity: 0.105882354
+    - Position: 221
+      Opacity: 0.03137255
+    - Position: 222
+      Opacity: 0.14117648
+    - Position: 223
+      Opacity: 0.16862746
+    - Position: 224
+      Opacity: 0.13333334
+    - Position: 225
+      Opacity: 0.047058824
+    - Position: 238
+      Opacity: 0.08235294
+    - Position: 239
+      Opacity: 0.14117648
+    - Position: 240
+      Opacity: 0.16078432
+    - Position: 241
+      Opacity: 0.13725491
+    - Position: 242
+      Opacity: 0.047058824
+    - Position: 255
+      Opacity: 0.011764706
+    - Position: 256
+      Opacity: 0.039215688
+    - Position: 257
+      Opacity: 0.0627451
+    - Position: 258
+      Opacity: 0.05882353
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535

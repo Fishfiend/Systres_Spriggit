@@ -1,0 +1,900 @@
+FormKey: 005900:RWSystresIsles.esm
+EditorID: RWSISystresIsles
+Name:
+  TargetLanguage: English
+  Value: Systres Isles
+Climate: 000809:RWSystresIsles.esm
+Water: 00080A:RWSystresIsles.esm
+LodWater: 000018:Skyrim.esm
+LodWaterHeight: 0
+LandDefaults:
+  DefaultLandHeight: -512
+MapData:
+  CameraMinHeight: 50000
+  CameraMaxHeight: 80000
+  CameraInitialPitch: 50
+WorldMapOffsetScale: 1
+DistantLodMultiplier: 1
+ObjectBoundsMin: -29, -28
+ObjectBoundsMax: 28, 31
+HdLodDiffuseTexture: Data\Textures\Landscape\Mountains\MountainSlab02.dds
+HdLodNormalTexture: Data\Textures\Landscape\Mountains\MountainSlab02_N.dds
+TopCell:
+  FormKey: 00C3F9:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 263168
+  SkyrimMajorRecordFlags:
+  - 0x400
+  - Compressed
+  Flags:
+  - HasWater
+  Grid:
+    Flags: 1066915328
+  WaterHeight: 3.4028235E+38
+  Persistent:
+  - MutagenObjectType: PlacedObject
+    FormKey: 000852:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Chronicle's Chamber
+      Type: Cave
+    Placement:
+      Position: -83769.74, 95027.65, 5000
+  - MutagenObjectType: PlacedObject
+    FormKey: 0008A9:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Yffre's Path
+      Type: Fort
+    Placement:
+      Position: -70299.625, 83623.18, 1771.1285
+  - MutagenObjectType: PlacedObject
+    FormKey: 0008AA:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Glimmertarn
+      Type: Settlement
+    Placement:
+      Position: -74323.26, 94616.49, 8176
+  - MutagenObjectType: PlacedObject
+    FormKey: 0008AB:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    Placement:
+      Position: -92389.29, 91309.6, 512
+  - MutagenObjectType: PlacedObject
+    FormKey: 0008AC:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Castle Tonnere
+      Type: Fort
+    Placement:
+      Position: -92397.44, 79978.69, 4467.582
+  - MutagenObjectType: PlacedObject
+    FormKey: 00090D:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Farpoint
+      Type: Landmark
+    Placement:
+      Position: -84201.22, 107544.57, 424.41745
+  - MutagenObjectType: PlacedObject
+    FormKey: 000910:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Clohaigh
+      Type: Landmark
+    Placement:
+      Position: -41752.33, 90654.78, 6627.4575
+  - MutagenObjectType: PlacedObject
+    FormKey: 000927:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Valley Of The Watcher
+      Type: Grove
+    Placement:
+      Position: -35844.6, 83354.86, 6768
+  - MutagenObjectType: PlacedObject
+    FormKey: 000930:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Ivyhame
+      Type: Clearing
+    Placement:
+      Position: -26228.176, 64413.105, 8096
+  - MutagenObjectType: PlacedObject
+    FormKey: 000931:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Embervine
+      Type: Cave
+    Placement:
+      Position: -36912.703, 59859.23, 7946.179
+  - MutagenObjectType: PlacedObject
+    FormKey: 000935:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 03AC83:Skyrim.esm
+    Scale: 2.42
+    Placement:
+      Position: -47130.434, 53635.78, 4426.2583
+  - MutagenObjectType: PlacedObject
+    FormKey: 000937:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 03AC83:Skyrim.esm
+    Scale: 3.98
+    Placement:
+      Position: -62576.33, 59454.56, 2896.3464
+      Rotation: 0, -0, 0.09000068
+  - MutagenObjectType: PlacedObject
+    FormKey: 000938:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: The Telling Stone
+      Type: Landmark
+    Placement:
+      Position: -64611.61, 72467.65, 7196.2363
+  - MutagenObjectType: PlacedObject
+    FormKey: 000939:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 03AC83:Skyrim.esm
+    Scale: 4.4
+    Placement:
+      Position: -60608.203, 72355.836, 6028.9136
+      Rotation: 0, -0, 6.0131855
+  - MutagenObjectType: PlacedObject
+    FormKey: 00093B:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Oaken Forge
+      Type: Landmark
+    Placement:
+      Position: -44888.363, 74338.24, 6813.733
+  - MutagenObjectType: PlacedObject
+    FormKey: 00093C:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Gladesong Arboretum
+      Type: Landmark
+    Placement:
+      Position: -39887.562, 84618.97, 10368.001
+  - MutagenObjectType: PlacedObject
+    FormKey: 000967:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Tuinh
+      Type: Landmark
+    Placement:
+      Position: -33004.75, 44372.844, 183.50977
+  - MutagenObjectType: PlacedObject
+    FormKey: 000968:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Windwrack Fort
+      Type: Fort
+    Placement:
+      Position: -47287.46, 28732.668, 1190.5802
+  - MutagenObjectType: PlacedObject
+    FormKey: 00096B:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Old Port Mornard
+      Type: Docks
+    Placement:
+      Position: -60267.92, 24941.957, 95.924805
+  - MutagenObjectType: PlacedObject
+    FormKey: 00096C:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Grove Of The Chimera
+    Placement:
+      Position: -58232.652, 40141.133, 1320.8027
+  - MutagenObjectType: PlacedObject
+    FormKey: 00096E:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Gonfalon Head Lighthouse
+      Type: Lighthouse
+    Placement:
+      Position: 256.55273, -96482.76, 1374.8643
+  - MutagenObjectType: PlacedObject
+    FormKey: 000970:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Yffre's Cauldron
+    Placement:
+      Position: -1381.9702, -83871.625, 913.8743
+      Rotation: 0, -0, 5.863185
+  - MutagenObjectType: PlacedObject
+    FormKey: 000985:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Yffre's Cauldron
+      Type: Landmark
+    Placement:
+      Position: -18666.914, -77968.734, 1981.4934
+      Rotation: 0, -0, -1.7999983
+  - MutagenObjectType: PlacedObject
+    FormKey: 000988:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Steadfast Manor
+      Type: Farm
+    Placement:
+      Position: -24726.266, -64317.832, 2496
+  - MutagenObjectType: PlacedObject
+    FormKey: 00098E:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: cave
+      Type: Cave
+    Placement:
+      Position: -35655.67, -65433.613, 1777.0182
+      Rotation: 0, -0, 1.83
+  - MutagenObjectType: PlacedObject
+    FormKey: 000992:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Steadfast Hammer And Saw
+      Type: WoodMill
+    Placement:
+      Position: -27897.613, -84082.11, 1810.4417
+  - MutagenObjectType: PlacedObject
+    FormKey: 000994:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Erlibru's Cottage
+      Type: Shack
+    Placement:
+      Position: -41876.758, -91163.055, 166.63528
+      Rotation: 0, -0, -0.9599986
+  - MutagenObjectType: PlacedObject
+    FormKey: 000996:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Spriggan's Crown
+      Type: Clearing
+    Placement:
+      Position: -32754.35, -99331.94, 1944.1333
+  - MutagenObjectType: PlacedObject
+    FormKey: 000997:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Breakwater Cave
+      Type: Cave
+    Placement:
+      Position: -29388.932, -100728.516, 0
+      Rotation: 0, -0, 5.743186
+  - MutagenObjectType: PlacedObject
+    FormKey: 000C1F:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 1.08
+    Placement:
+      Position: 31953.713, -11812.996, 4059.7595
+  - MutagenObjectType: PlacedObject
+    FormKey: 000DE3:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Windshriek Tower
+      Type: ImperialTower
+    Placement:
+      Position: 33154.2, -16803.23, 7106.8623
+      Rotation: 0, -0, 3.2531908
+  - MutagenObjectType: PlacedObject
+    FormKey: 001825:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 031897:Skyrim.esm
+    TeleportDestination:
+      Door: 001827:RWSystresIsles.esm
+      Position: -211.35867, 475.26056, 275.86975
+      Rotation: 0, 0, 3.0515926
+    Placement:
+      Position: 92982.44, -5007.3745, 3671.3877
+  - MutagenObjectType: PlacedObject
+    FormKey: 001D0D:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 04D77E:Skyrim.esm
+    Placement:
+      Position: 34565.57, -20089.098, 4914.7466
+      Rotation: 0, 0, 1.6755161
+  - MutagenObjectType: PlacedObject
+    FormKey: 001D35:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Systres Sisters Vault
+      Type: Landmark
+    Placement:
+      Position: 37742.332, -14941.3125, 3147.9453
+      Rotation: 0, -0, 5.143188
+  - MutagenObjectType: PlacedObject
+    FormKey: 001D64:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 3.8
+    Placement:
+      Position: 47574.23, -8184.525, 2468.094
+      Rotation: 0, -0, 5.563185
+  - MutagenObjectType: PlacedObject
+    FormKey: 00201B:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Colossus View Lighthouse
+      Type: Lighthouse
+    Placement:
+      Position: 19447.252, -93291.836, 691.19916
+  - MutagenObjectType: PlacedObject
+    FormKey: 00201C:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Abhain Chapel
+      Type: Shrine
+    Placement:
+      Position: 26930.316, -71343.84, 2472.0425
+      Rotation: 0, -0, 1.83
+  - MutagenObjectType: PlacedObject
+    FormKey: 002028:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Serpent's Bog
+      Type: Clearing
+    Placement:
+      Position: -11483.395, -53555.5, 2212.1565
+  - MutagenObjectType: PlacedObject
+    FormKey: 00203E:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Tor Draioch
+      Type: ImperialTower
+    Placement:
+      Position: 7992.5444, -53505.676, 1656
+  - MutagenObjectType: PlacedObject
+    FormKey: 00205F:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Twisted Grotto
+      Type: Cave
+    Placement:
+      Position: 20846.637, -47817.41, 321.91776
+      Rotation: 0, -0, 5.5931864
+  - MutagenObjectType: PlacedObject
+    FormKey: 002060:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Crimson Coin Docks
+      Type: Docks
+    Placement:
+      Position: 21667.516, -52636.836, 205.39279
+      Rotation: 0, -0, 5.2031865
+  - MutagenObjectType: PlacedObject
+    FormKey: 002063:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 3.04
+    Placement:
+      Position: 1766.7777, -45380.82, 1541.6503
+  - MutagenObjectType: PlacedObject
+    FormKey: 002064:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 2.85
+    Placement:
+      Position: 2981.098, -48266.875, 1541.6503
+  - MutagenObjectType: PlacedObject
+    FormKey: 002067:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 3.98
+    Placement:
+      Position: 5996.0327, -48779.562, 1541.6503
+  - MutagenObjectType: PlacedObject
+    FormKey: 002073:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Tor Draioch Cave
+    Placement:
+      Position: 1882.9722, -51070.566, 2502.33
+  - MutagenObjectType: PlacedObject
+    FormKey: 002075:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Feywatch Isle
+      Type: Clearing
+    Placement:
+      Position: 5851.3213, -39797.824, 1178.3948
+  - MutagenObjectType: PlacedObject
+    FormKey: 00207B:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Druidspring
+      Type: Clearing
+    Placement:
+      Position: 24827.404, -38326.844, 276.9668
+  - MutagenObjectType: PlacedObject
+    FormKey: 002084:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Dufort Shipyards
+      Type: Docks
+    Placement:
+      Position: 17250.436, -25832.371, 80
+  - MutagenObjectType: PlacedObject
+    FormKey: 002085:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Albatross Leap
+      Type: Landmark
+    Placement:
+      Position: -7501.1523, -31646.861, 5304.51
+  - MutagenObjectType: PlacedObject
+    FormKey: 002088:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Stonelore Forge
+      Type: Shack
+    Placement:
+      Position: -11985.149, -19223.307, 4451.4595
+  - MutagenObjectType: PlacedObject
+    FormKey: 00208A:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Faun Falls
+      Type: Clearing
+    Placement:
+      Position: -32790.637, -23652.873, 5192.001
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020AF:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Garick's Rest
+      Type: Fort
+    Placement:
+      Position: -22044.125, -3570.23, 7200
+      Rotation: 0, -0, 6.0731854
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020B5:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000C1E:RWSystresIsles.esm
+    Scale: 1.88
+    Placement:
+      Position: -25443.084, -6724.4507, 6902.7407
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020D8:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Stonefalls
+      Type: Clearing
+    Placement:
+      Position: -56833.246, -19285.387, 3295.6113
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020D9:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Jheury's Cove
+      Type: Docks
+    Placement:
+      Position: -67726.84, -22906.842, 863.13086
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020DA:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Stonelore Grove
+      Type: Settlement
+    Placement:
+      Position: -61455.055, -39031.22, 3013.2302
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020DB:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Darkstone Hollow
+      Type: Landmark
+    Placement:
+      Position: -51214.87, -50992.59, 3223.996
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020E7:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Castle Navire
+      Type: Fort
+    Placement:
+      Position: -69768.9, -65289.555, 2693.42
+  - MutagenObjectType: PlacedObject
+    FormKey: 0020E8:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Port Navire
+      Type: Docks
+    Placement:
+      Position: -76799.03, -66979.63, 663.07263
+  - MutagenObjectType: PlacedObject
+    FormKey: 002105:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Earthen Root Enclave
+      Type: Shack
+    Placement:
+      Position: -52486.01, -87395.05, 791.81445
+  - MutagenObjectType: PlacedObject
+    FormKey: 00210D:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Death's Valor Keep
+    Placement:
+      Position: -47135.34, 7409.101, 6128.8857
+      Rotation: 0, -0, 1.5600001
+  - MutagenObjectType: PlacedObject
+    FormKey: 002147:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Augury Monoliths
+      Type: Landmark
+    Placement:
+      Position: -33399.03, 1243.7789, 7363.4277
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C3F0:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 66560
+    SkyrimMajorRecordFlags:
+    - 0x400
+    - 0x10000
+    Base: 000FBD:RWSystresIsles.esm
+    Scale: 0.3
+    Placement:
+      Position: 7300.797, 65144.344, 9458.631
+      Rotation: 0, -0, 5.0231895
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C714:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Brokerock Mine
+      Type: Mine
+    Placement:
+      Position: 93595.73, 17450.568, 1058.5077
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C723:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Hidden Foundry Entrance West
+      Type: Cave
+    Placement:
+      Position: 30531.979, 3876.6426, 527.8013
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C724:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Hidden Foundry Entrance East
+      Type: Cave
+    Placement:
+      Position: 43644.777, 10212.18, 2804.2683
+      Rotation: 0, -0, 2.5500002
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C726:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Amenos Basin
+      Type: Landmark
+    Placement:
+      Position: 27254.334, -14012.598, 192.00049
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C769:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: The Bilge
+      Type: Fort
+    Placement:
+      Position: 52695.062, 41348.008, 2116.2468
+  - MutagenObjectType: PlacedObject
+    FormKey: 00C76C:RWSystresIsles.esm
+    MajorRecordFlagsRaw: 1024
+    SkyrimMajorRecordFlags:
+    - 0x400
+    Base: 000010:Skyrim.esm
+    MapMarker:
+      Name:
+        TargetLanguage: English
+        Value: Player Shipwreck
+      Type: Shipwreck
+    Placement:
+      Position: 45010.49, 54362.594, 391.68835
+      Rotation: 0, -0, 3.5400004
+  MajorFlags:
+  - Persistent
+  - 0x40000
+SubCellsUnknown: 16843009

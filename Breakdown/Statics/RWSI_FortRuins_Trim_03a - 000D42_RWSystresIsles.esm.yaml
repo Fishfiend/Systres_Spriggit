@@ -1,0 +1,10 @@
+FormKey: 000D42:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Trim_03a
+ObjectBounds:
+  First: -120, -16, -33
+  Second: 0, 16, 1
+Model:
+  File: RWSI\Dungeons\Fortruins\Trims\RWSI_FortRuins_Trim_03a.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

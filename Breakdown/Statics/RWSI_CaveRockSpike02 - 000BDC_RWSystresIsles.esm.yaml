@@ -1,0 +1,10 @@
+FormKey: 000BDC:RWSystresIsles.esm
+EditorID: RWSI_CaveRockSpike02
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockSpike02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Shard6:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

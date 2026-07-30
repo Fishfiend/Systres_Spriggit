@@ -1,0 +1,27 @@
+FormKey: 000AE8:RWSystresIsles.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: RWSI_BurialCairnStatic01Dirt
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -92, -150, -33
+  Second: 100, 144, 60
+Model:
+  File: Clutter\BurialCairn\BurialCairn01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: BurialCairn01:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+  - Name: BurialCairn01:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+  - Name: BurialCairn01:2
+    NewTexture: 000028:Skyrim.esm
+    Index: 3
+  - Name: L1
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000
+MajorFlags:
+- NavMeshGenerationBoundingBox

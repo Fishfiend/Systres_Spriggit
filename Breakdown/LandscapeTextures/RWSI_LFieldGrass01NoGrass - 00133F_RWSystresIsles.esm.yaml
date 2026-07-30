@@ -1,0 +1,7 @@
+FormKey: 00133F:RWSystresIsles.esm
+EditorID: RWSI_LFieldGrass01NoGrass
+TextureSet: 013427:Skyrim.esm
+MaterialType: 012F46:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Flags: []

@@ -1,0 +1,26 @@
+FormKey: 000FA7:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Stool_01F
+ObjectBounds:
+  First: -32, -17, -1
+  Second: 32, 73, 98
+Model:
+  File: RWSI\Dungeons\Fortruins\Furniture\RWSI_FortRuins_Stool_01.nif
+  Data: 0x020000000000000000000000
+PNAM: 0x00000000
+Flags:
+- 0x40000000
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Right
+    - Left
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Right
+    - Left

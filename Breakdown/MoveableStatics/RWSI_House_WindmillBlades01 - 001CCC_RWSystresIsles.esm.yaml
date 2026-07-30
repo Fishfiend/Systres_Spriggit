@@ -1,0 +1,16 @@
+FormKey: 001CCC:RWSystresIsles.esm
+MajorRecordFlagsRaw: 65536
+EditorID: RWSI_House_WindmillBlades01
+SkyrimMajorRecordFlags:
+- 0x10000
+ObjectBounds:
+  First: -54, -502, -504
+  Second: 83, 506, 504
+Model:
+  File: RWSI\Architecture\Houses\Buildings\RWSI_House_WindmillBlades01.nif
+  Data: 0x020000000000000000000000
+Flags:
+- OnLocalMap
+- 0x4
+MajorFlags:
+- RandomAnimStart

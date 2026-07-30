@@ -1,0 +1,13 @@
+FormKey: 000FEE:RWSystresIsles.esm
+EditorID: RWSI_Hammer1
+ObjectBounds:
+  First: -3, -1, 0
+  Second: 3, 1, 21
+Name:
+  TargetLanguage: English
+  Value: Hammer
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Hammer1.nif
+  Data: 0x020000000000000000000000
+Value: 1
+Weight: 1

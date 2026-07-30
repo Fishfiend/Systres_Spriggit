@@ -1,0 +1,10 @@
+FormKey: 04F0F8:RWSystresIsles.esm
+EditorID: RWSI_LSandWet
+TextureSet: 00006E:_ResourcePack.esl
+MaterialType: 012F34:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Grasses:
+- 04F0F9:RWSystresIsles.esm
+- 04F0FA:RWSystresIsles.esm
+Flags: []

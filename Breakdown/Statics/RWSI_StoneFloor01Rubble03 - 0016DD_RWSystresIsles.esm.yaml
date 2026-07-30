@@ -1,0 +1,10 @@
+FormKey: 0016DD:RWSystresIsles.esm
+EditorID: RWSI_StoneFloor01Rubble03
+ObjectBounds:
+  First: -20, -19, -1
+  Second: 18, 11, 2
+Model:
+  File: RWSI\Architecture\Houses\Modular\Floor\Stone\RWSI_StoneFloor01Rubble03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

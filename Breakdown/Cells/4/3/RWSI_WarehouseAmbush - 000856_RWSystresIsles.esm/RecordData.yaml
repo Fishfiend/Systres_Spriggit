@@ -1,0 +1,770 @@
+FormKey: 000856:RWSystresIsles.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RWSI_WarehouseAmbush
+SkyrimMajorRecordFlags:
+- Compressed
+Flags:
+- IsInteriorCell
+- HasWater
+Lighting:
+  AmbientColor: '#00000000'
+  DirectionalColor: '#00000000'
+  FogNearColor: '#00000000'
+  FogPower: 1
+  AmbientColors:
+    DirectionalXPlus: '#00FFFFFF'
+    DirectionalXMinus: '#00FFFFFF'
+    DirectionalYPlus: '#00FFFFFF'
+    DirectionalYMinus: '#00FFFFFF'
+    DirectionalZPlus: '#00FFFFFF'
+    DirectionalZMinus: '#00FFFFFF'
+    Specular: '#00000000'
+    Scale: 1
+  FogFarColor: '#00000000'
+  FogMax: 1
+  Inherits:
+  - AmbientColor
+  - DirectionalColor
+  - FogColor
+  - FogNear
+  - FogFar
+  - ClipDistance
+  - FogPower
+  - FogMax
+  - LightFadeDistances
+WaterHeight: 0
+NavigationMeshes:
+- FormKey: 00087F:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Data:
+    Parent:
+      MutagenObjectType: CellNavmeshParent
+      Parent: 000856:RWSystresIsles.esm
+    Vertices:
+    - 514.37103, -59.149963, -465.45963
+    - 500.1225, -446.89185, -466.46494
+    - 924.50146, -444.8462, -469.52908
+    - 941.4466, -40.981323, -471.99252
+    Triangles:
+    - Vertices: 0, 1, 2
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: 1
+      Flags:
+      - Found
+    - Vertices: 2, 3, 0
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      Flags:
+      - Found
+    NavmeshGridDivisor: 1
+    MaxDistanceX: 441.3241
+    MaxDistanceY: 405.91052
+    Min: 500.1225, -446.89185, -471.99252
+    Max: 941.4466, -40.981323, -465.45963
+    NavmeshGrid: 0x0200000000000100
+  MajorFlags:
+  - 0x40000
+- FormKey: 000880:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Data:
+    Parent:
+      MutagenObjectType: CellNavmeshParent
+      Parent: 000856:RWSystresIsles.esm
+    Vertices:
+    - -175.8258, -259.43982, 42.074158
+    - -195.86816, -1718.3976, 45.27014
+    - 1648, -1706, 43.815063
+    - 1669.0659, -507.7931, 39.78235
+    - 709.2989, -22.21877, 87.94067
+    - -142.93164, -99.99753, 41.826904
+    - 1684, -3716, 34.438232
+    - -190, -3760, 47.19751
+    Triangles:
+    - Vertices: 0, 1, 2
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: 4
+      EdgeLink_2_0: 1
+      Flags:
+      - Found
+    - Vertices: 2, 3, 0
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: 2
+      Flags:
+      - Found
+    - Vertices: 0, 3, 4
+      EdgeLink_0_1: 1
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: 3
+      Flags:
+      - Found
+    - Vertices: 4, 5, 0
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: 2
+      Flags:
+      - Found
+    - Vertices: 1, 6, 2
+      EdgeLink_0_1: 5
+      EdgeLink_1_2: -1
+      Flags:
+      - Found
+    - Vertices: 6, 1, 7
+      EdgeLink_0_1: 4
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: -1
+      Flags:
+      - Found
+    NavmeshGridDivisor: 1
+    MaxDistanceX: 1879.8682
+    MaxDistanceY: 3737.7812
+    Min: -195.86816, -3760, 34.438232
+    Max: 1684, -22.21877, 87.94067
+    NavmeshGrid: 0x06000000000001000200030004000500
+  MajorFlags:
+  - 0x40000
+- FormKey: 000881:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Data:
+    Parent:
+      MutagenObjectType: CellNavmeshParent
+      Parent: 000856:RWSystresIsles.esm
+    Vertices:
+    - 1458.5966, 225.73264, 339.27173
+    - 1207.878, 257.7452, 339.27173
+    - 1241.7135, -221.09576, 339.27173
+    - 1064.1871, -159.85265, 339.27173
+    Triangles:
+    - Vertices: 0, 1, 2
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: 1
+      EdgeLink_2_0: -1
+      Flags:
+      - Found
+    - Vertices: 1, 3, 2
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      Flags:
+      - Found
+    NavmeshGridDivisor: 1
+    MaxDistanceX: 394.40942
+    MaxDistanceY: 478.84097
+    Min: 1064.1871, -221.09576, 339.27173
+    Max: 1458.5966, 257.7452, 339.27173
+    NavmeshGrid: 0x0200000000000100
+  MajorFlags:
+  - 0x40000
+- FormKey: 00088C:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Data:
+    Parent:
+      MutagenObjectType: CellNavmeshParent
+      Parent: 000856:RWSystresIsles.esm
+    Vertices:
+    - 1157.9927, -229.51895, -470.252
+    - 1448.4558, -746.9874, -468.92242
+    - 1563.7494, -388.542, -473.11438
+    - 1023.02216, -614.06525, -468.14227
+    Triangles:
+    - Vertices: 0, 1, 2
+      EdgeLink_0_1: 1
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: -1
+      Flags:
+      - Found
+    - Vertices: 1, 0, 3
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: -1
+      Flags:
+      - Found
+    NavmeshGridDivisor: 1
+    MaxDistanceX: 540.72723
+    MaxDistanceY: 517.4685
+    Min: 1023.02216, -746.9874, -473.11438
+    Max: 1563.7494, -229.51895, -468.14227
+    NavmeshGrid: 0x0200000000000100
+  MajorFlags:
+  - 0x40000
+- FormKey: 0008A6:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Data:
+    Parent:
+      MutagenObjectType: CellNavmeshParent
+      Parent: 000856:RWSystresIsles.esm
+    Vertices:
+    - 706.5007, -2569.7822, -461.0511
+    - 362.16324, -2587.441, -474.5042
+    - 331.8574, -3037.8826, -472.3391
+    - 731.04346, -3024.7407, -462.34766
+    Triangles:
+    - Vertices: 0, 1, 2
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      EdgeLink_2_0: 1
+      Flags:
+      - Found
+    - Vertices: 2, 3, 0
+      EdgeLink_0_1: -1
+      EdgeLink_1_2: -1
+      Flags:
+      - Found
+    NavmeshGridDivisor: 1
+    MaxDistanceX: 399.18607
+    MaxDistanceY: 468.10034
+    Min: 331.8574, -3037.8826, -474.5042
+    Max: 731.04346, -2569.7822, -461.0511
+    NavmeshGrid: 0x0200000000000100
+  MajorFlags:
+  - 0x40000
+Persistent:
+- MutagenObjectType: PlacedObject
+  FormKey: 000868:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 03AC83:Skyrim.esm
+  Scale: 2.83
+  Placement:
+    Position: 672.1769, -758.19885, 84.60496
+- MutagenObjectType: PlacedObject
+  FormKey: 00086B:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 3072
+  SkyrimMajorRecordFlags:
+  - 0x400
+  - InitiallyDisabled
+  Base: 0FD0D1:Skyrim.esm
+  Scale: 1.09
+  Placement:
+    Position: 708.44006, -256.58102, 87.41245
+- MutagenObjectType: PlacedObject
+  FormKey: 00086C:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 048AC0:Skyrim.esm
+  Primitive:
+    Bounds: 373.0973, 88, 184.13986
+    Color: '#00CC4C33'
+    Unknown: 0.15
+    Type: Box
+  Placement:
+    Position: 584.6451, -1161.6545, 129.14684
+- MutagenObjectType: PlacedObject
+  FormKey: 000878:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 0FD0D1:Skyrim.esm
+  Scale: 0.89
+  Placement:
+    Position: 1082.7874, -149.34097, 69.84396
+    Rotation: 0, -0, 6.063186
+- MutagenObjectType: PlacedObject
+  FormKey: 00087C:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 712.5721, -244.86084, 47.17871
+    Rotation: 0, -0, 3.160003
+- MutagenObjectType: PlacedObject
+  FormKey: 00087E:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 712.5721, -244.86084, -60.18709
+    Rotation: 0, -0, 3.160003
+- MutagenObjectType: PlacedObject
+  FormKey: 000882:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 0B70F5:Skyrim.esm
+  Patrol:
+    IdleTime: 1
+    Topics:
+    - MutagenObjectType: TopicReference
+  Placement:
+    Position: 259.56168, -827.392, 30.937378
+    Rotation: 0, -0, 2.2800028
+- MutagenObjectType: PlacedObject
+  FormKey: 000888:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 1307.9701, -491.03516, -60.187088
+    Rotation: 0, -0, 3.6400032
+- MutagenObjectType: PlacedObject
+  FormKey: 000889:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 3072
+  SkyrimMajorRecordFlags:
+  - 0x400
+  - InitiallyDisabled
+  Base: 0FD0D1:Skyrim.esm
+  Scale: 1.09
+  Placement:
+    Position: 1298.8928, -499.52274, 87.41245
+    Rotation: 0, -0, 0.48000005
+- MutagenObjectType: PlacedObject
+  FormKey: 00088A:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 1307.9701, -491.03516, 47.17871
+    Rotation: 0, -0, 3.6400032
+- MutagenObjectType: PlacedObject
+  FormKey: 00089D:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 03AC83:Skyrim.esm
+  Scale: 2.83
+  Placement:
+    Position: 672, -3656, 84
+- MutagenObjectType: PlacedObject
+  FormKey: 0008A2:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 048AC0:Skyrim.esm
+  Primitive:
+    Bounds: 373.0973, 88, 184.13986
+    Color: '#00CC4C33'
+    Unknown: 0.15
+    Type: Box
+  Placement:
+    Position: 534.2517, -1877.1846, 130
+    Rotation: 0, -0, 3.1232028
+- MutagenObjectType: PlacedObject
+  FormKey: 0008A3:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 3072
+  SkyrimMajorRecordFlags:
+  - 0x400
+  - InitiallyDisabled
+  Base: 0FD0D1:Skyrim.esm
+  Scale: 1.09
+  Placement:
+    Position: 549.595, -2795.6028, 88
+    Rotation: 0, -0, 3.1232026
+- MutagenObjectType: PlacedObject
+  FormKey: 0008A4:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 545.81555, -2807.6733, 48
+    Rotation: 0, -0, -0.0009366884
+- MutagenObjectType: PlacedObject
+  FormKey: 0008A5:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 1024
+  SkyrimMajorRecordFlags:
+  - 0x400
+  Base: 000034:Skyrim.esm
+  Placement:
+    Position: 545.81555, -2807.6733, -76.68933
+    Rotation: 0, -0, -0.0009366884
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 000857:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement: {}
+- MutagenObjectType: PlacedObject
+  FormKey: 000858:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, 0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000859:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -512, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085A:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -512, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085B:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -512, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085C:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, 0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085D:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -512, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085E:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, 0, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00085F:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -1536, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000860:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -1536, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000861:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -1024, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000862:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -1024, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000863:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -1024, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000864:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -1536, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000865:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -1024, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000866:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -1536, 0
+- MutagenObjectType: PlacedNpc
+  FormKey: 000867:RWSystresIsles.esm
+  VirtualMachineAdapter:
+    Scripts:
+    - Name: OrnaugAmbushScript
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Splash
+        Object: 00086B:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker
+        Object: 00087E:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker2
+        Object: 00087C:RWSystresIsles.esm
+  Base: 000883:RWSystresIsles.esm
+  ActivateParents:
+    Parents:
+    - Reference: 00086C:RWSystresIsles.esm
+      Delay: 2
+  Placement:
+    Position: 711.9173, -241.21326, -459.24036
+    Rotation: 0, -0, 3.160003
+- MutagenObjectType: PlacedObject
+  FormKey: 000869:RWSystresIsles.esm
+  Base: 000032:Skyrim.esm
+  Placement:
+    Position: 631.22766, -1526.5806, 37.076904
+- MutagenObjectType: PlacedObject
+  FormKey: 00086A:RWSystresIsles.esm
+  MajorRecordFlagsRaw: 65536
+  SkyrimMajorRecordFlags:
+  - 0x10000
+  Base: 094E6B:Skyrim.esm
+  Radius: 737.22144
+  LightData:
+    FadeOffset: 1.6646852
+    ShadowDepthBias: 0.99
+  Placement:
+    Position: 332.98398, -397.45175, 483.73672
+    Rotation: -0.29359192, -1.0620897, 0.27825624
+- MutagenObjectType: PlacedObject
+  FormKey: 00086D:RWSystresIsles.esm
+  Base: 01C760:Skyrim.esm
+  Placement:
+    Position: 482.33154, 22.481659, -58.094635
+    Rotation: 0, -0, 4.348197
+- MutagenObjectType: PlacedObject
+  FormKey: 00086E:RWSystresIsles.esm
+  Base: 01C760:Skyrim.esm
+  Placement:
+    Position: 902.15295, 37.575947, -58.094635
+    Rotation: 0, -0, 4.678197
+- MutagenObjectType: PlacedObject
+  FormKey: 00086F:RWSystresIsles.esm
+  Base: 094E6E:Skyrim.esm
+  Radius: 287.86932
+  LightData:
+    FadeOffset: -3.5463367
+    ShadowDepthBias: 0.99
+  Placement:
+    Position: 668.3943, -518.3298, 207.92192
+    Rotation: -0.29359192, -1.0620897, 0.27825624
+- MutagenObjectType: PlacedObject
+  FormKey: 000870:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 1018.10187, 40.58651, 147.9495
+    Rotation: -1.4398911, 0.08573685, 6.043385
+- MutagenObjectType: PlacedObject
+  FormKey: 000871:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 961.6302, 61.711403, 436.74683
+    Rotation: -1.8228902, 0.022663439, 0.995875
+- MutagenObjectType: PlacedObject
+  FormKey: 000872:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 1045.3209, 45.842735, 732.4373
+    Rotation: -1.8228902, 0.022663439, 0.995875
+- MutagenObjectType: PlacedObject
+  FormKey: 000873:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 1260.4254, -42.195564, 711.49744
+    Rotation: -2.0928574, 0.24494557, 2.1536922
+- MutagenObjectType: PlacedObject
+  FormKey: 000874:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 1472.4552, -60.190525, 621.4216
+    Rotation: -2.0473547, 0.16012481, 1.6468918
+- MutagenObjectType: PlacedObject
+  FormKey: 000875:RWSystresIsles.esm
+  Base: 022505:Skyrim.esm
+  Placement:
+    Position: 1381.269, -155.88135, 235.08737
+    Rotation: -1.1500561, 0.39368787, 4.961958
+- MutagenObjectType: PlacedObject
+  FormKey: 000876:RWSystresIsles.esm
+  Base: 01C760:Skyrim.esm
+  Placement:
+    Position: 1529.8076, -289.48694, -58.094635
+    Rotation: 0, -0, 5.4831977
+- MutagenObjectType: PlacedObject
+  FormKey: 000877:RWSystresIsles.esm
+  Base: 02BCAB:Skyrim.esm
+  Placement:
+    Position: 1126.863, -110.28856, 288.26294
+    Rotation: 0, -0, 0.4050047
+- MutagenObjectType: PlacedObject
+  FormKey: 000879:RWSystresIsles.esm
+  Base: 0FB545:Skyrim.esm
+  Scale: 1.23
+  Placement:
+    Position: 1186.4261, -173.69032, 349.9041
+    Rotation: 0, -0, 0.3700051
+- MutagenObjectType: PlacedObject
+  FormKey: 00087A:RWSystresIsles.esm
+  Base: 071D05:Skyrim.esm
+  Scale: 0.81
+  Placement:
+    Position: 1260.9752, 33.47075, 342.92117
+    Rotation: -0.1753155, 0.18354537, 0.6676708
+- MutagenObjectType: PlacedObject
+  FormKey: 00087B:RWSystresIsles.esm
+  Base: 0F13C4:Skyrim.esm
+  Placement:
+    Position: 1227.4362, -81.12053, 404.90308
+    Rotation: -1.5207506, 0.4170952, 6.2323446
+- MutagenObjectType: PlacedObject
+  FormKey: 00087D:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 712.5721, -244.86084, -504.5255
+- MutagenObjectType: PlacedObject
+  FormKey: 000884:RWSystresIsles.esm
+  Base: 051544:Skyrim.esm
+  Placement:
+    Position: 1371.212, -1158.6049, 47.092304
+- MutagenObjectType: PlacedObject
+  FormKey: 000885:RWSystresIsles.esm
+  Base: 051544:Skyrim.esm
+  Placement:
+    Position: 266.54004, -1158.6049, 47.092304
+- MutagenObjectType: PlacedObject
+  FormKey: 000886:RWSystresIsles.esm
+  Base: 051544:Skyrim.esm
+  Placement:
+    Position: 836.0227, -1158.6049, 47.092304
+- MutagenObjectType: PlacedNpc
+  FormKey: 000887:RWSystresIsles.esm
+  VirtualMachineAdapter:
+    Scripts:
+    - Name: OrnaugAmbushScript
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Splash
+        Object: 000889:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker
+        Object: 000888:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker2
+        Object: 00088A:RWSystresIsles.esm
+  Base: 000883:RWSystresIsles.esm
+  ActivateParents:
+    Parents:
+    - Reference: 00086C:RWSystresIsles.esm
+      Delay: 1
+  Placement:
+    Position: 1309.0737, -487.49744, -459.24036
+    Rotation: 0, -0, 3.6400032
+- MutagenObjectType: PlacedObject
+  FormKey: 00088B:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1301.0479, -493.69016, -504.5255
+    Rotation: 0, -0, 0.29999995
+- MutagenObjectType: PlacedObject
+  FormKey: 00088D:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -2048, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00088E:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -3584, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00088F:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -2560, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000890:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -2560, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000891:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -2048, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000892:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -3072, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000893:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -3584, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000894:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -3584, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000895:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -3072, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000896:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -2048, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000897:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 0, -3584, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000898:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 512, -2560, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 000899:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -2560, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00089A:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -2048, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00089B:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1536, -3072, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00089C:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 1024, -3072, 0
+- MutagenObjectType: PlacedObject
+  FormKey: 00089E:RWSystresIsles.esm
+  Base: 051544:Skyrim.esm
+  Placement:
+    Position: 835.48267, -1862, 48
+- MutagenObjectType: PlacedObject
+  FormKey: 00089F:RWSystresIsles.esm
+  Base: 051544:Skyrim.esm
+  Placement:
+    Position: 266, -1862, 48
+- MutagenObjectType: PlacedObject
+  FormKey: 0008A0:RWSystresIsles.esm
+  Base: 01CDFB:Skyrim.esm
+  Placement:
+    Position: 545.81555, -2807.6733, -504
+    Rotation: 0, -0, 3.1232026
+- MutagenObjectType: PlacedNpc
+  FormKey: 0008A1:RWSystresIsles.esm
+  VirtualMachineAdapter:
+    Scripts:
+    - Name: HajMotaAmbushScript
+      Properties:
+      - MutagenObjectType: ScriptObjectProperty
+        Name: Splash
+        Object: 0008A3:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker
+        Object: 0008A5:RWSystresIsles.esm
+      - MutagenObjectType: ScriptObjectProperty
+        Name: XMarker2
+        Object: 0008A4:RWSystresIsles.esm
+  Base: 0008A7:RWSystresIsles.esm
+  ActivateParents:
+    Parents:
+    - Reference: 0008A2:RWSystresIsles.esm
+      Delay: 2
+  Placement:
+    Position: 546.88855, -2811.655, -458
+    Rotation: 0, -0, 6.282249
+MajorFlags:
+- 0x40000

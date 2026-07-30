@@ -1,0 +1,10 @@
+FormKey: 000CFA:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Floor_Ruined_06
+ObjectBounds:
+  First: -102, -96, -33
+  Second: 105, 103, 3
+Model:
+  File: RWSI\Dungeons\Fortruins\Floor\RWSI_FortRuins_Floor_Ruined_06.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

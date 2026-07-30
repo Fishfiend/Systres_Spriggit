@@ -1,0 +1,18 @@
+FormKey: 000AE5:RWSystresIsles.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: RWSI_RockCairn03
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -58, -98, -5
+  Second: 68, 89, 174
+Model:
+  File: Landscape\Rocks\Cairns\RockCairn03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockCairn03:1 - L1_Rocks:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000
+MajorFlags:
+- NavMeshGenerationBoundingBox

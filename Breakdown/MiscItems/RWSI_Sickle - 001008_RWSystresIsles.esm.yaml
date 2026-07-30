@@ -1,0 +1,13 @@
+FormKey: 001008:RWSystresIsles.esm
+EditorID: RWSI_Sickle
+ObjectBounds:
+  First: -29, -48, 0
+  Second: 12, 6, 5
+Name:
+  TargetLanguage: English
+  Value: Sickle
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Sickle.nif
+  Data: 0x020000000000000000000000
+Value: 2
+Weight: 2

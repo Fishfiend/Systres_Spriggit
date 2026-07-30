@@ -1,0 +1,14 @@
+FormKey: 000ADA:RWSystresIsles.esm
+EditorID: RWSI_TreeBranchPile01RainforestOak
+ObjectBounds:
+  First: -120, -125, -53
+  Second: 140, 145, 80
+Model:
+  File: Landscape\Trees\ReachBranchPile01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L1_ReachBranchPile01
+    NewTexture: 000A9C:RWSystresIsles.esm
+    Index: 2
+MaxAngle: 90
+Unused: 0x000000

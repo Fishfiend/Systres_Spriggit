@@ -1,0 +1,20 @@
+FormKey: 002003:RWSystresIsles.esm
+MajorRecordFlagsRaw: 4
+EditorID: RWSI_SkinCoralcrab04
+SkyrimMajorRecordFlags:
+- NotPlayable
+BodyTemplate:
+  FirstPersonFlags:
+  - Body
+  - Forearms
+  ArmorType: Clothing
+  ActsLike44: True
+Race: 0BA545:Skyrim.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armature:
+- 001DCE:RWSystresIsles.esm
+- 001FFC:RWSystresIsles.esm
+MajorFlags:
+- NonPlayable

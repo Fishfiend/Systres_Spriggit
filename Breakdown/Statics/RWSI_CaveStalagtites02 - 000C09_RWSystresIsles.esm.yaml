@@ -1,0 +1,13 @@
+FormKey: 000C09:RWSystresIsles.esm
+EditorID: RWSI_CaveStalagtites02
+ObjectBounds:
+  First: -82, -82, -18
+  Second: 82, 82, 249
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_Stalagtites02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Dripstone3:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

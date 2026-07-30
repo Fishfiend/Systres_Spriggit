@@ -1,0 +1,14 @@
+FormKey: 000ADE:RWSystresIsles.esm
+EditorID: RWSI_DruidStoneCircle01
+ObjectBounds:
+  First: -891, -608, -107
+  Second: 837, 491, 544
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling03ExtPylons01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: NorDwelling03ExtPylons01:26
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,14 @@
+FormKey: 000AB1:RWSystresIsles.esm
+EditorID: RWSI_TreeCutLog01B
+ObjectBounds:
+  First: -51, -216, -34
+  Second: 51, 216, 34
+Model:
+  File: Landscape\Trees\TreePineForestCutLog01B.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: TreePineForestCutLog01B:0 - L2_Stubbs:0
+    NewTexture: 000A9D:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

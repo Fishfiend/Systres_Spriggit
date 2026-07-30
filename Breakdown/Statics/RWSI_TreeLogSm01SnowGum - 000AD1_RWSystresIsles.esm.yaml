@@ -1,0 +1,14 @@
+FormKey: 000AD1:RWSystresIsles.esm
+EditorID: RWSI_TreeLogSm01SnowGum
+ObjectBounds:
+  First: -193, -267, -108
+  Second: 166, 193, 145
+Model:
+  File: Landscape\Trees\TreePineForestLogSm01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: TreePineForestLogSm01:0 - L2_Branches:0
+    NewTexture: 000AA9:RWSystresIsles.esm
+    Index: 7
+MaxAngle: 90
+Unused: 0x000000

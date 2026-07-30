@@ -1,0 +1,174 @@
+FormKey: 011B41:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 19, -12
+  Flags: 1638490368
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011E9C:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+    AlphaLayerData:
+    - Position: 238
+      Opacity: 0.047058824
+    - Position: 239
+      Opacity: 0.05490196
+    - Position: 240
+      Opacity: 0.05882353
+    - Position: 241
+      Opacity: 0.05490196
+    - Position: 242
+      Opacity: 0.050980393
+    - Position: 243
+      Opacity: 0.039215688
+    - Position: 244
+      Opacity: 0.023529412
+    - Position: 245
+      Opacity: 0.003921569
+    - Position: 255
+      Opacity: 0.10980392
+    - Position: 256
+      Opacity: 0.12156863
+    - Position: 257
+      Opacity: 0.1254902
+    - Position: 258
+      Opacity: 0.12156863
+    - Position: 259
+      Opacity: 0.11764706
+    - Position: 260
+      Opacity: 0.105882354
+    - Position: 261
+      Opacity: 0.09019608
+    - Position: 262
+      Opacity: 0.06666667
+    - Position: 263
+      Opacity: 0.043137256
+    - Position: 264
+      Opacity: 0.015686275
+    - Position: 271
+      Opacity: 0.02745098
+    - Position: 272
+      Opacity: 0.30588236
+    - Position: 273
+      Opacity: 0.3137255
+    - Position: 274
+      Opacity: 0.30980393
+    - Position: 275
+      Opacity: 0.28235295
+    - Position: 276
+      Opacity: 0.25490198
+    - Position: 277
+      Opacity: 0.2
+    - Position: 278
+      Opacity: 0.15294118
+    - Position: 279
+      Opacity: 0.12941177
+    - Position: 280
+      Opacity: 0.105882354
+    - Position: 281
+      Opacity: 0.07450981
+    - Position: 282
+      Opacity: 0.039215688
+    - Position: 286
+      Opacity: 0.015686275
+    - Position: 287
+      Opacity: 0.050980393
+    - Position: 288
+      Opacity: 0.08627451
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Position: 240
+      Opacity: 0.011764706
+    - Position: 241
+      Opacity: 0.03137255
+    - Position: 242
+      Opacity: 0.043137256
+    - Position: 243
+      Opacity: 0.05490196
+    - Position: 244
+      Opacity: 0.05882353
+    - Position: 245
+      Opacity: 0.05490196
+    - Position: 246
+      Opacity: 0.050980393
+    - Position: 247
+      Opacity: 0.043137256
+    - Position: 248
+      Opacity: 0.02745098
+    - Position: 249
+      Opacity: 0.007843138
+    - Position: 255
+      Opacity: 0.02745098
+    - Position: 256
+      Opacity: 0.05490196
+    - Position: 257
+      Opacity: 0.078431375
+    - Position: 258
+      Opacity: 0.09411765
+    - Position: 259
+      Opacity: 0.10980392
+    - Position: 260
+      Opacity: 0.11764706
+    - Position: 261
+      Opacity: 0.1254902
+    - Position: 262
+      Opacity: 0.12156863
+    - Position: 263
+      Opacity: 0.11764706
+    - Position: 264
+      Opacity: 0.105882354
+    - Position: 265
+      Opacity: 0.09019608
+    - Position: 266
+      Opacity: 0.07058824
+    - Position: 267
+      Opacity: 0.047058824
+    - Position: 268
+      Opacity: 0.019607844
+    - Position: 272
+      Opacity: 0.08627451
+    - Position: 273
+      Opacity: 0.11372549
+    - Position: 274
+      Opacity: 0.14117648
+    - Position: 275
+      Opacity: 0.16078432
+    - Position: 276
+      Opacity: 0.1764706
+    - Position: 277
+      Opacity: 0.18431373
+    - Position: 278
+      Opacity: 0.19215687
+    - Position: 279
+      Opacity: 0.1882353
+    - Position: 280
+      Opacity: 0.18431373
+    - Position: 281
+      Opacity: 0.17254902
+    - Position: 282
+      Opacity: 0.15686275
+    - Position: 283
+      Opacity: 0.13333334
+    - Position: 284
+      Opacity: 0.10980392
+    - Position: 285
+      Opacity: 0.078431375
+    - Position: 286
+      Opacity: 0.043137256
+    - Position: 287
+      Opacity: 0.007843138

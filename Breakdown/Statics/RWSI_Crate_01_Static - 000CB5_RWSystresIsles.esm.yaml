@@ -1,0 +1,10 @@
+FormKey: 000CB5:RWSystresIsles.esm
+EditorID: RWSI_Crate_01_Static
+ObjectBounds:
+  First: -30, -30, -2
+  Second: 30, 30, 60
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Crate_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

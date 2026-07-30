@@ -1,0 +1,13 @@
+FormKey: 000AA3:RWSystresIsles.esm
+EditorID: RWSI_CoastDriftWood02RainforestOak
+ObjectBounds:
+  First: -25, -113, -17
+  Second: 199, 40, 80
+Model:
+  File: Landscape\Trees\CoastDriftWood02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CoastDriftWood02:0
+    NewTexture: 000A9C:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

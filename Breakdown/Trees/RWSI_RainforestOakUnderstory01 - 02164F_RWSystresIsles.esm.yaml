@@ -1,0 +1,13 @@
+FormKey: 02164F:RWSystresIsles.esm
+EditorID: RWSI_RainforestOakUnderstory01
+ObjectBounds:
+  First: -610, -506, -16
+  Second: 540, 608, 1411
+Model:
+  File: RWSI\Landscape\Trees\Rainforest\RWSI_RainforestOakUnderstory01.nif
+  Data: 0x020000000000000000000000
+Production: {}
+BranchFlexibility: 1
+Unknown: 0x0000000090C2F53C0BD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

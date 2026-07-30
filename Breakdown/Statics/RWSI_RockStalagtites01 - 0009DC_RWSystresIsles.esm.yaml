@@ -1,0 +1,10 @@
+FormKey: 0009DC:RWSystresIsles.esm
+EditorID: RWSI_RockStalagtites01
+ObjectBounds:
+  First: -96, -96, -13
+  Second: 97, 97, 160
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_Stalagtites01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,31 @@
+FormKey: 001D81:RWSystresIsles.esm
+EditorID: RWSI_Bench01
+ObjectBounds:
+  First: -89, -73, 0
+  Second: 92, 16, 98
+Name:
+  TargetLanguage: English
+  Value: Bench
+Model:
+  File: RWSI\Clutter\Furniture\Chairs\RWSI_Bench01.nif
+  Data: 0x020000000000000000000000
+PNAM: 0x00000000
+Flags:
+- 0x40000000
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Behind
+- Enabled: True
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Behind

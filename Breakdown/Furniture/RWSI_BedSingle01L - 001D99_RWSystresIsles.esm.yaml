@@ -1,0 +1,33 @@
+FormKey: 001D99:RWSystresIsles.esm
+MajorRecordFlagsRaw: 268435456
+EditorID: RWSI_BedSingle01L
+SkyrimMajorRecordFlags:
+- 0x10000000
+Name:
+  TargetLanguage: English
+  Value: Bed
+Model:
+  File: RWSI\Clutter\Furniture\Beds\RWSI_BedSingle01.nif
+  Data: 0x020000000000000000000000
+Keywords:
+- 0FD0E1:Skyrim.esm
+PNAM: 0x00000000
+Flags:
+- MustExitToTalk
+- 0x80000000
+InteractionKeyword: 013794:Skyrim.esm
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Right
+  EntryPoints:
+    Type:
+    - Lay
+    Points:
+    - Right
+    - Left
+MajorFlags:
+- MustExitToTalk

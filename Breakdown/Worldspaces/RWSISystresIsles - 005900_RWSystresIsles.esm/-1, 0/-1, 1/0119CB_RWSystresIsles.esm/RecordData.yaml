@@ -1,0 +1,106 @@
+FormKey: 0119CB:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -6, 8
+  Flags: 1638593536
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D26:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header: {}
+    AlphaLayerData:
+    - Position: 4
+      Opacity: 0.011764706
+    - Position: 5
+      Opacity: 0.019607844
+    - Position: 6
+      Opacity: 0.03137255
+    - Position: 7
+      Opacity: 0.05490196
+    - Position: 8
+      Opacity: 0.09411765
+    - Position: 9
+      Opacity: 0.14117648
+    - Position: 10
+      Opacity: 0.13333334
+    - Position: 11
+      Opacity: 0.105882354
+    - Position: 12
+      Opacity: 0.02745098
+    - Position: 21
+      Opacity: 0.02745098
+    - Position: 22
+      Opacity: 0.050980393
+    - Position: 23
+      Opacity: 0.0627451
+    - Position: 24
+      Opacity: 0.09019608
+    - Position: 25
+      Opacity: 0.11372549
+    - Position: 26
+      Opacity: 0.15294118
+    - Position: 27
+      Opacity: 0.16078432
+    - Position: 28
+      Opacity: 0.12156863
+    - Position: 29
+      Opacity: 0.047058824
+    - Position: 37
+      Opacity: 0.007843138
+    - Position: 38
+      Opacity: 0.05490196
+    - Position: 39
+      Opacity: 0.09019608
+    - Position: 40
+      Opacity: 0.07058824
+    - Position: 41
+      Opacity: 0.0627451
+    - Position: 42
+      Opacity: 0.0627451
+    - Position: 43
+      Opacity: 0.078431375
+    - Position: 44
+      Opacity: 0.105882354
+    - Position: 45
+      Opacity: 0.050980393
+    - Position: 56
+      Opacity: 0.007843138
+    - Position: 60
+      Opacity: 0.003921569
+    - Position: 61
+      Opacity: 0.02745098
+    - Position: 62
+      Opacity: 0.003921569
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535

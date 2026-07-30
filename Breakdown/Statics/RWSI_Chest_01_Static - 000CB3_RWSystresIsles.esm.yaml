@@ -1,0 +1,10 @@
+FormKey: 000CB3:RWSystresIsles.esm
+EditorID: RWSI_Chest_01_Static
+ObjectBounds:
+  First: -50, -26, 0
+  Second: 50, 26, 61
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Chest_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

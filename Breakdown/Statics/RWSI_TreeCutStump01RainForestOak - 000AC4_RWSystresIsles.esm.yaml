@@ -1,0 +1,14 @@
+FormKey: 000AC4:RWSystresIsles.esm
+EditorID: RWSI_TreeCutStump01RainForestOak
+ObjectBounds:
+  First: -256, -251, -66
+  Second: 244, 233, 135
+Model:
+  File: Landscape\Trees\TreePineForestCutStump01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: TreePineForestCutStump01:0
+    NewTexture: 000A9C:RWSystresIsles.esm
+    Index: 2
+MaxAngle: 90
+Unused: 0x000000

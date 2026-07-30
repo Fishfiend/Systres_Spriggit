@@ -1,0 +1,10 @@
+FormKey: 000CEC:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Tower_Square_Ruined_03
+ObjectBounds:
+  First: -410, -410, -1
+  Second: 412, 441, 2047
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\RWSI_FortRuins_Tower_Square_Ruined_03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

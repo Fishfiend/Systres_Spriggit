@@ -1,0 +1,10 @@
+FormKey: 001743:RWSystresIsles.esm
+EditorID: RWSI_WallTriangle2_RightWood
+ObjectBounds:
+  First: -10, -44, -11
+  Second: 241, 15, 240
+Model:
+  File: RWSI\Architecture\Houses\Modular\Walls\Wall_Triangular\RWSI_WallTriangle2_RightWood.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

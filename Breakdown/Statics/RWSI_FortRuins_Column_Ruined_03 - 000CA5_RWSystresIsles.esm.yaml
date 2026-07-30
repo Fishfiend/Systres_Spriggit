@@ -1,0 +1,10 @@
+FormKey: 000CA5:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Column_Ruined_03
+ObjectBounds:
+  First: -43, -43, 0
+  Second: 43, 43, 266
+Model:
+  File: RWSI\Dungeons\Fortruins\Columns\RWSI_FortRuins_Column_Ruined_03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

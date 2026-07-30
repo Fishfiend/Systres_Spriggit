@@ -1,0 +1,10 @@
+FormKey: 001031:RWSystresIsles.esm
+EditorID: RWSI_Wall1_SingleHalf
+ObjectBounds:
+  First: 0, -7, 0
+  Second: 120, 0, 240
+Model:
+  File: RWSI\Architecture\Houses\Modular\Walls\Walls1\RWSI_Wall1_SingleHalf.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,13 @@
+FormKey: 000ADD:RWSystresIsles.esm
+EditorID: RWSI_DruidHenge01
+ObjectBounds:
+  First: -63, -224, 511
+  Second: 63, 224, 860
+Model:
+  File: Dungeons\Nordic\Exterior\Walls\NorExtWallBgHenge01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: NorExtWallBg1HPatch01:26
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

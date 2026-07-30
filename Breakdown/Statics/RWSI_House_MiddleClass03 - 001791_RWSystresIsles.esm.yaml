@@ -1,0 +1,10 @@
+FormKey: 001791:RWSystresIsles.esm
+EditorID: RWSI_House_MiddleClass03
+ObjectBounds:
+  First: -422, -461, -5
+  Second: 454, 415, 810
+Model:
+  File: RWSI\Architecture\Houses\Buildings\RWSI_House_MiddleClass03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

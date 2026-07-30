@@ -1,0 +1,12 @@
+FormKey: 000FBD:RWSystresIsles.esm
+MajorRecordFlagsRaw: 4
+EditorID: RWSI_VolcanoPlume
+SkyrimMajorRecordFlags:
+- NotPlayable
+Model:
+  File: RWSI\Effects\VolcanoPlume.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000
+MajorFlags:
+- NeverFades

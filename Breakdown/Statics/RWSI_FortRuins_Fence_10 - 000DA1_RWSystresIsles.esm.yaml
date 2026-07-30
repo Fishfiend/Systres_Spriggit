@@ -1,0 +1,10 @@
+FormKey: 000DA1:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Fence_10
+ObjectBounds:
+  First: -60, -5, 0
+  Second: 59, 6, 69
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Fence_10.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

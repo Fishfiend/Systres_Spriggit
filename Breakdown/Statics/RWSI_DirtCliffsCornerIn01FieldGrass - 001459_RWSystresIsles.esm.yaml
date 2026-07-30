@@ -1,0 +1,14 @@
+FormKey: 001459:RWSystresIsles.esm
+EditorID: RWSI_DirtCliffsCornerIn01FieldGrass
+ObjectBounds:
+  First: -918, -650, -238
+  Second: 1211, 1033, 198
+Model:
+  File: Landscape\DirtCliffs\DirtCliffsCornerIn01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DirtCliffsCornerIn01:1
+    NewTexture: 013427:Skyrim.esm
+    Index: 4
+MaxAngle: 90
+Unused: 0x000000

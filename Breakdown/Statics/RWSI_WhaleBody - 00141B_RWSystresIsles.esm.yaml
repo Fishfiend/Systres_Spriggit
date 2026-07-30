@@ -1,0 +1,13 @@
+FormKey: 00141B:RWSystresIsles.esm
+EditorID: RWSI_WhaleBody
+ObjectBounds:
+  First: -585, -1865, -1802
+  Second: 818, 2554, 543
+Model:
+  File: Architecture\Sovengarde\SOVWhaleBridgeBody01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: Line09
+    NewTexture: 000028:Skyrim.esm
+MaxAngle: 90
+Unused: 0x000000

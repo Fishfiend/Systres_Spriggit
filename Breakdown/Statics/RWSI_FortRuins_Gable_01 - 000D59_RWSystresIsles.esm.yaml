@@ -1,0 +1,10 @@
+FormKey: 000D59:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Gable_01
+ObjectBounds:
+  First: -252, -15, 0
+  Second: 252, 15, 312
+Model:
+  File: RWSI\Dungeons\Fortruins\Walls\Gables\RWSI_FortRuins_Gable_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

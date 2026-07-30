@@ -1,0 +1,27 @@
+FormKey: 000A04:RWSystresIsles.esm
+EditorID: RWSI_LitemBirdRareItems
+ChanceNone: 0.95
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 00000F:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00000F:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00000F:Skyrim.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00000F:Skyrim.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 068525:Skyrim.esm
+    Count: 1

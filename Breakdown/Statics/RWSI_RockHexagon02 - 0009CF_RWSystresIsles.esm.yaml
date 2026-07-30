@@ -1,0 +1,10 @@
+FormKey: 0009CF:RWSystresIsles.esm
+EditorID: RWSI_RockHexagon02
+ObjectBounds:
+  First: -554, -673, -132
+  Second: 554, 673, 1332
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockHexagon02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

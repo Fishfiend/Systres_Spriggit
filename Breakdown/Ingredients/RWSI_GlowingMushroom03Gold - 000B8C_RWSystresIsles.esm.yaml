@@ -1,0 +1,31 @@
+FormKey: 000B8C:RWSystresIsles.esm
+EditorID: RWSI_GlowingMushroom03Gold
+Name:
+  TargetLanguage: English
+  Value: Gold Entoloma
+Keywords:
+- 08CDEB:Skyrim.esm
+Model:
+  File: RWSI\Ingredients\GlowingMushroom03Gold..nif
+  Data: 0x020000000000000000000000
+PickUpSound: 0BAD13:Skyrim.esm
+PutDownSound: 0519D1:Skyrim.esm
+Value: 3
+Weight: 0.1
+IngredientValue: 149
+Effects:
+- BaseEffect: 073F23:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 60
+- BaseEffect: 03EB01:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 60
+- BaseEffect: 03EB16:Skyrim.esm
+  Data:
+    Magnitude: 1
+- BaseEffect: 090041:Skyrim.esm
+  Data:
+    Magnitude: 50
+    Duration: 30

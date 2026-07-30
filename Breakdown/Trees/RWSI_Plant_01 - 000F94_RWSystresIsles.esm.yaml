@@ -1,0 +1,14 @@
+FormKey: 000F94:RWSystresIsles.esm
+EditorID: RWSI_Plant_01
+ObjectBounds:
+  First: -57, -63, -1
+  Second: 63, 58, 74
+Model:
+  File: RWSI\Landscape\Plants\RWSI_Plant_01.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x8FC2F53C9A99193FCDCC4C3ECDCCCC3E9A99993DCDCCCC3C295C0F3D0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

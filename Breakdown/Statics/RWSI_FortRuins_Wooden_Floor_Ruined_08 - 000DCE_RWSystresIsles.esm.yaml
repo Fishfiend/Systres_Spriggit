@@ -1,0 +1,10 @@
+FormKey: 000DCE:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Floor_Ruined_08
+ObjectBounds:
+  First: -191, -240, -20
+  Second: 177, 240, 10
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Wooden_Floor_Ruined_08.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

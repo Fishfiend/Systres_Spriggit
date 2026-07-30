@@ -1,0 +1,16 @@
+FormKey: 000AF7:RWSystresIsles.esm
+EditorID: RWSI_RockCliff08Dirt
+ObjectBounds:
+  First: -441, -1039, -165
+  Second: 738, 924, 465
+Model:
+  File: Landscape\Rocks\RockCliff08.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockCliff08:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+  - Name: RockCliff08:1 - L1_RockCliff08:1 - L2_RockCliff08:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 3
+MaxAngle: 90
+Unused: 0x000000

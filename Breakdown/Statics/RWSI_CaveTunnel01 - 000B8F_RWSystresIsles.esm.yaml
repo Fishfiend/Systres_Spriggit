@@ -1,0 +1,13 @@
+FormKey: 000B8F:RWSystresIsles.esm
+EditorID: RWSI_CaveTunnel01
+ObjectBounds:
+  First: -1310, -737, -297
+  Second: 1299, 736, 900
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_CaveTunnel01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Tunnel1_Material1
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,19 @@
+FormKey: 000E64:RWSystresIsles.esm
+EditorID: RWSI_FloraAzaleaBush_01
+ObjectBounds:
+  First: -77, -76, -7
+  Second: 77, 81, 40
+Model:
+  File: RWSI\Landscape\Plants\Azalea\RWSI_AzaleaBush_01.nif
+  Data: 0x020000000000000000000000
+Ingredient: 000F50:RWSystresIsles.esm
+HarvestSound: 0519D5:Skyrim.esm
+Production: {}
+Name:
+  TargetLanguage: English
+  Value: Azalea Bush
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0BD7233D90C2F53C0BD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 3
+LeafFrequency: 0.5

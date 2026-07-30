@@ -1,0 +1,13 @@
+FormKey: 011950:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -22, -1
+  Flags: 2009855744
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011CA9:RWSystresIsles.esm
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10

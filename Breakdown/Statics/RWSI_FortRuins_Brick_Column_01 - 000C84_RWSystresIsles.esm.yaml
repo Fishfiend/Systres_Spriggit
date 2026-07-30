@@ -1,0 +1,10 @@
+FormKey: 000C84:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Brick_Column_01
+ObjectBounds:
+  First: -46, -47, 0
+  Second: 46, 47, 361
+Model:
+  File: RWSI\Dungeons\Fortruins\Columns\RWSI_FortRuins_Brick_Column_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

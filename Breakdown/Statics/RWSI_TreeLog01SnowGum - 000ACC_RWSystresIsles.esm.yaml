@@ -1,0 +1,17 @@
+FormKey: 000ACC:RWSystresIsles.esm
+EditorID: RWSI_TreeLog01SnowGum
+ObjectBounds:
+  First: -156, -395, -138
+  Second: 174, 366, 117
+Model:
+  File: Landscape\Trees\TreeAspenLog01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L1_Branches
+    NewTexture: 000028:Skyrim.esm
+    Index: 2
+  - Name: TreeAspenLog01:0
+    NewTexture: 000AA9:RWSystresIsles.esm
+    Index: 3
+MaxAngle: 90
+Unused: 0x000000

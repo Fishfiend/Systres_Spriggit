@@ -1,0 +1,107 @@
+FormKey: 011A14:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 1, 7
+  Flags: 1638365952
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D6F:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: BottomRight
+    AlphaLayerData:
+    - Position: 25
+      Opacity: 0.011764706
+    - Position: 26
+      Opacity: 0.08627451
+    - Position: 27
+      Opacity: 0.13333334
+    - Position: 28
+      Opacity: 0.14901961
+    - Position: 29
+      Opacity: 0.10980392
+    - Position: 30
+      Opacity: 0.08235294
+    - Position: 42
+      Opacity: 0.07450981
+    - Position: 43
+      Opacity: 0.17254902
+    - Position: 44
+      Opacity: 0.22745098
+    - Position: 45
+      Opacity: 0.23137255
+    - Position: 46
+      Opacity: 0.2
+    - Position: 47
+      Opacity: 0.17254902
+    - Position: 48
+      Opacity: 0.09019608
+    - Position: 49
+      Opacity: 0.023529412
+    - Position: 59
+      Opacity: 0.023529412
+    - Position: 60
+      Opacity: 0.14117648
+    - Position: 61
+      Opacity: 0.2
+    - Position: 62
+      Opacity: 0.21960784
+    - Position: 63
+      Opacity: 0.19215687
+    - Position: 64
+      Opacity: 0.15686275
+    - Position: 65
+      Opacity: 0.06666667
+    - Position: 66
+      Opacity: 0.003921569
+    - Position: 77
+      Opacity: 0.03137255
+    - Position: 78
+      Opacity: 0.13333334
+    - Position: 79
+      Opacity: 0.15294118
+    - Position: 80
+      Opacity: 0.1254902
+    - Position: 81
+      Opacity: 0.105882354
+    - Position: 82
+      Opacity: 0.047058824
+    - Position: 95
+      Opacity: 0.015686275
+    - Position: 96
+      Opacity: 0.08235294
+    - Position: 97
+      Opacity: 0.043137256
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535

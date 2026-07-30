@@ -1,0 +1,10 @@
+FormKey: 00102A:RWSystresIsles.esm
+EditorID: RWSI_Barrel_02Open
+ObjectBounds:
+  First: -30, -30, 0
+  Second: 30, 30, 80
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Barrel_02Open.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

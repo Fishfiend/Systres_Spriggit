@@ -1,0 +1,19 @@
+FormKey: 001F1C:RWSystresIsles.esm
+EditorID: RWSI_RockShelf01SandWavy
+ObjectBounds:
+  First: -393, -519, -36
+  Second: 333, 583, 18
+Model:
+  File: Landscape\Rocks\RockShelf01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockShelf01:3 - L2_RockShelf01:3
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+  - Name: RockShelf01:9
+    NewTexture: 00006D:_ResourcePack.esl
+    Index: 1
+  - Name: RockShelf01:0
+    NewTexture: 00006D:_ResourcePack.esl
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 001FF8:RWSystresIsles.esm
+EditorID: RWSI_LooseRope01
+ObjectBounds:
+  First: -50, -41, -1
+  Second: 52, 37, 3
+Model:
+  File: RWSI\Clutter\Misc\RWSI_LooseRope01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 0016E5:RWSystresIsles.esm
+EditorID: RWSI_WindowTest
+ObjectBounds:
+  First: -30, -2, 0
+  Second: 30, -2, 60
+Model:
+  File: RWSI\Architecture\WindowTest.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

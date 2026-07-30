@@ -1,0 +1,11 @@
+FormKey: 000A00:RWSystresIsles.esm
+EditorID: RWSI_LGround01RockGrass
+TextureSet: 0009F4:RWSystresIsles.esm
+MaterialType: 012F38:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Grasses:
+- 0009FD:RWSystresIsles.esm
+- 0009FE:RWSystresIsles.esm
+- 0009FF:RWSystresIsles.esm
+Flags: []

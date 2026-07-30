@@ -1,0 +1,10 @@
+FormKey: 00101C:RWSystresIsles.esm
+EditorID: RWSI_BookStand
+ObjectBounds:
+  First: -25, -26, 0
+  Second: 28, 26, 100
+Model:
+  File: RWSI\Clutter\Furniture\RWSI_BookStand.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

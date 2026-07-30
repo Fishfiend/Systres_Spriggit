@@ -1,0 +1,20 @@
+FormKey: 000C12:RWSystresIsles.esm
+EditorID: RWSI_RockMountainTrim02Grass
+ObjectBounds:
+  First: -744, -1126, -88
+  Second: 787, 1126, 241
+Model:
+  File: Landscape\Mountains\MountainTrim02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MountainTrim02:4
+    NewTexture: 000805:RWSystresIsles.esm
+    Index: 2
+  - Name: MountainTrim_Rocks:0 - L1_MountainTrimRocks:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 3
+  - Name: MountainTrim_Rocks
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 80
+Unused: 0x000000

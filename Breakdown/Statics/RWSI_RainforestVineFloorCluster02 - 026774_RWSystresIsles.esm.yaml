@@ -1,0 +1,10 @@
+FormKey: 026774:RWSystresIsles.esm
+EditorID: RWSI_RainforestVineFloorCluster02
+ObjectBounds:
+  First: -559, -259, -15
+  Second: 788, 299, 15
+Model:
+  File: RWSI\Landscape\Vines\RWSI_rainforestvinefloorCluster02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

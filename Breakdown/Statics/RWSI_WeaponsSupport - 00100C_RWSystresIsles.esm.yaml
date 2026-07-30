@@ -1,0 +1,10 @@
+FormKey: 00100C:RWSystresIsles.esm
+EditorID: RWSI_WeaponsSupport
+ObjectBounds:
+  First: -57, -33, 0
+  Second: 58, 33, 134
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_WeaponsSupport.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

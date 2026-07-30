@@ -1,0 +1,13 @@
+FormKey: 000BD6:RWSystresIsles.esm
+EditorID: RWSI_CaveRockShelf03
+ObjectBounds:
+  First: -2029, -1056, -413
+  Second: 2031, 1060, 414
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockShelf03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cliff_Rock_5:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

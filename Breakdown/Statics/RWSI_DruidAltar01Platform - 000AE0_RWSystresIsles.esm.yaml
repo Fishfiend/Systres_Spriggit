@@ -1,0 +1,13 @@
+FormKey: 000AE0:RWSystresIsles.esm
+EditorID: RWSI_DruidAltar01Platform
+ObjectBounds:
+  First: -412, -238, 0
+  Second: 412, 238, 221
+Model:
+  File: DLC01\Clutter\dlc01mothgladeplatform01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MothGladePlatform01:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,14 @@
+FormKey: 000B98:RWSystresIsles.esm
+EditorID: RWSI_CaveCliff05
+Model:
+  File: Landscape\Rocks\RockCliff05.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockCliff05:1
+    NewTexture: 000B8D:RWSystresIsles.esm
+    Index: 1
+  - Name: RockCliff05:8
+    NewTexture: 000B8E:RWSystresIsles.esm
+    Index: 2
+MaxAngle: 90
+Unused: 0x000000

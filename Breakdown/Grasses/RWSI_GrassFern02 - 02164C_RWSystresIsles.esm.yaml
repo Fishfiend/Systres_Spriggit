@@ -1,0 +1,17 @@
+FormKey: 02164C:RWSystresIsles.esm
+EditorID: RWSI_GrassFern02
+Model:
+  File: Landscape\Grass\RWSI_FernGrass02.nif
+  Data: 0x020000000000000000000000
+Density: 6
+MaxSlope: 50
+Unknown: 205
+Unknown2: 52685
+PositionRange: 30
+HeightRange: 0.33
+ColorRange: 0.2
+WavePeriod: 240
+Flags:
+- UniformScaling
+- FitToSlope
+Unknown3: 0xCDCDCD

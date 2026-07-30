@@ -1,0 +1,7 @@
+FormKey: 000B5B:RWSystresIsles.esm
+EditorID: RWSI_DirtMound05
+Model:
+  File: Dungeons\Caves\Green\DirtMound\CaveGDirtMound05.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

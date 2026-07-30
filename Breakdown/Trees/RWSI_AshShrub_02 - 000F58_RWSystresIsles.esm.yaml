@@ -1,0 +1,14 @@
+FormKey: 000F58:RWSystresIsles.esm
+EditorID: RWSI_AshShrub_02
+ObjectBounds:
+  First: -110, -117, -29
+  Second: 138, 115, 183
+Model:
+  File: RWSI\Landscape\Plants\Ash\RWSI_AshShrub_02.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x8FC2F53C9A99193FCDCC4C3ECDCCCC3E9A99993DCDCCCC3C295C0F3D0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

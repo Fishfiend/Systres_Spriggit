@@ -1,0 +1,22 @@
+FormKey: 000808:RWSystresIsles.esm
+EditorID: RWSI_ISWeatherCoastClearDay
+Hdr:
+  EyeAdaptSpeed: 10
+  BloomBlurRadius: 7
+  BloomThreshold: 0.1
+  BloomScale: 0.5
+  ReceiveBloomThreshold: 0.467
+  White: 100
+  SunlightScale: 2.617
+  EyeAdaptStrength: 1
+Cinematic:
+  Saturation: 1
+  Brightness: 1.869
+  Contrast: 1.12
+Tint:
+  Color: '#00FFD5AA'
+DepthOfField:
+  Strength: 0.5
+  Distance: 10000
+  Range: 100000
+  BlurRadius: 2

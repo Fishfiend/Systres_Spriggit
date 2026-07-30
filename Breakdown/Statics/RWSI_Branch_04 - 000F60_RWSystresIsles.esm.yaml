@@ -1,0 +1,10 @@
+FormKey: 000F60:RWSystresIsles.esm
+EditorID: RWSI_Branch_04
+ObjectBounds:
+  First: -83, -68, -18
+  Second: 57, 71, 18
+Model:
+  File: RWSI\Landscape\Plants\Ash\RWSI_Branch_04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 001015:RWSystresIsles.esm
+EditorID: RWSI_HayMound01
+ObjectBounds:
+  First: -135, -98, -11
+  Second: 123, 93, 56
+Model:
+  File: RWSI\Clutter\Hay\RWSI_HayMound01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

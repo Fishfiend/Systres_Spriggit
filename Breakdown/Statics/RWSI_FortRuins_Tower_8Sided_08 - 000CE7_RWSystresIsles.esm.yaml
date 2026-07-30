@@ -1,0 +1,10 @@
+FormKey: 000CE7:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Tower_8Sided_08
+ObjectBounds:
+  First: -447, -2424, -478
+  Second: 447, 899, 4251
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\RWSI_FortRuins_Tower_8Sided_08.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

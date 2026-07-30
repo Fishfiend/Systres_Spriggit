@@ -1,0 +1,10 @@
+FormKey: 000C6A:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Brazier_01
+ObjectBounds:
+  First: -23, -23, 0
+  Second: 23, 23, 57
+Model:
+  File: RWSI\Dungeons\Fortruins\Clutter\RWSI_FortRuins_Brazier_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

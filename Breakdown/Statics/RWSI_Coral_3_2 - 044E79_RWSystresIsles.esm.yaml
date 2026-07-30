@@ -1,0 +1,10 @@
+FormKey: 044E79:RWSystresIsles.esm
+EditorID: RWSI_Coral_3_2
+ObjectBounds:
+  First: -28, -2, 0
+  Second: 25, 2, 38
+Model:
+  File: RWSI\Landscape\Sea\Coral\RWSI_Coral_3_2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

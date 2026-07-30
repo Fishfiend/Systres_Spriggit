@@ -1,0 +1,10 @@
+FormKey: 000CDD:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Fortress_Wall_Preset_Ruined_05
+ObjectBounds:
+  First: -2, -211, 0
+  Second: 491, 211, 833
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\RWSI_FortRuins_Fortress_Wall_Preset_Ruined_05.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

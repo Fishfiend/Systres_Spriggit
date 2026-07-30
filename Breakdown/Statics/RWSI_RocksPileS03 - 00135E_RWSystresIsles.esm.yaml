@@ -1,0 +1,13 @@
+FormKey: 00135E:RWSystresIsles.esm
+EditorID: RWSI_RocksPileS03
+ObjectBounds:
+  First: -126, -99, -35
+  Second: 116, 87, 46
+Model:
+  File: _ResourcePack\Landscape\Rocks\DesertRocksPileS03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DesertRocksPileS03:2
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

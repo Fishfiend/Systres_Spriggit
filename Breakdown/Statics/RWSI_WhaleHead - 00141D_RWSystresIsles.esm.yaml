@@ -1,0 +1,10 @@
+FormKey: 00141D:RWSystresIsles.esm
+EditorID: RWSI_WhaleHead
+ObjectBounds:
+  First: -869, -1078, -370
+  Second: 1225, 462, 492
+Model:
+  File: Architecture\Sovengarde\SOVWhaleBrigeHead01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

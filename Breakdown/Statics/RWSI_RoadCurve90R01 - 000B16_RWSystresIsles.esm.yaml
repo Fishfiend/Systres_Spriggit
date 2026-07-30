@@ -1,0 +1,14 @@
+FormKey: 000B16:RWSystresIsles.esm
+EditorID: RWSI_RoadCurve90R01
+ObjectBounds:
+  First: -535, -646, -42
+  Second: 516, 743, 10
+Model:
+  File: Landscape\Roads\RoadCurve90R01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RoadCurve90R01:2
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

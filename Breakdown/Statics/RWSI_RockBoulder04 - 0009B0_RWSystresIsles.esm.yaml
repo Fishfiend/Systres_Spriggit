@@ -1,0 +1,10 @@
+FormKey: 0009B0:RWSystresIsles.esm
+EditorID: RWSI_RockBoulder04
+ObjectBounds:
+  First: -179, -169, -102
+  Second: 171, 174, 109
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockBoulder04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

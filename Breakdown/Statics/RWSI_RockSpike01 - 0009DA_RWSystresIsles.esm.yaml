@@ -1,0 +1,10 @@
+FormKey: 0009DA:RWSystresIsles.esm
+EditorID: RWSI_RockSpike01
+ObjectBounds:
+  First: -94, -83, -77
+  Second: 93, 84, 433
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockSpike01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

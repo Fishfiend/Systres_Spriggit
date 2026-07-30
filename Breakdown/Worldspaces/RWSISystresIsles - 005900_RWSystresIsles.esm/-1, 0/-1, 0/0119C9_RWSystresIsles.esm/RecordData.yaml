@@ -1,0 +1,109 @@
+FormKey: 0119C9:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -6, 4
+  Flags: 1638584832
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D24:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopLeft
+    AlphaLayerData:
+    - Position: 134
+      Opacity: 0.019607844
+    - Position: 135
+      Opacity: 0.05490196
+    - Position: 150
+      Opacity: 0.003921569
+    - Position: 151
+      Opacity: 0.043137256
+    - Position: 152
+      Opacity: 0.09411765
+    - Position: 160
+      Opacity: 0.003921569
+    - Position: 167
+      Opacity: 0.003921569
+    - Position: 168
+      Opacity: 0.050980393
+    - Position: 169
+      Opacity: 0.09411765
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Position: 119
+      Opacity: 0.05490196
+    - Position: 136
+      Opacity: 0.09411765
+    - Position: 137
+      Opacity: 0.09019608
+    - Position: 138
+      Opacity: 0.047058824
+    - Position: 139
+      Opacity: 0.02745098
+    - Position: 140
+      Opacity: 0.011764706
+    - Position: 153
+      Opacity: 0.09411765
+    - Position: 154
+      Opacity: 0.14509805
+    - Position: 155
+      Opacity: 0.105882354
+    - Position: 156
+      Opacity: 0.08235294
+    - Position: 157
+      Opacity: 0.09019608
+    - Position: 158
+      Opacity: 0.09019608
+    - Position: 159
+      Opacity: 0.03529412
+    - Position: 171
+      Opacity: 0.03529412
+    - Position: 172
+      Opacity: 0.08235294
+    - Position: 173
+      Opacity: 0.08235294
+    - Position: 174
+      Opacity: 0.09411765
+    - Position: 175
+      Opacity: 0.08235294
+    - Position: 176
+      Opacity: 0.07058824
+    - Position: 177
+      Opacity: 0.050980393
+    - Position: 190
+      Opacity: 0.019607844

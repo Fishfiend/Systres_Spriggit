@@ -1,0 +1,10 @@
+FormKey: 000CE3:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Fortress_Wall_Stair_Preset_03
+ObjectBounds:
+  First: -1100, -804, -14
+  Second: 501, 221, 833
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\RWSI_FortRuins_Fortress_Wall_Stair_Preset_03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

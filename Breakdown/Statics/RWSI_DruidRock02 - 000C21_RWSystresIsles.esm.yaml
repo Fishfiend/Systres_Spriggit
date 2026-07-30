@@ -1,0 +1,13 @@
+FormKey: 000C21:RWSystresIsles.esm
+EditorID: RWSI_DruidRock02
+ObjectBounds:
+  First: -25, -30, 0
+  Second: 25, 30, 138
+Model:
+  File: DLC01\Clutter\dlc01mothgladeboulder02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC01MothgladeBoulder02:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

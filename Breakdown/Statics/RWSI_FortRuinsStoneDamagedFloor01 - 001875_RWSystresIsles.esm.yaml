@@ -1,0 +1,13 @@
+FormKey: 001875:RWSystresIsles.esm
+EditorID: RWSI_FortRuinsStoneDamagedFloor01
+ObjectBounds:
+  First: -256, -256, 22
+  Second: 256, 256, 51
+Model:
+  File: Dungeons\Caves\Green\LargeWall\CaveGFloor01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CaveGFloor01:3
+    NewTexture: 001877:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

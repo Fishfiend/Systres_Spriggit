@@ -1,0 +1,14 @@
+FormKey: 000B11:RWSystresIsles.esm
+EditorID: RWSI_RoadChunkM04
+ObjectBounds:
+  First: -175, -134, -20
+  Second: 175, 130, 20
+Model:
+  File: Landscape\Roads\RoadChunkM04.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RoadChunkM04:2
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 000DBB:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Beam_01
+ObjectBounds:
+  First: -120, -15, -14
+  Second: 120, 17, 13
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Wooden_Beam_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

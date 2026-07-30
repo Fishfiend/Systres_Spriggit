@@ -1,0 +1,10 @@
+FormKey: 000AAA:RWSystresIsles.esm
+EditorID: RWSI_CoastDriftWood02SnowGum
+Model:
+  File: Landscape\Trees\CoastDriftWood02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CoastDriftWood02:0
+    NewTexture: 000AA9:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

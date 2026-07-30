@@ -1,0 +1,10 @@
+FormKey: 001D1F:RWSystresIsles.esm
+EditorID: RWSI_House_LowerClass01
+ObjectBounds:
+  First: -246, -468, 0
+  Second: 390, 296, 553
+Model:
+  File: RWSI\Architecture\Houses\Buildings\RWSI_House_LowerClass01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

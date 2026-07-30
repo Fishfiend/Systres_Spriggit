@@ -1,0 +1,13 @@
+FormKey: 000A3A:RWSystresIsles.esm
+EditorID: RWSI_RockPileM01Dirt
+Model:
+  File: Landscape\Rocks\RockPileM01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileM01:1 - L2_RockPileM01:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+  - Name: RockPileM01:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

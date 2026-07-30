@@ -1,0 +1,13 @@
+FormKey: 00134C:RWSystresIsles.esm
+EditorID: RWSI_Rock01
+ObjectBounds:
+  First: -35, -27, -25
+  Second: 35, 27, 25
+Model:
+  File: _ResourcePack\Landscape\Rocks\DesertRock01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DesertRock01:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

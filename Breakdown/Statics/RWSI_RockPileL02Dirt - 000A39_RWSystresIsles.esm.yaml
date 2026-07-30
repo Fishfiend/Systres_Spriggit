@@ -1,0 +1,16 @@
+FormKey: 000A39:RWSystresIsles.esm
+EditorID: RWSI_RockPileL02Dirt
+ObjectBounds:
+  First: -465, -415, -83
+  Second: 445, 491, 90
+Model:
+  File: Landscape\Rocks\RockPileL02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileL02:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+  - Name: RockPileL02:1 - L2_RockPileL02:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+MaxAngle: 90
+Unused: 0x000000

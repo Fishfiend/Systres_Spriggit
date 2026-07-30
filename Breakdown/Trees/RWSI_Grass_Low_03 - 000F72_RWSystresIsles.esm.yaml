@@ -1,0 +1,14 @@
+FormKey: 000F72:RWSystresIsles.esm
+EditorID: RWSI_Grass_Low_03
+ObjectBounds:
+  First: -74, -56, 0
+  Second: 80, 64, 42
+Model:
+  File: RWSI\Landscape\Plants\RWSI_Grass_Low_03.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0BD7233D90C2F53C0BD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

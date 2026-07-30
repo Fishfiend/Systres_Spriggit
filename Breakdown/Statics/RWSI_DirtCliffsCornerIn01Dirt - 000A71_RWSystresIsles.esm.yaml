@@ -1,0 +1,14 @@
+FormKey: 000A71:RWSystresIsles.esm
+EditorID: RWSI_DirtCliffsCornerIn01Dirt
+ObjectBounds:
+  First: -918, -650, -238
+  Second: 1211, 1033, 198
+Model:
+  File: Landscape\DirtCliffs\DirtCliffsCornerIn01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DirtCliffsCornerIn01:1
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 4
+MaxAngle: 90
+Unused: 0x000000

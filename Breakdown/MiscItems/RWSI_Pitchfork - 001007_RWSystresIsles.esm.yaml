@@ -1,0 +1,13 @@
+FormKey: 001007:RWSystresIsles.esm
+EditorID: RWSI_Pitchfork
+ObjectBounds:
+  First: -9, -5, -7
+  Second: 9, 3, 92
+Name:
+  TargetLanguage: English
+  Value: Pitchfork
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Pitchfork.nif
+  Data: 0x020000000000000000000000
+Value: 3
+Weight: 5

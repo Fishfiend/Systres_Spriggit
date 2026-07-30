@@ -1,0 +1,68 @@
+FormKey: 000E01:RWSystresIsles.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: RWSI_TreasChestGeneric01
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -50, -26, 0
+  Second: 50, 26, 61
+Name:
+  TargetLanguage: English
+  Value: Chest
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Chest_01.nif
+  Data: 0x020000000000000000000000
+Items:
+- Item:
+    Item: 000E60:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 037C2B:Skyrim.esm
+    Count: 10
+- Item:
+    Item: 03A5A6:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 068835:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 068838:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 06883A:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 08777D:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 08777E:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 087780:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 08FFF4:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0A44CD:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 0AA02C:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 0C2966:Skyrim.esm
+    Count: 2
+- Item:
+    Item: 0FFF52:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 10B2C0:Skyrim.esm
+    Count: 1
+- Item:
+    Item: 10FD8B:Skyrim.esm
+    Count: 1
+Flags:
+- Respawns
+CloseSound: 03C8EA:Skyrim.esm
+MajorFlags:
+- NavMeshGenerationBoundingBox

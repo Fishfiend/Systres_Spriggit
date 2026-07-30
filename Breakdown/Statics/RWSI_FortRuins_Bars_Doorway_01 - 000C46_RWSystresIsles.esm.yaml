@@ -1,0 +1,10 @@
+FormKey: 000C46:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Bars_Doorway_01
+ObjectBounds:
+  First: -79, -3, 0
+  Second: 82, 3, 251
+Model:
+  File: RWSI\Dungeons\Fortruins\Bars\RWSI_FortRuins_Bars_Doorway_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,23 @@
+FormKey: 000A09:RWSystresIsles.esm
+MajorRecordFlagsRaw: 65536
+EditorID: RWSI_FXCreekFlatLong01Dirt
+SkyrimMajorRecordFlags:
+- 0x10000
+ObjectBounds:
+  First: -344, -1177, -53
+  Second: 335, 135, 89
+Model:
+  File: Effects\FXCreekFlatLong01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: creekBedLong01:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+  - Name: Object04
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+Flags:
+- OnLocalMap
+- 0x4
+LoopingSound: 03D0A7:Skyrim.esm
+MajorFlags:
+- RandomAnimStart

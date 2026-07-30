@@ -1,0 +1,13 @@
+FormKey: 000ADF:RWSystresIsles.esm
+EditorID: RWSI_DruidAltar01
+ObjectBounds:
+  First: -35, -93, 0
+  Second: 35, 93, 153
+Model:
+  File: DLC01\Clutter\dlc01mothgladeboulder05.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC01Donut:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

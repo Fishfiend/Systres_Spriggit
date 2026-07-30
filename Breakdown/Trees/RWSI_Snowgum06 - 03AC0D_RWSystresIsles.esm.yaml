@@ -1,0 +1,13 @@
+FormKey: 03AC0D:RWSystresIsles.esm
+EditorID: RWSI_Snowgum06
+ObjectBounds:
+  First: -124, -133, -10
+  Second: 245, 156, 402
+Model:
+  File: RWSI\Landscape\Trees\Snowgum\RWSI_Snowgum06.nif
+  Data: 0x020000000000000000000000
+Production: {}
+BranchFlexibility: 1.5
+Unknown: 0x00000000EC51383D90C2753D61E5503D0000403F0000403F9A99193F0000803F
+LeafAmplitude: 4
+LeafFrequency: 0.75

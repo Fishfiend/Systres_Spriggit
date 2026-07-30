@@ -1,0 +1,10 @@
+FormKey: 0009EA:RWSystresIsles.esm
+EditorID: RWSI_SoilSlope04
+ObjectBounds:
+  First: -1183, -1467, -167
+  Second: 1182, 301, 634
+Model:
+  File: RWSI\Landscape\Soil\RWSI_SoilSlope04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

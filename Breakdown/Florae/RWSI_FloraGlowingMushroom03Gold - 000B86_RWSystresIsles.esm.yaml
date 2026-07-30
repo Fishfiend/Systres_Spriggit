@@ -1,0 +1,36 @@
+FormKey: 000B86:RWSystresIsles.esm
+EditorID: RWSI_FloraGlowingMushroom03Gold
+ObjectBounds:
+  First: -99, -66, 0
+  Second: 84, 72, 33
+Name:
+  TargetLanguage: English
+  Value: Gold Entoloma
+Model:
+  File: RWSI\Landscape\Plants\Mushrooms\FloraGlowingMushroom03Gold.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: FloraMushroom04:6
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+  - Name: FloraMushroom04:9
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+  - Name: FloraMushroom04_1:6
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 4
+  - Name: FloraMushroom04_1:9
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 5
+PNAM: 0x00000000
+ActivateTextOverride:
+  TargetLanguage: English
+  Value: Harvest
+FNAM: 0x0000
+Ingredient: 000B8C:RWSystresIsles.esm
+HarvestSound: 0BAD13:Skyrim.esm
+Production:
+  Spring: 100
+  Summer: 100
+  Fall: 100
+  Winter: 100

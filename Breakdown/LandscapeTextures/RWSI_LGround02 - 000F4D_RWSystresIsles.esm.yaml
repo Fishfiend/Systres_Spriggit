@@ -1,0 +1,7 @@
+FormKey: 000F4D:RWSystresIsles.esm
+EditorID: RWSI_LGround02
+TextureSet: 101F89:Skyrim.esm
+MaterialType: 012F38:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Flags: []

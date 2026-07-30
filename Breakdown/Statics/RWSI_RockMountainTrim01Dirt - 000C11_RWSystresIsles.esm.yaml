@@ -1,0 +1,22 @@
+FormKey: 000C11:RWSystresIsles.esm
+EditorID: RWSI_RockMountainTrim01Dirt
+ObjectBounds:
+  First: -916, -1118, -144
+  Second: 916, 1118, 205
+Model:
+  File: Landscape\Mountains\MountainTrim01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MountainTrim01:4
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 2
+  - Name: MountainTrim01_Rocks:0 - L2_Rocks:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 3
+  - Name: MountainTrim01_Rocks
+    NewTexture: 000A0B:RWSystresIsles.esm
+  - Name: RockSkirt
+    NewTexture: 000AE1:Skyrim.esm
+    Index: 1
+MaxAngle: 80
+Unused: 0x000000

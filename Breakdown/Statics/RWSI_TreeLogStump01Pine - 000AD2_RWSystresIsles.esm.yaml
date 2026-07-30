@@ -1,0 +1,17 @@
+FormKey: 000AD2:RWSystresIsles.esm
+EditorID: RWSI_TreeLogStump01Pine
+ObjectBounds:
+  First: -191, -151, -72
+  Second: 165, 189, 208
+Model:
+  File: Landscape\Trees\TreeAspenStump01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L2_Branches
+    NewTexture: 000028:Skyrim.esm
+    Index: 2
+  - Name: TreeAspenStump01:0
+    NewTexture: 000A9B:RWSystresIsles.esm
+    Index: 3
+MaxAngle: 90
+Unused: 0x000000

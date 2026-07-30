@@ -1,0 +1,10 @@
+FormKey: 000FC7:RWSystresIsles.esm
+EditorID: RWSI_Cart1_2Broken
+ObjectBounds:
+  First: -121, -217, -3
+  Second: 166, 147, 79
+Model:
+  File: RWSI\Clutter\Carts\RWSI_Cart1_2Broken.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

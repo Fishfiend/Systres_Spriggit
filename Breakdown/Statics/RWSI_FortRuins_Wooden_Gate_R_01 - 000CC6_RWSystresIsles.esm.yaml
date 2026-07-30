@@ -1,0 +1,10 @@
+FormKey: 000CC6:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Gate_R_01
+ObjectBounds:
+  First: -5, -5, -179
+  Second: 152, 13, 158
+Model:
+  File: RWSI\Dungeons\Fortruins\Doors\RWSI_FortRuins_Wooden_Gate_R_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

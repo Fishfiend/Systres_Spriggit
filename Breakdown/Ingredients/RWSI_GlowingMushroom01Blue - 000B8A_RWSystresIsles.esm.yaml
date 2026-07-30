@@ -1,0 +1,30 @@
+FormKey: 000B8A:RWSystresIsles.esm
+EditorID: RWSI_GlowingMushroom01Blue
+Name:
+  TargetLanguage: English
+  Value: Blue Entoloma
+Keywords:
+- 08CDEB:Skyrim.esm
+Model:
+  File: RWSI\Ingredients\GlowingMushroom01Blue.nif
+  Data: 0x020000000000000000000000
+PickUpSound: 0BAD13:Skyrim.esm
+PutDownSound: 0519D1:Skyrim.esm
+Value: 3
+Weight: 0.1
+IngredientValue: 137
+Effects:
+- BaseEffect: 073F27:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 60
+- BaseEffect: 073F20:Skyrim.esm
+  Data:
+    Magnitude: 2
+    Duration: 60
+- BaseEffect: 03EB15:Skyrim.esm
+  Data:
+    Magnitude: 1
+- BaseEffect: 03EB3D:Skyrim.esm
+  Data:
+    Duration: 5

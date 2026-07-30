@@ -1,0 +1,10 @@
+FormKey: 000C49:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Bridge_8m_Extension_01
+ObjectBounds:
+  First: -245, -253, 0
+  Second: 245, 253, 724
+Model:
+  File: RWSI\Dungeons\Fortruins\Bridges\RWSI_FortRuins_Bridge_8m_Extension_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

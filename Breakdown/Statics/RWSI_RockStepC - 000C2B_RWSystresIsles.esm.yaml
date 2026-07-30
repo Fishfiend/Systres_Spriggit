@@ -1,0 +1,13 @@
+FormKey: 000C2B:RWSystresIsles.esm
+EditorID: RWSI_RockStepC
+ObjectBounds:
+  First: -67, -71, -24
+  Second: 67, 71, 24
+Model:
+  File: Architecture\HighHrothgar\HHStepC.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: HHStepC:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

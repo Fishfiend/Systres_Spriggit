@@ -1,0 +1,14 @@
+FormKey: 000DC0:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Door_01_L
+ObjectBounds:
+  First: -1, -13, 0
+  Second: 60, 3, 243
+Model:
+  File: RWSI\Dungeons\Fortruins\Doors\RWSI_FortRuins_Wooden_Door_01_L.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: LDoor:50
+    NewTexture: 000028:Skyrim.esm
+    Index: 3
+MaxAngle: 90
+Unused: 0x000000

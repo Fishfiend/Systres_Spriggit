@@ -1,0 +1,10 @@
+FormKey: 0016ED:RWSystresIsles.esm
+EditorID: RWSI_WoodenFence_Short
+ObjectBounds:
+  First: -7, -8, 0
+  Second: 72, 7, 79
+Model:
+  File: RWSI\Architecture\Houses\Modular\Fences\RWSI_WoodenFence_Short.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

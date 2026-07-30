@@ -1,0 +1,10 @@
+FormKey: 000C37:RWSystresIsles.esm
+EditorID: RWSICastleTestArch
+ObjectBounds:
+  First: -200, -34, -1
+  Second: 200, 34, 600
+Model:
+  File: RWSI\Dungeons\CastleRuins\Walls\Arches\SM_Archway_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

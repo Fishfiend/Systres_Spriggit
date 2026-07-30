@@ -1,0 +1,10 @@
+FormKey: 000D47:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Trim_Curved_02
+ObjectBounds:
+  First: -293, -1, -33
+  Second: 292, 351, 2
+Model:
+  File: RWSI\Dungeons\Fortruins\Trims\RWSI_FortRuins_Trim_Curved_02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 000D48:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Roots_01
+ObjectBounds:
+  First: -211, -7, -5
+  Second: 149, 556, 107
+Model:
+  File: RWSI\Dungeons\Fortruins\Vegetation\RWSI_FortRuins_Roots_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

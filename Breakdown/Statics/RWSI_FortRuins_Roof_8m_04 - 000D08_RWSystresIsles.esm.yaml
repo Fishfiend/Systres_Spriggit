@@ -1,0 +1,10 @@
+FormKey: 000D08:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Roof_8m_04
+ObjectBounds:
+  First: -268, -120, -25
+  Second: 0, 120, 315
+Model:
+  File: RWSI\Dungeons\Fortruins\Roof\RWSI_FortRuins_Roof_8m_04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

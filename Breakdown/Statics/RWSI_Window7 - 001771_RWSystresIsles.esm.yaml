@@ -1,0 +1,10 @@
+FormKey: 001771:RWSystresIsles.esm
+EditorID: RWSI_Window7
+ObjectBounds:
+  First: -37, -16, -36
+  Second: 37, 11, 55
+Model:
+  File: RWSI\Architecture\Houses\Modular\Windows\RWSI_Window7.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

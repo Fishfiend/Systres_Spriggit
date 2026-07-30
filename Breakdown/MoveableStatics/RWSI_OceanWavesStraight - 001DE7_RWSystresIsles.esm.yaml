@@ -1,0 +1,10 @@
+FormKey: 001DE7:RWSystresIsles.esm
+EditorID: RWSI_OceanWavesStraight
+ObjectBounds:
+  First: -4878, -231, 0
+  Second: 1207, 1031, 986
+Model:
+  File: RWSI\Water\RWSI_OceanWavesStraight.nif
+  Data: 0x020000000000000000000000
+Flags:
+- OnLocalMap

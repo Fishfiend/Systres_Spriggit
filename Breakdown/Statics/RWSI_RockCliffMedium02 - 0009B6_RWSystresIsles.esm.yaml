@@ -1,0 +1,20 @@
+FormKey: 0009B6:RWSystresIsles.esm
+MajorRecordFlagsRaw: 32768
+EditorID: RWSI_RockCliffMedium02
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -2532, -633, -163
+  Second: 2531, 631, 1188
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockCliffMedium02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000
+Lod:
+  Level0: RWSI\LOD\Landscape\Rocks\RWSI_RockCliffMedium02_LOD.nif
+  Level1: RWSI\LOD\Landscape\Rocks\RWSI_RockCliffMedium02_LOD.nif
+  Level2: RWSI\LOD\Landscape\Rocks\RWSI_RockCliffMedium02_LOD.nif
+  Level3: ''
+MajorFlags:
+- HasDistantLOD

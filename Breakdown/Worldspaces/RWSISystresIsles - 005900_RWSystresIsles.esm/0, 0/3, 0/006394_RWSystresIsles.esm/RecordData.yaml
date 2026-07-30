@@ -1,0 +1,89 @@
+FormKey: 006394:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 24, 6
+  Flags: 1638429184
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 0118A2:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Position: 169
+      Opacity: 0.10980392
+    - Position: 186
+      Opacity: 0.21176471
+    - Position: 202
+      Opacity: 0.11764706
+    - Position: 203
+      Opacity: 0.3254902
+    - Position: 219
+      Opacity: 0.25882354
+    - Position: 220
+      Opacity: 0.45490196
+    - Position: 235
+      Opacity: 0.14509805
+    - Position: 236
+      Opacity: 0.40784314
+    - Position: 237
+      Opacity: 0.60784316
+    - Position: 251
+      Opacity: 0.09411765
+    - Position: 252
+      Opacity: 0.31764707
+    - Position: 253
+      Opacity: 0.5529412
+    - Position: 254
+      Opacity: 0.7176471
+    - Position: 268
+      Opacity: 0.23137255
+    - Position: 269
+      Opacity: 0.44313726
+    - Position: 270
+      Opacity: 0.6627451
+    - Position: 271
+      Opacity: 0.827451
+    - Position: 284
+      Opacity: 0.09411765
+    - Position: 285
+      Opacity: 0.38039216
+    - Position: 286
+      Opacity: 0.58431375
+    - Position: 287
+      Opacity: 0.78431374
+    - Position: 288
+      Opacity: 0.9254902

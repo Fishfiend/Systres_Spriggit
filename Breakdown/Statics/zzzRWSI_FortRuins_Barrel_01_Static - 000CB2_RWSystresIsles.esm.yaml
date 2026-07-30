@@ -1,0 +1,10 @@
+FormKey: 000CB2:RWSystresIsles.esm
+EditorID: zzzRWSI_FortRuins_Barrel_01_Static
+ObjectBounds:
+  First: -26, -26, 0
+  Second: 26, 26, 66
+Model:
+  File: RWSI\Clutter\Containers\RWSI_Barrel_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

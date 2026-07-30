@@ -1,0 +1,10 @@
+FormKey: 001735:RWSystresIsles.esm
+EditorID: RWSI_StoneBase_Piece2
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
+Model:
+  File: RWSI\Architecture\Houses\Modular\Stone Base\RWSI_StoneBase_Piece2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 001D7A:RWSystresIsles.esm
+EditorID: RWSI_Bucket02
+ObjectBounds:
+  First: -16, -14, 0
+  Second: 16, 14, 25
+Model:
+  File: RWSI\Clutter\Misc\RWSI_Bucket02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

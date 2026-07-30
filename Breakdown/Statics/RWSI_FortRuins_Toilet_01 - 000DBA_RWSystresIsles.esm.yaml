@@ -1,0 +1,10 @@
+FormKey: 000DBA:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Toilet_01
+ObjectBounds:
+  First: -99, -103, -162
+  Second: 96, 14, 210
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Toilet_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

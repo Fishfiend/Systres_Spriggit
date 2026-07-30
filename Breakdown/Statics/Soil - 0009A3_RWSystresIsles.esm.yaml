@@ -1,0 +1,7 @@
+FormKey: 0009A3:RWSystresIsles.esm
+EditorID: Soil
+Model:
+  File: RWSI\Landscape\Soil
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

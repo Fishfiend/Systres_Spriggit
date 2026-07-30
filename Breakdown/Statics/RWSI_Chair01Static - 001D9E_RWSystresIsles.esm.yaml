@@ -1,0 +1,10 @@
+FormKey: 001D9E:RWSystresIsles.esm
+EditorID: RWSI_Chair01Static
+ObjectBounds:
+  First: -20, -15, 0
+  Second: 19, 21, 65
+Model:
+  File: RWSI\Clutter\Furniture\Chairs\RWSI_Chair01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

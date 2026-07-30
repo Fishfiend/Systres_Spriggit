@@ -1,0 +1,10 @@
+FormKey: 00172B:RWSystresIsles.esm
+EditorID: RWSI_WoodStairs1_Piece2
+ObjectBounds:
+  First: -3, -124, 0
+  Second: 123, 1, 126
+Model:
+  File: RWSI\Architecture\Houses\Modular\Stairs\RWSI_WoodStairs1_Piece2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

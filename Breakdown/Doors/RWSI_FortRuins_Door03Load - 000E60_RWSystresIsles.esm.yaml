@@ -1,0 +1,26 @@
+FormKey: 000E60:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Door03Load
+ObjectBounds:
+  First: -65, -9, 0
+  Second: 65, 7, 257
+Name:
+  TargetLanguage: English
+  Value: Door
+Model:
+  File: RWSI\Dungeons\Fortruins\Doors\RWSI_FortRuins_Door01Load.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RDoor:47
+    NewTexture: 000028:Skyrim.esm
+    Index: 7
+  - Name: SM_Wooden_Door_02_R_LOD0_Material1
+    NewTexture: 000028:Skyrim.esm
+    Index: 6
+  - Name: LDoor:50
+    NewTexture: 000028:Skyrim.esm
+    Index: 3
+  - Name: SM_Wooden_Door_02_L_LOD0_Material0
+    NewTexture: 000028:Skyrim.esm
+    Index: 2
+OpenSound: 02D1CD:Skyrim.esm
+CloseSound: 02D1DD:Skyrim.esm

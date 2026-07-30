@@ -1,0 +1,10 @@
+FormKey: 0016E0:RWSystresIsles.esm
+EditorID: RWSI_WoodFloor01Half01
+ObjectBounds:
+  First: 0, -240, -2
+  Second: 120, 0, 3
+Model:
+  File: RWSI\Architecture\Houses\Modular\Floor\Wood\RWSI_WoodFloor01Half01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

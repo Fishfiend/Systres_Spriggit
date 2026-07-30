@@ -1,0 +1,13 @@
+FormKey: 000BAD:RWSystresIsles.esm
+EditorID: RWSI_CaveCliffOverhang03
+ObjectBounds:
+  First: -1808, -430, -39
+  Second: 1798, 436, 1276
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockCliffOverhang03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Slope_Wall1:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

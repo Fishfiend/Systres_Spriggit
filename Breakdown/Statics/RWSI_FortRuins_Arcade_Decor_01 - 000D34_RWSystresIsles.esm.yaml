@@ -1,0 +1,10 @@
+FormKey: 000D34:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Arcade_Decor_01
+ObjectBounds:
+  First: -127, -17, 0
+  Second: 127, 1, 140
+Model:
+  File: RWSI\Dungeons\Fortruins\Trims\RWSI_FortRuins_Arcade_Decor_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

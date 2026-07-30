@@ -1,0 +1,10 @@
+FormKey: 001727:RWSystresIsles.esm
+EditorID: RWSI_RoofSpikes_Piece1
+ObjectBounds:
+  First: -132, -4, -1
+  Second: 132, 4, 54
+Model:
+  File: RWSI\Architecture\Houses\Modular\Roof\RWSI_RoofSpikes_Piece1.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

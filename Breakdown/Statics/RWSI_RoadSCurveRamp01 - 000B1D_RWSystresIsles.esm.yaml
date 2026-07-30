@@ -1,0 +1,14 @@
+FormKey: 000B1D:RWSystresIsles.esm
+EditorID: RWSI_RoadSCurveRamp01
+ObjectBounds:
+  First: -619, -1011, -42
+  Second: 614, 1251, 143
+Model:
+  File: Landscape\Roads\RoadSCurveRamp01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RoadSCurveRamp01:2
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

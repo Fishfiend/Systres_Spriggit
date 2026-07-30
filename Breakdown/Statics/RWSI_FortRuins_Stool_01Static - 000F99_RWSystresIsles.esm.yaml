@@ -1,0 +1,10 @@
+FormKey: 000F99:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Stool_01Static
+ObjectBounds:
+  First: -17, -17, -1
+  Second: 17, 18, 30
+Model:
+  File: RWSI\Dungeons\Fortruins\Furniture\RWSI_FortRuins_Stool_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

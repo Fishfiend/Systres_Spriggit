@@ -1,0 +1,37 @@
+FormKey: 000FAC:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Bench_01
+ObjectBounds:
+  First: -62, -73, -1
+  Second: 61, 15, 98
+Name:
+  TargetLanguage: English
+  Value: Bench
+Model:
+  File: RWSI\Dungeons\Fortruins\Furniture\RWSI_FortRuins_Bench_01.nif
+  Data: 0x020000000000000000000000
+PNAM: 0x00000000
+Flags:
+- 0x40000000
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Behind
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Behind
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Behind
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Behind

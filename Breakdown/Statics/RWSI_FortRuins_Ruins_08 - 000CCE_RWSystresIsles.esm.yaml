@@ -1,0 +1,20 @@
+FormKey: 000CCE:RWSystresIsles.esm
+MajorRecordFlagsRaw: 32768
+EditorID: RWSI_FortRuins_Ruins_08
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -66, -65, -3
+  Second: 399, 199, 774
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\Prefabs\RWSI_FortRuins_Ruins_08.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000
+Lod:
+  Level0: RWSI\LOD\Dungeons\Fortruins\Exterior\Prefabs\RWSI_FortRuins_Ruins_08_LOD.nif
+  Level1: RWSI\LOD\Dungeons\Fortruins\Exterior\Prefabs\RWSI_FortRuins_Ruins_08_LOD.nif
+  Level2: RWSI\LOD\Dungeons\Fortruins\Exterior\Prefabs\RWSI_FortRuins_Ruins_08_LOD.nif
+  Level3: RWSI\LOD\Dungeons\Fortruins\Exterior\Prefabs\RWSI_FortRuins_Ruins_08_LOD.nif
+MajorFlags:
+- HasDistantLOD

@@ -1,0 +1,10 @@
+FormKey: 0009A7:RWSystresIsles.esm
+EditorID: RWSI_RockTunnelCorner01Floor
+ObjectBounds:
+  First: -336, -290, -65
+  Second: 656, 702, 39
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_CaveTunnelCorner01Floor.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

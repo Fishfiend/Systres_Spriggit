@@ -1,0 +1,10 @@
+FormKey: 001D7B:RWSystresIsles.esm
+EditorID: RWSI_Cauldron
+ObjectBounds:
+  First: -28, -29, 0
+  Second: 29, 29, 36
+Model:
+  File: RWSI\Clutter\Misc\RWSI_Cauldron.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

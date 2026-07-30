@@ -1,0 +1,10 @@
+FormKey: 0009D3:RWSystresIsles.esm
+EditorID: RWSI_RockPileS04
+ObjectBounds:
+  First: -64, -39, -4
+  Second: 64, 39, 9
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockPileS04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

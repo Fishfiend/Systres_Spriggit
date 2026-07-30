@@ -1,0 +1,19 @@
+FormKey: 000AB6:RWSystresIsles.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: RWSI_TreeCutLog03A
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -52, -864, -26
+  Second: 55, 864, 26
+Model:
+  File: Landscape\Trees\TreePineForestCutLog03A.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: TreePineForestCutLog03A:0 - L2_Stubbs:0
+    NewTexture: 000A9D:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000
+MajorFlags:
+- NavMeshGenerationBoundingBox

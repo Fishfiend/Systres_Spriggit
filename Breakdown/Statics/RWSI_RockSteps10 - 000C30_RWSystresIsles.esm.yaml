@@ -1,0 +1,10 @@
+FormKey: 000C30:RWSystresIsles.esm
+EditorID: RWSI_RockSteps10
+Model:
+  File: Architecture\HighHrothgar\HHSteps10.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: HHSteps10:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

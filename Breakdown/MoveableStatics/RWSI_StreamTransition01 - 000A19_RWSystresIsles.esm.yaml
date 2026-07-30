@@ -1,0 +1,23 @@
+FormKey: 000A19:RWSystresIsles.esm
+MajorRecordFlagsRaw: 65536
+EditorID: RWSI_StreamTransition01
+SkyrimMajorRecordFlags:
+- 0x10000
+ObjectBounds:
+  First: -222, -281, -82
+  Second: 222, 281, 50
+Model:
+  File: Water\TundraStreamTransition01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L1_TundraStreamTransition01
+    NewTexture: 000A0B:RWSystresIsles.esm
+  - Name: TundraStreamTransition01:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 3
+Flags:
+- OnLocalMap
+- 0x4
+LoopingSound: 03D6C5:Skyrim.esm
+MajorFlags:
+- RandomAnimStart

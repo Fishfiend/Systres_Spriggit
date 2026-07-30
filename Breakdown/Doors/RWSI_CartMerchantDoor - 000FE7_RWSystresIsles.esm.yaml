@@ -1,0 +1,11 @@
+FormKey: 000FE7:RWSystresIsles.esm
+EditorID: RWSI_CartMerchantDoor
+ObjectBounds:
+  First: -58, 193, 0
+  Second: 13, 207, 182
+Name:
+  TargetLanguage: English
+  Value: Caravan Door
+Model:
+  File: RWSI\Clutter\Carts\RWSI_CartMerchantDoor.nif
+  Data: 0x020000000000000000000000

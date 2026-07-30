@@ -1,0 +1,14 @@
+FormKey: 000B24:RWSystresIsles.esm
+EditorID: RWSI_RoadStraightLongRamp02
+ObjectBounds:
+  First: -486, -1024, -42
+  Second: 486, 994, 276
+Model:
+  File: Landscape\Roads\RoadStraightLongRamp02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RoadStraightLongRamp02:2
+    NewTexture: 0009F4:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

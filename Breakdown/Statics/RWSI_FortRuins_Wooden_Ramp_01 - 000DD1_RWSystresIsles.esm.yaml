@@ -1,0 +1,10 @@
+FormKey: 000DD1:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wooden_Ramp_01
+ObjectBounds:
+  First: -240, -127, -14
+  Second: 6, 129, 120
+Model:
+  File: RWSI\Dungeons\Fortruins\Wood\RWSI_FortRuins_Wooden_Ramp_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

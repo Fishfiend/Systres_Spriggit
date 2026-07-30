@@ -1,0 +1,10 @@
+FormKey: 0016EA:RWSystresIsles.esm
+EditorID: RWSI_Bars4
+ObjectBounds:
+  First: 0, -6, 0
+  Second: 80, 0, 240
+Model:
+  File: RWSI\Architecture\Houses\Modular\Bars\RWSI_Bars4.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

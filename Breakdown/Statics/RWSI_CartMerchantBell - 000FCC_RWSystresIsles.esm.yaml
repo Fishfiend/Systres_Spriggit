@@ -1,0 +1,10 @@
+FormKey: 000FCC:RWSystresIsles.esm
+EditorID: RWSI_CartMerchantBell
+ObjectBounds:
+  First: -13, -6, -43
+  Second: 0, 6, 1
+Model:
+  File: RWSI\Clutter\Carts\RWSI_CartMerchantBell.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,13 @@
+FormKey: 000FF3:RWSystresIsles.esm
+EditorID: RWSI_Horseshoe
+ObjectBounds:
+  First: -6, -6, 0
+  Second: 6, 6, 2
+Name:
+  TargetLanguage: English
+  Value: Horseshoe
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Horseshoe.nif
+  Data: 0x020000000000000000000000
+Value: 1
+Weight: 1

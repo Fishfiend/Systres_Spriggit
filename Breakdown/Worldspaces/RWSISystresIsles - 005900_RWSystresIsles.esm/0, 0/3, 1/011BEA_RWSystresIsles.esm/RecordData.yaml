@@ -1,0 +1,107 @@
+FormKey: 011BEA:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 24, 8
+  Flags: 1638432768
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011F45:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+    AlphaLayerData:
+    - Opacity: 1
+    - Position: 1
+      Opacity: 1
+    - Position: 2
+      Opacity: 0.827451
+    - Position: 3
+      Opacity: 0.6156863
+    - Position: 4
+      Opacity: 0.42745098
+    - Position: 5
+      Opacity: 0.2784314
+    - Position: 6
+      Opacity: 0.16862746
+    - Position: 7
+      Opacity: 0.07058824
+    - Position: 8
+      Opacity: 0.003921569
+    - Position: 17
+      Opacity: 1
+    - Position: 18
+      Opacity: 0.8745098
+    - Position: 19
+      Opacity: 0.68235296
+    - Position: 20
+      Opacity: 0.48235294
+    - Position: 21
+      Opacity: 0.30588236
+    - Position: 22
+      Opacity: 0.16862746
+    - Position: 23
+      Opacity: 0.078431375
+    - Position: 34
+      Opacity: 0.8901961
+    - Position: 35
+      Opacity: 0.7137255
+    - Position: 36
+      Opacity: 0.5294118
+    - Position: 37
+      Opacity: 0.3372549
+    - Position: 38
+      Opacity: 0.18431373
+    - Position: 39
+      Opacity: 0.06666667
+    - Position: 40
+      Opacity: 0.003921569
+    - Position: 51
+      Opacity: 0.7058824
+    - Position: 52
+      Opacity: 0.54509807
+    - Position: 53
+      Opacity: 0.36078432
+    - Position: 54
+      Opacity: 0.1764706
+    - Position: 55
+      Opacity: 0.06666667
+    - Position: 56
+      Opacity: 0.011764706
+    - Position: 68
+      Opacity: 0.5254902
+    - Position: 69
+      Opacity: 0.3764706
+    - Position: 70
+      Opacity: 0.22352941
+    - Position: 71
+      Opacity: 0.08627451
+    - Position: 72
+      Opacity: 0.007843138
+    - Position: 85
+      Opacity: 0.39215687
+    - Position: 86
+      Opacity: 0.2509804
+    - Position: 87
+      Opacity: 0.105882354
+    - Position: 102
+      Opacity: 0.24705882
+    - Position: 103
+      Opacity: 0.11372549
+    - Position: 104
+      Opacity: 0.011764706
+    - Position: 119
+      Opacity: 0.12156863
+    - Position: 120
+      Opacity: 0.019607844
+    - Position: 136
+      Opacity: 0.02745098

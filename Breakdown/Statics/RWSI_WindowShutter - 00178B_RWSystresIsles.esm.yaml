@@ -1,0 +1,10 @@
+FormKey: 00178B:RWSystresIsles.esm
+EditorID: RWSI_WindowShutter
+ObjectBounds:
+  First: -12, -10, -28
+  Second: 15, 5, 49
+Model:
+  File: RWSI\Architecture\Houses\Modular\Windows\RWSI_WindowShutter.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

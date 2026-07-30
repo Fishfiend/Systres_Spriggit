@@ -1,0 +1,10 @@
+FormKey: 000FCF:RWSystresIsles.esm
+EditorID: RWSI_CartWagonCageConnector
+ObjectBounds:
+  First: -46, -209, -39
+  Second: 46, 11, 9
+Model:
+  File: RWSI\Clutter\Carts\RWSI_CartWagonCageConnector.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

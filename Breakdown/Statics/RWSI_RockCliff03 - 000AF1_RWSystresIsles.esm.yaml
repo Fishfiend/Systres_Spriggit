@@ -1,0 +1,16 @@
+FormKey: 000AF1:RWSystresIsles.esm
+EditorID: RWSI_RockCliff03
+ObjectBounds:
+  First: -518, -638, -106
+  Second: 782, 704, 725
+Model:
+  File: Landscape\Rocks\RockCliff03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockCliff03:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+  - Name: RockCliff03:3
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

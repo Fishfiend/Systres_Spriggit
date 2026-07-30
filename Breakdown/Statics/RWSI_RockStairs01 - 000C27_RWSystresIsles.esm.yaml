@@ -1,0 +1,13 @@
+FormKey: 000C27:RWSystresIsles.esm
+EditorID: RWSI_RockStairs01
+ObjectBounds:
+  First: -134, -112, -71
+  Second: 132, 105, 75
+Model:
+  File: Architecture\HighHrothgar\HHStairs01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: HHStairs01:8
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

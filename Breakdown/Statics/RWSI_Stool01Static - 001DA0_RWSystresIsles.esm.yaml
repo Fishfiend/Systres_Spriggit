@@ -1,0 +1,7 @@
+FormKey: 001DA0:RWSystresIsles.esm
+EditorID: RWSI_Stool01Static
+Model:
+  File: RWSI\Clutter\Furniture\Chairs\RWSI_Stool01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

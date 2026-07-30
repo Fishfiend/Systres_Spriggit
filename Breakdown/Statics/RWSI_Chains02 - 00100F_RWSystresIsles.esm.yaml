@@ -1,0 +1,10 @@
+FormKey: 00100F:RWSystresIsles.esm
+EditorID: RWSI_Chains02
+ObjectBounds:
+  First: -3, -1, -45
+  Second: 2, 1, 2
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Chains2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

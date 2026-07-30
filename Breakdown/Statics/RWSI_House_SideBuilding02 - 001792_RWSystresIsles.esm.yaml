@@ -1,0 +1,10 @@
+FormKey: 001792:RWSystresIsles.esm
+EditorID: RWSI_House_SideBuilding02
+ObjectBounds:
+  First: -287, -398, 0
+  Second: 299, 419, 482
+Model:
+  File: RWSI\Architecture\Houses\Buildings\RWSI_House_SideBuilding02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 000FF7:RWSystresIsles.esm
+EditorID: RWSI_Oven
+ObjectBounds:
+  First: -111, -112, 0
+  Second: 110, 110, 460
+Model:
+  File: RWSI\Clutter\Blacksmith\RWSI_Oven.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

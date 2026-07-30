@@ -1,0 +1,135 @@
+FormKey: 0119D4:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -6, 25
+  Flags: 1783414528
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 011D2F:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header: {}
+    AlphaLayerData:
+    - Position: 270
+      Opacity: 0.050980393
+    - Position: 271
+      Opacity: 0.09411765
+    - Position: 286
+      Opacity: 0.08235294
+    - Position: 287
+      Opacity: 0.1882353
+    - Position: 288
+      Opacity: 0.20392157
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: BottomRight
+    AlphaLayerData:
+    - Position: 255
+      Opacity: 0.09411765
+    - Position: 256
+      Opacity: 0.14117648
+    - Position: 257
+      Opacity: 0.078431375
+    - Position: 258
+      Opacity: 0.03137255
+    - Position: 272
+      Opacity: 0.20392157
+    - Position: 273
+      Opacity: 0.1764706
+    - Position: 274
+      Opacity: 0.10980392
+    - Position: 275
+      Opacity: 0.05490196
+    - Position: 276
+      Opacity: 0.019607844
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopLeft
+    AlphaLayerData:
+    - Position: 14
+      Opacity: 0.08235294
+    - Position: 15
+      Opacity: 0.1882353
+    - Position: 16
+      Opacity: 0.20392157
+    - Position: 30
+      Opacity: 0.043137256
+    - Position: 31
+      Opacity: 0.13333334
+    - Position: 32
+      Opacity: 0.20392157
+    - Position: 33
+      Opacity: 0.20784314
+    - Position: 47
+      Opacity: 0.007843138
+    - Position: 48
+      Opacity: 0.05490196
+    - Position: 49
+      Opacity: 0.09411765
+    - Position: 50
+      Opacity: 0.1254902
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Opacity: 0.20392157
+    - Position: 1
+      Opacity: 0.1764706
+    - Position: 2
+      Opacity: 0.10980392
+    - Position: 3
+      Opacity: 0.05490196
+    - Position: 4
+      Opacity: 0.019607844
+    - Position: 17
+      Opacity: 0.20784314
+    - Position: 18
+      Opacity: 0.18431373
+    - Position: 19
+      Opacity: 0.14117648
+    - Position: 20
+      Opacity: 0.08627451
+    - Position: 21
+      Opacity: 0.05490196
+    - Position: 22
+      Opacity: 0.003921569
+    - Position: 34
+      Opacity: 0.1254902
+    - Position: 35
+      Opacity: 0.14509805
+    - Position: 36
+      Opacity: 0.13333334
+    - Position: 37
+      Opacity: 0.08235294
+    - Position: 38
+      Opacity: 0.015686275
+    - Position: 53
+      Opacity: 0.007843138

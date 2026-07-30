@@ -1,0 +1,16 @@
+FormKey: 000BD7:RWSystresIsles.esm
+EditorID: RWSI_CaveRockPileS01Dirt
+ObjectBounds:
+  First: -102, -153, -17
+  Second: 125, 126, 42
+Model:
+  File: Landscape\Rocks\RockPileS01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileS01:0
+    NewTexture: 000B8E:RWSystresIsles.esm
+  - Name: RockPileS01:1
+    NewTexture: 000B8D:RWSystresIsles.esm
+    Index: 1
+MaxAngle: 90
+Unused: 0x000000

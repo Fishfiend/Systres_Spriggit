@@ -1,0 +1,14 @@
+FormKey: 000AD9:RWSystresIsles.esm
+EditorID: RWSI_TreeBranchPile01Pine
+ObjectBounds:
+  First: -120, -125, -53
+  Second: 140, 145, 80
+Model:
+  File: Landscape\Trees\ReachBranchPile01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: L1_ReachBranchPile01
+    NewTexture: 000A9B:RWSystresIsles.esm
+    Index: 2
+MaxAngle: 90
+Unused: 0x000000

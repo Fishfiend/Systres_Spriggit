@@ -1,0 +1,376 @@
+FormKey: 01201F:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -13, 27
+  Flags: 1638577152
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 0121B2:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  Layers:
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+    AlphaLayerData:
+    - Opacity: 1
+    - Position: 1
+      Opacity: 1
+    - Position: 2
+      Opacity: 1
+    - Position: 3
+      Opacity: 1
+    - Position: 4
+      Opacity: 1
+    - Position: 5
+      Opacity: 1
+    - Position: 6
+      Opacity: 1
+    - Position: 7
+      Opacity: 1
+    - Position: 8
+      Opacity: 1
+    - Position: 9
+      Opacity: 1
+    - Position: 10
+      Opacity: 1
+    - Position: 11
+      Opacity: 1
+    - Position: 12
+      Opacity: 1
+    - Position: 13
+      Opacity: 0.9607843
+    - Position: 14
+      Opacity: 0.88235295
+    - Position: 15
+      Opacity: 0.83137256
+    - Position: 16
+      Opacity: 0.77254903
+    - Position: 17
+      Opacity: 0.8901961
+    - Position: 18
+      Opacity: 0.9372549
+    - Position: 19
+      Opacity: 0.9607843
+    - Position: 20
+      Opacity: 0.9647059
+    - Position: 21
+      Opacity: 0.9529412
+    - Position: 22
+      Opacity: 0.91764706
+    - Position: 23
+      Opacity: 0.8627451
+    - Position: 24
+      Opacity: 0.8627451
+    - Position: 25
+      Opacity: 0.85882354
+    - Position: 26
+      Opacity: 0.84313726
+    - Position: 27
+      Opacity: 0.8117647
+    - Position: 28
+      Opacity: 0.77254903
+    - Position: 29
+      Opacity: 0.7411765
+    - Position: 30
+      Opacity: 0.68235296
+    - Position: 31
+      Opacity: 0.6431373
+    - Position: 32
+      Opacity: 0.6
+    - Position: 33
+      Opacity: 0.58431375
+    - Position: 34
+      Opacity: 0.64705884
+    - Position: 35
+      Opacity: 0.69411767
+    - Position: 36
+      Opacity: 0.7176471
+    - Position: 37
+      Opacity: 0.72156864
+    - Position: 38
+      Opacity: 0.7058824
+    - Position: 39
+      Opacity: 0.6745098
+    - Position: 40
+      Opacity: 0.6627451
+    - Position: 41
+      Opacity: 0.6392157
+    - Position: 42
+      Opacity: 0.61960787
+    - Position: 43
+      Opacity: 0.6039216
+    - Position: 44
+      Opacity: 0.57254905
+    - Position: 45
+      Opacity: 0.5254902
+    - Position: 46
+      Opacity: 0.45882353
+    - Position: 47
+      Opacity: 0.43137255
+    - Position: 48
+      Opacity: 0.40392157
+    - Position: 49
+      Opacity: 0.40784314
+    - Position: 50
+      Opacity: 0.4
+    - Position: 51
+      Opacity: 0.40392157
+    - Position: 52
+      Opacity: 0.4392157
+    - Position: 53
+      Opacity: 0.46666667
+    - Position: 54
+      Opacity: 0.47058824
+    - Position: 55
+      Opacity: 0.47058824
+    - Position: 56
+      Opacity: 0.47843137
+    - Position: 57
+      Opacity: 0.46666667
+    - Position: 58
+      Opacity: 0.44313726
+    - Position: 59
+      Opacity: 0.40784314
+    - Position: 60
+      Opacity: 0.36078432
+    - Position: 61
+      Opacity: 0.3372549
+    - Position: 62
+      Opacity: 0.28627452
+    - Position: 63
+      Opacity: 0.26666668
+    - Position: 64
+      Opacity: 0.23529412
+    - Position: 65
+      Opacity: 0.22745098
+    - Position: 66
+      Opacity: 0.21960784
+    - Position: 67
+      Opacity: 0.21176471
+    - Position: 68
+      Opacity: 0.2
+    - Position: 69
+      Opacity: 0.20392157
+    - Position: 70
+      Opacity: 0.21568628
+    - Position: 71
+      Opacity: 0.2509804
+    - Position: 72
+      Opacity: 0.27450982
+    - Position: 73
+      Opacity: 0.2784314
+    - Position: 74
+      Opacity: 0.27058825
+    - Position: 75
+      Opacity: 0.2509804
+    - Position: 76
+      Opacity: 0.21568628
+    - Position: 77
+      Opacity: 0.16862746
+    - Position: 78
+      Opacity: 0.12941177
+    - Position: 79
+      Opacity: 0.105882354
+    - Position: 80
+      Opacity: 0.105882354
+    - Position: 81
+      Opacity: 0.10980392
+    - Position: 82
+      Opacity: 0.105882354
+    - Position: 83
+      Opacity: 0.09411765
+    - Position: 84
+      Opacity: 0.101960786
+    - Position: 85
+      Opacity: 0.023529412
+    - Position: 86
+      Opacity: 0.047058824
+    - Position: 87
+      Opacity: 0.06666667
+    - Position: 88
+      Opacity: 0.07450981
+    - Position: 89
+      Opacity: 0.07450981
+    - Position: 90
+      Opacity: 0.08627451
+    - Position: 91
+      Opacity: 0.078431375
+    - Position: 92
+      Opacity: 0.05882353
+    - Position: 93
+      Opacity: 0.050980393
+    - Position: 94
+      Opacity: 0.039215688
+    - Position: 95
+      Opacity: 0.03137255
+    - Position: 96
+      Opacity: 0.019607844
+    - Position: 97
+      Opacity: 0.003921569
+    - Position: 99
+      Opacity: 0.015686275
+    - Position: 100
+      Opacity: 0.02745098
+    - Position: 101
+      Opacity: 0.03529412
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+    AlphaLayerData:
+    - Opacity: 0.77254903
+    - Position: 1
+      Opacity: 0.7411765
+    - Position: 2
+      Opacity: 0.7019608
+    - Position: 3
+      Opacity: 0.64705884
+    - Position: 4
+      Opacity: 0.5882353
+    - Position: 5
+      Opacity: 0.56078434
+    - Position: 6
+      Opacity: 0.5176471
+    - Position: 7
+      Opacity: 0.4627451
+    - Position: 8
+      Opacity: 0.40392157
+    - Position: 9
+      Opacity: 0.33333334
+    - Position: 10
+      Opacity: 0.26666668
+    - Position: 11
+      Opacity: 0.22745098
+    - Position: 12
+      Opacity: 0.20392157
+    - Position: 13
+      Opacity: 0.20392157
+    - Position: 14
+      Opacity: 0.34117648
+    - Position: 15
+      Opacity: 0.50980395
+    - Position: 16
+      Opacity: 0.654902
+    - Position: 17
+      Opacity: 0.58431375
+    - Position: 18
+      Opacity: 0.56078434
+    - Position: 19
+      Opacity: 0.52156866
+    - Position: 20
+      Opacity: 0.47843137
+    - Position: 21
+      Opacity: 0.45882353
+    - Position: 22
+      Opacity: 0.43137255
+    - Position: 23
+      Opacity: 0.39215687
+    - Position: 24
+      Opacity: 0.34509805
+    - Position: 25
+      Opacity: 0.2901961
+    - Position: 26
+      Opacity: 0.22352941
+    - Position: 27
+      Opacity: 0.14901961
+    - Position: 28
+      Opacity: 0.07058824
+    - Position: 29
+      Opacity: 0.039215688
+    - Position: 30
+      Opacity: 0.09803922
+    - Position: 31
+      Opacity: 0.1764706
+    - Position: 32
+      Opacity: 0.29411766
+    - Position: 33
+      Opacity: 0.43529412
+    - Position: 34
+      Opacity: 0.4
+    - Position: 35
+      Opacity: 0.3764706
+    - Position: 36
+      Opacity: 0.34901962
+    - Position: 37
+      Opacity: 0.34509805
+    - Position: 38
+      Opacity: 0.3254902
+    - Position: 39
+      Opacity: 0.3019608
+    - Position: 40
+      Opacity: 0.26666668
+    - Position: 41
+      Opacity: 0.22352941
+    - Position: 42
+      Opacity: 0.16862746
+    - Position: 43
+      Opacity: 0.105882354
+    - Position: 44
+      Opacity: 0.039215688
+    - Position: 47
+      Opacity: 0.011764706
+    - Position: 48
+      Opacity: 0.0627451
+    - Position: 49
+      Opacity: 0.1254902
+    - Position: 50
+      Opacity: 0.21568628
+    - Position: 51
+      Opacity: 0.21176471
+    - Position: 52
+      Opacity: 0.20784314
+    - Position: 53
+      Opacity: 0.21568628
+    - Position: 54
+      Opacity: 0.21176471
+    - Position: 55
+      Opacity: 0.19607843
+    - Position: 56
+      Opacity: 0.17254902
+    - Position: 57
+      Opacity: 0.14117648
+    - Position: 58
+      Opacity: 0.09803922
+    - Position: 59
+      Opacity: 0.05882353
+    - Position: 60
+      Opacity: 0.023529412
+    - Position: 66
+      Opacity: 0.007843138
+    - Position: 67
+      Opacity: 0.0627451
+    - Position: 68
+      Opacity: 0.101960786
+    - Position: 69
+      Opacity: 0.105882354
+    - Position: 70
+      Opacity: 0.105882354
+    - Position: 71
+      Opacity: 0.09803922
+    - Position: 72
+      Opacity: 0.08627451
+    - Position: 73
+      Opacity: 0.07058824
+    - Position: 74
+      Opacity: 0.050980393
+    - Position: 75
+      Opacity: 0.02745098
+    - Position: 85
+      Opacity: 0.03529412
+    - Position: 86
+      Opacity: 0.039215688
+    - Position: 87
+      Opacity: 0.039215688
+    - Position: 88
+      Opacity: 0.03137255
+    - Position: 89
+      Opacity: 0.023529412
+    - Position: 90
+      Opacity: 0.007843138

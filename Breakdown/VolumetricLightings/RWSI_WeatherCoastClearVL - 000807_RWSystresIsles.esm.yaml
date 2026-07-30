@@ -1,0 +1,14 @@
+FormKey: 000807:RWSystresIsles.esm
+EditorID: RWSI_WeatherCoastClearVL
+Intensity: 5.234
+CustomColorContribution: 0
+ColorR: 0.8
+ColorG: 0.8745098
+ColorB: 1
+DensityContribution: 0.333
+DensitySize: 1
+DensityWindSpeed: 0
+DensityFallingSpeed: 0.3
+PhaseFunctionContribution: 0.966
+PhaseFunctionScattering: 0.99
+SamplingRepartitionRangeFactor: 79

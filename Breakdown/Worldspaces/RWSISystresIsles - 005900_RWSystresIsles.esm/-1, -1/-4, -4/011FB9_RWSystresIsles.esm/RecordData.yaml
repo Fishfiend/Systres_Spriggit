@@ -1,0 +1,89 @@
+FormKey: 011FB9:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: -26, -25
+  Flags: 1638611712
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 012118:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  - 0x10
+  Layers:
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: BottomRight
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+      Unused: 112
+      LayerNumber: 65535
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Quadrant: TopLeft
+    AlphaLayerData:
+    - Position: 217
+      Opacity: 0.019607844
+    - Position: 218
+      Opacity: 0.011764706
+    - Position: 219
+      Opacity: 0.011764706
+    - Position: 233
+      Opacity: 0.09019608
+    - Position: 234
+      Opacity: 0.11372549
+    - Position: 235
+      Opacity: 0.101960786
+    - Position: 236
+      Opacity: 0.05490196
+    - Position: 237
+      Opacity: 0.011764706
+    - Position: 249
+      Opacity: 0.011764706
+    - Position: 250
+      Opacity: 0.11764706
+    - Position: 251
+      Opacity: 0.15686275
+    - Position: 252
+      Opacity: 0.15294118
+    - Position: 253
+      Opacity: 0.11764706
+    - Position: 254
+      Opacity: 0.039215688
+    - Position: 267
+      Opacity: 0.0627451
+    - Position: 268
+      Opacity: 0.14117648
+    - Position: 269
+      Opacity: 0.16470589
+    - Position: 270
+      Opacity: 0.11372549
+    - Position: 284
+      Opacity: 0.003921569
+    - Position: 285
+      Opacity: 0.050980393
+    - Position: 286
+      Opacity: 0.078431375
+    - Position: 287
+      Opacity: 0.043137256
+  - MutagenObjectType: BaseLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+      Unused: 112
+      LayerNumber: 65535

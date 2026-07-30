@@ -1,0 +1,13 @@
+FormKey: 000B57:RWSystresIsles.esm
+EditorID: RWSI_DirtMound01
+ObjectBounds:
+  First: -102, -153, -17
+  Second: 125, 126, 19
+Model:
+  File: Dungeons\Caves\Green\DirtMound\CaveGDirtMound01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CaveGDirtMound01:3
+    NewTexture: 0009F4:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

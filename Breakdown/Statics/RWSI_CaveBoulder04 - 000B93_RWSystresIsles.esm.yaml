@@ -1,0 +1,13 @@
+FormKey: 000B93:RWSystresIsles.esm
+EditorID: RWSI_CaveBoulder04
+ObjectBounds:
+  First: -179, -169, -102
+  Second: 171, 174, 109
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockBoulder04.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Rock_Boulder_6:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

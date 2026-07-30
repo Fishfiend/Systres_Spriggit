@@ -1,0 +1,10 @@
+FormKey: 000D36:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Corbels_02
+ObjectBounds:
+  First: -60, -30, -53
+  Second: 60, 0, 0
+Model:
+  File: RWSI\Dungeons\Fortruins\Trims\RWSI_FortRuins_Corbels_02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

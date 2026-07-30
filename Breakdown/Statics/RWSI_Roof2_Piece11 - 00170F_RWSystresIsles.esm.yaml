@@ -1,0 +1,10 @@
+FormKey: 00170F:RWSystresIsles.esm
+EditorID: RWSI_Roof2_Piece11
+ObjectBounds:
+  First: -62, -7, -2
+  Second: 62, 7, 3
+Model:
+  File: RWSI\Architecture\Houses\Modular\Roof\Roof2\RWSI_Roof2_Piece11.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

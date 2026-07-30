@@ -1,0 +1,25 @@
+FormKey: 001D8A:RWSystresIsles.esm
+EditorID: RWSI_Chair01LR
+Name:
+  TargetLanguage: English
+  Value: Chair
+Model:
+  File: RWSI\Clutter\Furniture\Chairs\RWSI_Chair01.nif
+  Data: 0x020000000000000000000000
+PNAM: 0x00000000
+Flags:
+- 0x40000000
+WorkbenchData:
+  UsesSkill: 255
+Markers:
+- Enabled: True
+  DisabledEntryPoints:
+    Points:
+    - Front
+  EntryPoints:
+    Type:
+    - Sit
+    Points:
+    - Front
+    - Right
+    - Left

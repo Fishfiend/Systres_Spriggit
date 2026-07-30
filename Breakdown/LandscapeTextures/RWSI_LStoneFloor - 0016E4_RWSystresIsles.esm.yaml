@@ -1,0 +1,7 @@
+FormKey: 0016E4:RWSystresIsles.esm
+EditorID: RWSI_LStoneFloor
+TextureSet: 0016E3:RWSystresIsles.esm
+MaterialType: 012F34:Skyrim.esm
+HavokFriction: 2
+TextureSpecularExponent: 30
+Flags: []

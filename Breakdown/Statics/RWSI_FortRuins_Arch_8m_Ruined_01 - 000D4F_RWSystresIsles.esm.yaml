@@ -1,0 +1,10 @@
+FormKey: 000D4F:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Arch_8m_Ruined_01
+ObjectBounds:
+  First: -186, -20, -1
+  Second: 0, 20, 360
+Model:
+  File: RWSI\Dungeons\Fortruins\Walls\Arches\RWSI_FortRuins_Arch_8m_Ruined_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

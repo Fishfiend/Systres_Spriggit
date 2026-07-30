@@ -1,0 +1,14 @@
+FormKey: 000F7B:RWSystresIsles.esm
+EditorID: RWSI_Grass_Patch_09
+ObjectBounds:
+  First: -125, -122, -2
+  Second: 126, 103, 134
+Model:
+  File: RWSI\Landscape\Plants\RWSI_Grass_Patch_09.nif
+  Data: 0x020000000000000000000000
+Production: {}
+TrunkFlexibility: 1
+BranchFlexibility: 1
+Unknown: 0x0BD7233D90C2F53C0BD7233D96430B3D0000003F0000003FCDCCCC3E0000803F
+LeafAmplitude: 1
+LeafFrequency: 1

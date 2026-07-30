@@ -1,0 +1,10 @@
+FormKey: 001780:RWSystresIsles.esm
+EditorID: RWSI_CutTrunk
+ObjectBounds:
+  First: -23, -230, -8
+  Second: 23, 227, 8
+Model:
+  File: RWSI\Architecture\Houses\Modular\RWSI_CutTrunk.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,13 @@
+FormKey: 000BB9:RWSystresIsles.esm
+EditorID: RWSI_CaveHexagon01
+ObjectBounds:
+  First: -350, -363, -91
+  Second: 350, 364, 807
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockHexagon01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Cave_Hexa4:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 0009E6:RWSystresIsles.esm
+EditorID: RWSI_SoilFlat02
+ObjectBounds:
+  First: -2208, -2223, -103
+  Second: 2204, 2227, 194
+Model:
+  File: RWSI\Landscape\Soil\RWSI_SoilFlat02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

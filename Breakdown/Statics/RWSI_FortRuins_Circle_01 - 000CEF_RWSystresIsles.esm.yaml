@@ -1,0 +1,10 @@
+FormKey: 000CEF:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Circle_01
+ObjectBounds:
+  First: -275, -274, -3
+  Second: 274, 272, 39
+Model:
+  File: RWSI\Dungeons\Fortruins\Floor\RWSI_FortRuins_Circle_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

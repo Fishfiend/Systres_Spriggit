@@ -1,0 +1,10 @@
+FormKey: 0009AA:RWSystresIsles.esm
+EditorID: RWSI_RockDripPillar03
+ObjectBounds:
+  First: -136, -138, -156
+  Second: 137, 138, 891
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_DripPillar03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

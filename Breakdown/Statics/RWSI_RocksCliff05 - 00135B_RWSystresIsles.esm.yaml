@@ -1,0 +1,25 @@
+FormKey: 00135B:RWSystresIsles.esm
+EditorID: RWSI_RocksCliff05
+ObjectBounds:
+  First: -422, -267, -22
+  Second: 450, 296, 333
+Model:
+  File: _ResourcePack\Landscape\Rocks\DesertRocksCliff05.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DesertRocksCliff05:4
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 4
+  - Name: Decal
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 3
+  - Name: L1_Rocks:2
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 2
+  - Name: L1_Rocks:1
+    NewTexture: 000A0B:RWSystresIsles.esm
+    Index: 1
+  - Name: L1_Rocks:0
+    NewTexture: 000A0B:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

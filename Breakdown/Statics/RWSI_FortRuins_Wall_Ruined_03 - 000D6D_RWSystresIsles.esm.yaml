@@ -1,0 +1,10 @@
+FormKey: 000D6D:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Wall_Ruined_03
+ObjectBounds:
+  First: -126, -17, 0
+  Second: 121, 18, 161
+Model:
+  File: RWSI\Dungeons\Fortruins\Walls\RWSI_FortRuins_Wall_Ruined_03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 000C3E:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Ballustrade_Ruined_03
+ObjectBounds:
+  First: -120, -11, 0
+  Second: 120, 11, 59
+Model:
+  File: RWSI\Dungeons\Fortruins\Ballustrades\RWSI_FortRuins_Ballustrade_Ruined_03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

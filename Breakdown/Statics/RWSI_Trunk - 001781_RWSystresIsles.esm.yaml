@@ -1,0 +1,10 @@
+FormKey: 001781:RWSystresIsles.esm
+EditorID: RWSI_Trunk
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
+Model:
+  File: RWSI\Architecture\Houses\Modular\Trunk.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

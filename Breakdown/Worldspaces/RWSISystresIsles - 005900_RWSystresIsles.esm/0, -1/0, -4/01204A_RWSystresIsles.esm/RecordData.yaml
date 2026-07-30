@@ -1,0 +1,701 @@
+FormKey: 01204A:RWSystresIsles.esm
+Flags:
+- HasWater
+Grid:
+  Point: 0, -27
+  Flags: 1638434048
+WaterHeight: 3.4028235E+38
+Landscape:
+  FormKey: 0121DE:RWSystresIsles.esm
+  IsCompressed: True
+  MajorRecordFlagsRaw: 262144
+  SkyrimMajorRecordFlags:
+  - Compressed
+  Flags:
+  - Layers
+  - 0x8
+  Layers:
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopLeft
+    AlphaLayerData:
+    - Position: 119
+      Opacity: 0.023529412
+    - Position: 120
+      Opacity: 0.023529412
+    - Position: 121
+      Opacity: 0.019607844
+    - Position: 122
+      Opacity: 0.011764706
+    - Position: 124
+      Opacity: 0.007843138
+    - Position: 125
+      Opacity: 0.019607844
+    - Position: 126
+      Opacity: 0.03529412
+    - Position: 127
+      Opacity: 0.043137256
+    - Position: 128
+      Opacity: 0.047058824
+    - Position: 129
+      Opacity: 0.039215688
+    - Position: 130
+      Opacity: 0.019607844
+    - Position: 131
+      Opacity: 0.011764706
+    - Position: 133
+      Opacity: 0.007843138
+    - Position: 134
+      Opacity: 0.015686275
+    - Position: 135
+      Opacity: 0.023529412
+    - Position: 136
+      Opacity: 0.15686275
+    - Position: 137
+      Opacity: 0.14117648
+    - Position: 138
+      Opacity: 0.12941177
+    - Position: 139
+      Opacity: 0.11372549
+    - Position: 140
+      Opacity: 0.14117648
+    - Position: 141
+      Opacity: 0.16078432
+    - Position: 142
+      Opacity: 0.16862746
+    - Position: 143
+      Opacity: 0.16470589
+    - Position: 144
+      Opacity: 0.1764706
+    - Position: 145
+      Opacity: 0.1764706
+    - Position: 146
+      Opacity: 0.16862746
+    - Position: 147
+      Opacity: 0.16078432
+    - Position: 148
+      Opacity: 0.16078432
+    - Position: 149
+      Opacity: 0.14509805
+    - Position: 150
+      Opacity: 0.11764706
+    - Position: 151
+      Opacity: 0.1254902
+    - Position: 152
+      Opacity: 0.13333334
+    - Position: 153
+      Opacity: 0.3019608
+    - Position: 154
+      Opacity: 0.31764707
+    - Position: 155
+      Opacity: 0.3372549
+    - Position: 156
+      Opacity: 0.35686275
+    - Position: 157
+      Opacity: 0.35686275
+    - Position: 158
+      Opacity: 0.34901962
+    - Position: 159
+      Opacity: 0.3529412
+    - Position: 160
+      Opacity: 0.34901962
+    - Position: 161
+      Opacity: 0.32941177
+    - Position: 162
+      Opacity: 0.31764707
+    - Position: 163
+      Opacity: 0.34117648
+    - Position: 164
+      Opacity: 0.3529412
+    - Position: 165
+      Opacity: 0.35686275
+    - Position: 166
+      Opacity: 0.35686275
+    - Position: 167
+      Opacity: 0.36078432
+    - Position: 168
+      Opacity: 0.34509805
+    - Position: 169
+      Opacity: 0.31764707
+    - Position: 170
+      Opacity: 0.5254902
+    - Position: 171
+      Opacity: 0.54901963
+    - Position: 172
+      Opacity: 0.5764706
+    - Position: 173
+      Opacity: 0.6
+    - Position: 174
+      Opacity: 0.6
+    - Position: 175
+      Opacity: 0.5921569
+    - Position: 176
+      Opacity: 0.5568628
+    - Position: 177
+      Opacity: 0.5411765
+    - Position: 178
+      Opacity: 0.5411765
+    - Position: 179
+      Opacity: 0.5411765
+    - Position: 180
+      Opacity: 0.53333336
+    - Position: 181
+      Opacity: 0.54509807
+    - Position: 182
+      Opacity: 0.5764706
+    - Position: 183
+      Opacity: 0.59607846
+    - Position: 184
+      Opacity: 0.6039216
+    - Position: 185
+      Opacity: 0.59607846
+    - Position: 186
+      Opacity: 0.60784316
+    - Position: 187
+      Opacity: 0.8156863
+    - Position: 188
+      Opacity: 0.85490197
+    - Position: 189
+      Opacity: 0.8627451
+    - Position: 190
+      Opacity: 0.84705883
+    - Position: 191
+      Opacity: 0.84705883
+    - Position: 192
+      Opacity: 0.8235294
+    - Position: 193
+      Opacity: 0.79607844
+    - Position: 194
+      Opacity: 0.7764706
+    - Position: 195
+      Opacity: 0.7764706
+    - Position: 196
+      Opacity: 0.78431374
+    - Position: 197
+      Opacity: 0.7647059
+    - Position: 198
+      Opacity: 0.78039217
+    - Position: 199
+      Opacity: 0.8235294
+    - Position: 200
+      Opacity: 0.84313726
+    - Position: 201
+      Opacity: 0.8627451
+    - Position: 202
+      Opacity: 0.8901961
+    - Position: 203
+      Opacity: 0.91764706
+    - Position: 204
+      Opacity: 1
+    - Position: 205
+      Opacity: 1
+    - Position: 206
+      Opacity: 1
+    - Position: 207
+      Opacity: 1
+    - Position: 208
+      Opacity: 1
+    - Position: 209
+      Opacity: 1
+    - Position: 210
+      Opacity: 1
+    - Position: 211
+      Opacity: 1
+    - Position: 212
+      Opacity: 1
+    - Position: 213
+      Opacity: 1
+    - Position: 214
+      Opacity: 1
+    - Position: 215
+      Opacity: 1
+    - Position: 216
+      Opacity: 1
+    - Position: 217
+      Opacity: 1
+    - Position: 218
+      Opacity: 1
+    - Position: 219
+      Opacity: 1
+    - Position: 220
+      Opacity: 1
+    - Position: 221
+      Opacity: 1
+    - Position: 222
+      Opacity: 1
+    - Position: 223
+      Opacity: 1
+    - Position: 224
+      Opacity: 1
+    - Position: 225
+      Opacity: 1
+    - Position: 226
+      Opacity: 1
+    - Position: 227
+      Opacity: 1
+    - Position: 228
+      Opacity: 1
+    - Position: 229
+      Opacity: 1
+    - Position: 230
+      Opacity: 1
+    - Position: 231
+      Opacity: 1
+    - Position: 232
+      Opacity: 1
+    - Position: 233
+      Opacity: 1
+    - Position: 234
+      Opacity: 1
+    - Position: 235
+      Opacity: 1
+    - Position: 236
+      Opacity: 1
+    - Position: 237
+      Opacity: 1
+    - Position: 238
+      Opacity: 1
+    - Position: 239
+      Opacity: 1
+    - Position: 240
+      Opacity: 1
+    - Position: 241
+      Opacity: 1
+    - Position: 242
+      Opacity: 1
+    - Position: 243
+      Opacity: 1
+    - Position: 244
+      Opacity: 1
+    - Position: 245
+      Opacity: 1
+    - Position: 246
+      Opacity: 1
+    - Position: 247
+      Opacity: 1
+    - Position: 248
+      Opacity: 1
+    - Position: 249
+      Opacity: 1
+    - Position: 250
+      Opacity: 1
+    - Position: 251
+      Opacity: 1
+    - Position: 252
+      Opacity: 1
+    - Position: 253
+      Opacity: 1
+    - Position: 254
+      Opacity: 1
+    - Position: 255
+      Opacity: 1
+    - Position: 256
+      Opacity: 1
+    - Position: 257
+      Opacity: 1
+    - Position: 258
+      Opacity: 1
+    - Position: 259
+      Opacity: 1
+    - Position: 260
+      Opacity: 1
+    - Position: 261
+      Opacity: 1
+    - Position: 262
+      Opacity: 1
+    - Position: 263
+      Opacity: 1
+    - Position: 264
+      Opacity: 1
+    - Position: 265
+      Opacity: 1
+    - Position: 266
+      Opacity: 1
+    - Position: 267
+      Opacity: 1
+    - Position: 268
+      Opacity: 1
+    - Position: 269
+      Opacity: 1
+    - Position: 270
+      Opacity: 1
+    - Position: 271
+      Opacity: 1
+    - Position: 272
+      Opacity: 1
+    - Position: 273
+      Opacity: 1
+    - Position: 274
+      Opacity: 1
+    - Position: 275
+      Opacity: 1
+    - Position: 276
+      Opacity: 1
+    - Position: 277
+      Opacity: 1
+    - Position: 278
+      Opacity: 1
+    - Position: 279
+      Opacity: 1
+    - Position: 280
+      Opacity: 1
+    - Position: 281
+      Opacity: 1
+    - Position: 282
+      Opacity: 1
+    - Position: 283
+      Opacity: 1
+    - Position: 284
+      Opacity: 1
+    - Position: 285
+      Opacity: 1
+    - Position: 286
+      Opacity: 1
+    - Position: 287
+      Opacity: 1
+    - Position: 288
+      Opacity: 1
+  - MutagenObjectType: AlphaLayer
+    Header:
+      Texture: 000071:_ResourcePack.esl
+      Quadrant: TopRight
+    AlphaLayerData:
+    - Position: 119
+      Opacity: 0.023529412
+    - Position: 120
+      Opacity: 0.023529412
+    - Position: 121
+      Opacity: 0.03529412
+    - Position: 122
+      Opacity: 0.03529412
+    - Position: 123
+      Opacity: 0.02745098
+    - Position: 124
+      Opacity: 0.023529412
+    - Position: 125
+      Opacity: 0.03529412
+    - Position: 126
+      Opacity: 0.039215688
+    - Position: 127
+      Opacity: 0.039215688
+    - Position: 128
+      Opacity: 0.047058824
+    - Position: 129
+      Opacity: 0.043137256
+    - Position: 130
+      Opacity: 0.03137255
+    - Position: 131
+      Opacity: 0.015686275
+    - Position: 132
+      Opacity: 0.003921569
+    - Position: 134
+      Opacity: 0.011764706
+    - Position: 135
+      Opacity: 0.019607844
+    - Position: 136
+      Opacity: 0.13333334
+    - Position: 137
+      Opacity: 0.15294118
+    - Position: 138
+      Opacity: 0.16470589
+    - Position: 139
+      Opacity: 0.19607843
+    - Position: 140
+      Opacity: 0.21176471
+    - Position: 141
+      Opacity: 0.23921569
+    - Position: 142
+      Opacity: 0.24705882
+    - Position: 143
+      Opacity: 0.23921569
+    - Position: 144
+      Opacity: 0.23529412
+    - Position: 145
+      Opacity: 0.22745098
+    - Position: 146
+      Opacity: 0.2
+    - Position: 147
+      Opacity: 0.16470589
+    - Position: 148
+      Opacity: 0.16470589
+    - Position: 149
+      Opacity: 0.15686275
+    - Position: 150
+      Opacity: 0.13333334
+    - Position: 151
+      Opacity: 0.11372549
+    - Position: 152
+      Opacity: 0.13333334
+    - Position: 153
+      Opacity: 0.31764707
+    - Position: 154
+      Opacity: 0.3372549
+    - Position: 155
+      Opacity: 0.36078432
+    - Position: 156
+      Opacity: 0.42745098
+    - Position: 157
+      Opacity: 0.47058824
+    - Position: 158
+      Opacity: 0.49411765
+    - Position: 159
+      Opacity: 0.50980395
+    - Position: 160
+      Opacity: 0.49803922
+    - Position: 161
+      Opacity: 0.47058824
+    - Position: 162
+      Opacity: 0.42352942
+    - Position: 163
+      Opacity: 0.4117647
+    - Position: 164
+      Opacity: 0.40392157
+    - Position: 165
+      Opacity: 0.38039216
+    - Position: 166
+      Opacity: 0.34901962
+    - Position: 167
+      Opacity: 0.32156864
+    - Position: 168
+      Opacity: 0.32156864
+    - Position: 169
+      Opacity: 0.31764707
+    - Position: 170
+      Opacity: 0.60784316
+    - Position: 171
+      Opacity: 0.6039216
+    - Position: 172
+      Opacity: 0.6509804
+    - Position: 173
+      Opacity: 0.6784314
+    - Position: 174
+      Opacity: 0.7254902
+    - Position: 175
+      Opacity: 0.7529412
+    - Position: 176
+      Opacity: 0.7647059
+    - Position: 177
+      Opacity: 0.7529412
+    - Position: 178
+      Opacity: 0.7254902
+    - Position: 179
+      Opacity: 0.7176471
+    - Position: 180
+      Opacity: 0.68235296
+    - Position: 181
+      Opacity: 0.654902
+    - Position: 182
+      Opacity: 0.627451
+    - Position: 183
+      Opacity: 0.5764706
+    - Position: 184
+      Opacity: 0.52156866
+    - Position: 185
+      Opacity: 0.53333336
+    - Position: 186
+      Opacity: 0.5372549
+    - Position: 187
+      Opacity: 0.91764706
+    - Position: 188
+      Opacity: 0.9490196
+    - Position: 189
+      Opacity: 0.9607843
+    - Position: 190
+      Opacity: 0.9764706
+    - Position: 191
+      Opacity: 0.9843137
+    - Position: 192
+      Opacity: 1
+    - Position: 193
+      Opacity: 1
+    - Position: 194
+      Opacity: 1
+    - Position: 195
+      Opacity: 1
+    - Position: 196
+      Opacity: 1
+    - Position: 197
+      Opacity: 0.98039216
+    - Position: 198
+      Opacity: 0.9254902
+    - Position: 199
+      Opacity: 0.8666667
+    - Position: 200
+      Opacity: 0.81960785
+    - Position: 201
+      Opacity: 0.79607844
+    - Position: 202
+      Opacity: 0.76862746
+    - Position: 203
+      Opacity: 0.75686276
+    - Position: 204
+      Opacity: 1
+    - Position: 205
+      Opacity: 1
+    - Position: 206
+      Opacity: 1
+    - Position: 207
+      Opacity: 1
+    - Position: 208
+      Opacity: 1
+    - Position: 209
+      Opacity: 1
+    - Position: 210
+      Opacity: 1
+    - Position: 211
+      Opacity: 1
+    - Position: 212
+      Opacity: 1
+    - Position: 213
+      Opacity: 1
+    - Position: 214
+      Opacity: 1
+    - Position: 215
+      Opacity: 1
+    - Position: 216
+      Opacity: 1
+    - Position: 217
+      Opacity: 1
+    - Position: 218
+      Opacity: 1
+    - Position: 219
+      Opacity: 1
+    - Position: 220
+      Opacity: 0.9764706
+    - Position: 221
+      Opacity: 1
+    - Position: 222
+      Opacity: 1
+    - Position: 223
+      Opacity: 1
+    - Position: 224
+      Opacity: 1
+    - Position: 225
+      Opacity: 1
+    - Position: 226
+      Opacity: 1
+    - Position: 227
+      Opacity: 1
+    - Position: 228
+      Opacity: 1
+    - Position: 229
+      Opacity: 1
+    - Position: 230
+      Opacity: 1
+    - Position: 231
+      Opacity: 1
+    - Position: 232
+      Opacity: 1
+    - Position: 233
+      Opacity: 1
+    - Position: 234
+      Opacity: 1
+    - Position: 235
+      Opacity: 1
+    - Position: 236
+      Opacity: 1
+    - Position: 237
+      Opacity: 1
+    - Position: 238
+      Opacity: 1
+    - Position: 239
+      Opacity: 1
+    - Position: 240
+      Opacity: 1
+    - Position: 241
+      Opacity: 1
+    - Position: 242
+      Opacity: 1
+    - Position: 243
+      Opacity: 1
+    - Position: 244
+      Opacity: 1
+    - Position: 245
+      Opacity: 1
+    - Position: 246
+      Opacity: 1
+    - Position: 247
+      Opacity: 1
+    - Position: 248
+      Opacity: 1
+    - Position: 249
+      Opacity: 1
+    - Position: 250
+      Opacity: 1
+    - Position: 251
+      Opacity: 1
+    - Position: 252
+      Opacity: 1
+    - Position: 253
+      Opacity: 1
+    - Position: 254
+      Opacity: 1
+    - Position: 255
+      Opacity: 1
+    - Position: 256
+      Opacity: 1
+    - Position: 257
+      Opacity: 1
+    - Position: 258
+      Opacity: 1
+    - Position: 259
+      Opacity: 1
+    - Position: 260
+      Opacity: 1
+    - Position: 261
+      Opacity: 1
+    - Position: 262
+      Opacity: 1
+    - Position: 263
+      Opacity: 1
+    - Position: 264
+      Opacity: 1
+    - Position: 265
+      Opacity: 1
+    - Position: 266
+      Opacity: 1
+    - Position: 267
+      Opacity: 1
+    - Position: 268
+      Opacity: 1
+    - Position: 269
+      Opacity: 1
+    - Position: 270
+      Opacity: 1
+    - Position: 271
+      Opacity: 1
+    - Position: 272
+      Opacity: 1
+    - Position: 273
+      Opacity: 1
+    - Position: 274
+      Opacity: 1
+    - Position: 275
+      Opacity: 1
+    - Position: 276
+      Opacity: 1
+    - Position: 277
+      Opacity: 1
+    - Position: 278
+      Opacity: 1
+    - Position: 279
+      Opacity: 1
+    - Position: 280
+      Opacity: 1
+    - Position: 281
+      Opacity: 1
+    - Position: 282
+      Opacity: 1
+    - Position: 283
+      Opacity: 1
+    - Position: 284
+      Opacity: 1
+    - Position: 285
+      Opacity: 1
+    - Position: 286
+      Opacity: 1
+    - Position: 287
+      Opacity: 1
+    - Position: 288
+      Opacity: 1

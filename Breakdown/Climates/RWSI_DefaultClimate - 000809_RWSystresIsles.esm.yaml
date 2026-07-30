@@ -1,0 +1,18 @@
+FormKey: 000809:RWSystresIsles.esm
+EditorID: RWSI_DefaultClimate
+WeatherTypes:
+- Weather: 000806:RWSystresIsles.esm
+  Chance: 100
+SunTexture: Sky\Sun.dds
+SunGlareTexture: Sky\SunGlare.dds
+Model:
+  File: Sky\Stars.nif
+  Data: 0x020000000000000000000000
+SunriseBegin: 05:30:00.0000000
+SunriseEnd: 10:00:00.0000000
+SunsetBegin: 16:00:00.0000000
+SunsetEnd: 20:30:00.0000000
+Moons:
+- Masser
+- Secunda
+PhaseLength: 3

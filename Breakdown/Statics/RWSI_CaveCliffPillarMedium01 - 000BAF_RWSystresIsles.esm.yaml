@@ -1,0 +1,13 @@
+FormKey: 000BAF:RWSystresIsles.esm
+EditorID: RWSI_CaveCliffPillarMedium01
+ObjectBounds:
+  First: -801, -892, -1
+  Second: 780, 851, 4782
+Model:
+  File: RWSI\Landscape\Rocks\RWSI_RockCliffPillarMedium01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: SM_Pillar_Rock_1:3
+    NewTexture: 000B8D:RWSystresIsles.esm
+MaxAngle: 90
+Unused: 0x000000

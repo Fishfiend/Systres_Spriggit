@@ -1,0 +1,10 @@
+FormKey: 000FCA:RWSystresIsles.esm
+EditorID: RWSI_Cart2_2Connector
+ObjectBounds:
+  First: -20, -257, -5
+  Second: 20, 2, 7
+Model:
+  File: RWSI\Clutter\Carts\RWSI_Cart2_2Connector.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

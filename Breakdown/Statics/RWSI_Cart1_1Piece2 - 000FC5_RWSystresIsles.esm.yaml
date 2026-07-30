@@ -1,0 +1,10 @@
+FormKey: 000FC5:RWSystresIsles.esm
+EditorID: RWSI_Cart1_1Piece2
+ObjectBounds:
+  First: -57, -31, -10
+  Second: 57, 60, 12
+Model:
+  File: RWSI\Clutter\Carts\RWSI_Cart1_1Piece2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

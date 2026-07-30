@@ -1,0 +1,16 @@
+FormKey: 001609:RWSystresIsles.esm
+EditorID: RWSI_CoffinGroundsGround
+ObjectBounds:
+  First: -337, -317, -84
+  Second: 372, 335, 69
+Model:
+  File: Clutter\Quest\MS14CoffinGrounds.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MS14CoffinGrounds:1
+    NewTexture: 000028:Skyrim.esm
+    Index: 1
+  - Name: MS14CoffinGrounds:0
+    NewTexture: 0009F4:RWSystresIsles.esm
+MaxAngle: 60
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 001717:RWSystresIsles.esm
+EditorID: RWSI_Roof3_Gabled
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
+Model:
+  File: RWSI\Architecture\Houses\Modular\Roof\Roof3\RWSI_Roof3_Gabled.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,17 @@
+FormKey: 000802:RWSystresIsles.esm
+EditorID: RWSI_Grass01Flowers
+Model:
+  File: Landscape\Grass\RWSI_Grass01Flowers.nif
+  Data: 0x020000000000000000000000
+Density: 65
+MaxSlope: 38
+Unknown: 205
+Unknown2: 52685
+PositionRange: 30
+HeightRange: 0.35
+ColorRange: 0.2
+WavePeriod: 330
+Flags:
+- UniformScaling
+- FitToSlope
+Unknown3: 0xCDCDCD

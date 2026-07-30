@@ -1,0 +1,26 @@
+FormKey: 00099C:RWSystresIsles.esm
+EditorID: RWSI_BirdHouse
+ObjectBounds:
+  First: -7, -7, -81
+  Second: 8, 7, 4
+Name:
+  TargetLanguage: English
+  Value: Birdhouse
+Model:
+  File: RWSI\Clutter\Misc\RWSI_HangingBirdHouse.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: BezierCurve
+    NewTexture: 000028:Skyrim.esm
+Items:
+- Item:
+    Item: 00099E:RWSystresIsles.esm
+    Count: 1
+- Item:
+    Item: 0009A0:RWSystresIsles.esm
+    Count: 3
+- Item:
+    Item: 000A04:RWSystresIsles.esm
+    Count: 1
+OpenSound: 03C873:Skyrim.esm
+CloseSound: 03C876:Skyrim.esm

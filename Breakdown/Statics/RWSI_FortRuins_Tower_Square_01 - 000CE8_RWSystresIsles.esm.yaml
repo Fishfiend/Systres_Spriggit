@@ -1,0 +1,10 @@
+FormKey: 000CE8:RWSystresIsles.esm
+EditorID: RWSI_FortRuins_Tower_Square_01
+ObjectBounds:
+  First: -315, -315, -1
+  Second: 315, 315, 1631
+Model:
+  File: RWSI\Dungeons\Fortruins\Exterior\RWSI_FortRuins_Tower_Square_01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

@@ -1,0 +1,10 @@
+FormKey: 001749:RWSystresIsles.esm
+EditorID: RWSI_WallTriangle6
+ObjectBounds:
+  First: -1, -45, -10
+  Second: 720, 20, 181
+Model:
+  File: RWSI\Architecture\Houses\Modular\Walls\Wall_Triangular\RWSI_WallTriangle6.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000
