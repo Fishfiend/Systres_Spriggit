@@ -1,0 +1,13 @@
+FormKey: 008BE9:RWSystresIsles.esm
+VersionControl: 13567
+EditorID: SecondNewPerk
+Description:
+  TargetLanguage: English
+  Value: I added this to test the change log
+NumRanks: 1
+Playable: True
+Effects:
+- MutagenObjectType: PerkEntryPointSelectSpell
+  EntryPoint: ApplyBashingSpell
+  PerkConditionTabCount: 2
+  Spell: 0D7D56:Skyrim.esm

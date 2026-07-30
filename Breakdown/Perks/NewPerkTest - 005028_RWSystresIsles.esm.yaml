@@ -1,12 +1,14 @@
 FormKey: 005028:RWSystresIsles.esm
-VersionControl: 13567
 EditorID: NewPerkTest
 Name:
   TargetLanguage: English
-  Value: This Does Things
+  Value: Changed This things name
 Description:
   TargetLanguage: English
-  Value: +5 Big Brain.
+  Value: >-
+    +5 Big Brain.
+
+    Changed this things name +10 to Big Brain now
 NumRanks: 1
 Playable: True
 Effects:
@@ -14,4 +16,4 @@ Effects:
   EntryPoint: ModSpellMagnitude
   PerkConditionTabCount: 3
   Modification: Add
-  Value: 5
+  Value: 10
