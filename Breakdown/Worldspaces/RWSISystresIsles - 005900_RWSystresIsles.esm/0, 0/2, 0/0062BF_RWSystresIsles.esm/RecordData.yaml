@@ -3,7 +3,7 @@ Flags:
 - HasWater
 Grid:
   Point: 20, 5
-  Flags: 1638416896
+  Flags: 1669808128
 WaterHeight: 3.4028235E+38
 Landscape:
   FormKey: 006D9F:RWSystresIsles.esm
@@ -304,7 +304,6 @@ Landscape:
     Header:
       Texture: 000071:_ResourcePack.esl
       Quadrant: TopLeft
-      Unused: 112
       LayerNumber: 65535
   - MutagenObjectType: AlphaLayer
     Header:
@@ -449,7 +448,6 @@ Landscape:
     Header:
       Texture: 000071:_ResourcePack.esl
       Quadrant: TopRight
-      Unused: 112
       LayerNumber: 65535
   - MutagenObjectType: AlphaLayer
     Header:

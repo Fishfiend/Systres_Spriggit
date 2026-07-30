@@ -15,7 +15,7 @@ MapData:
   CameraInitialPitch: 50
 WorldMapOffsetScale: 1
 DistantLodMultiplier: 1
-ObjectBoundsMin: -29, -28
+ObjectBoundsMin: -29, -27
 ObjectBoundsMax: 28, 31
 HdLodDiffuseTexture: Data\Textures\Landscape\Mountains\MountainSlab02.dds
 HdLodNormalTexture: Data\Textures\Landscape\Mountains\MountainSlab02_N.dds
@@ -29,7 +29,7 @@ TopCell:
   Flags:
   - HasWater
   Grid:
-    Flags: 1066915328
+    Flags: 1025865216
   WaterHeight: 3.4028235E+38
   Persistent:
   - MutagenObjectType: PlacedObject
@@ -315,7 +315,7 @@ TopCell:
       Type: Landmark
     Placement:
       Position: -18666.914, -77968.734, 1981.4934
-      Rotation: 0, -0, -1.7999983
+      Rotation: 0, -0, 4.483187
   - MutagenObjectType: PlacedObject
     FormKey: 000988:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024
@@ -369,7 +369,7 @@ TopCell:
       Type: Shack
     Placement:
       Position: -41876.758, -91163.055, 166.63528
-      Rotation: 0, -0, -0.9599986
+      Rotation: 0, -0, 5.323187
   - MutagenObjectType: PlacedObject
     FormKey: 000996:RWSystresIsles.esm
     MajorRecordFlagsRaw: 1024

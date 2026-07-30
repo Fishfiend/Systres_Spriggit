@@ -1,0 +1,17 @@
+FormKey: 005028:RWSystresIsles.esm
+VersionControl: 13567
+EditorID: NewPerkTest
+Name:
+  TargetLanguage: English
+  Value: This Does Things
+Description:
+  TargetLanguage: English
+  Value: +5 Big Brain.
+NumRanks: 1
+Playable: True
+Effects:
+- MutagenObjectType: PerkEntryPointModifyValue
+  EntryPoint: ModSpellMagnitude
+  PerkConditionTabCount: 3
+  Modification: Add
+  Value: 5

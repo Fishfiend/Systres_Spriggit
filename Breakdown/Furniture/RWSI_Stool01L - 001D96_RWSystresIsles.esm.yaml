@@ -2,7 +2,7 @@ FormKey: 001D96:RWSystresIsles.esm
 EditorID: RWSI_Stool01L
 Name:
   TargetLanguage: English
-  Value: Stool
+  Value: Not a Stool
 Model:
   File: RWSI\Clutter\Furniture\Chairs\RWSI_Stool01.nif
   Data: 0x020000000000000000000000

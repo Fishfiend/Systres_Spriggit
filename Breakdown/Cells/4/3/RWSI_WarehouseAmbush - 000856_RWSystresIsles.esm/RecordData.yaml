@@ -377,7 +377,7 @@ Persistent:
   Base: 000034:Skyrim.esm
   Placement:
     Position: 545.81555, -2807.6733, 48
-    Rotation: 0, -0, -0.0009366884
+    Rotation: 0, -0, 6.282249
 - MutagenObjectType: PlacedObject
   FormKey: 0008A5:RWSystresIsles.esm
   MajorRecordFlagsRaw: 1024
@@ -386,7 +386,7 @@ Persistent:
   Base: 000034:Skyrim.esm
   Placement:
     Position: 545.81555, -2807.6733, -76.68933
-    Rotation: 0, -0, -0.0009366884
+    Rotation: 0, -0, 6.282249
 Temporary:
 - MutagenObjectType: PlacedObject
   FormKey: 000857:RWSystresIsles.esm

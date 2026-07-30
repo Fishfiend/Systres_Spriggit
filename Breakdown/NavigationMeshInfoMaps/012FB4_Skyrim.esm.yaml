@@ -1,6 +1,62 @@
 FormKey: 012FB4:Skyrim.esm
 NavMeshVersion: 12
 MapInfos:
+- NavigationMesh: 0A3F44:Skyrim.esm
+  Unknown: 64
+  Point: -87820.7, 9849.496, -3442.701
+  PreferredMergesFlag: 1037732190
+  MergedTo:
+  - 104734:Skyrim.esm
+  PreferredMerges:
+  - 0E8230:Skyrim.esm
+  - 0F11AB:Skyrim.esm
+  - 104736:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: 2, -22
+- NavigationMesh: 105E9A:Skyrim.esm
+  Unknown: 64
+  Point: -71841.15, 100649.5, -10293.547
+  PreferredMergesFlag: 1035081283
+  MergedTo:
+  - 0C397C:Skyrim.esm
+  - 10848F:Skyrim.esm
+  - 0DEEF2:Skyrim.esm
+  PreferredMerges:
+  - 0F0963:Skyrim.esm
+  - 0DEEF1:Skyrim.esm
+  - 0B097B:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: 24, -18
+- NavigationMesh: 000880:RWSystresIsles.esm
+  Point: 625.7174, -1473.7308, 47.79313
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoCellParent
+    ParentCell: 000856:RWSystresIsles.esm
+- NavigationMesh: 1030CB:Skyrim.esm
+  Unknown: 64
+  Point: -161513.11, 5981.7256, -4981.5986
+  PreferredMergesFlag: 1025392031
+  MergedTo:
+  - 0F58C3:Skyrim.esm
+  - 1064EF:Skyrim.esm
+  - 0F58C2:Skyrim.esm
+  - 1064E9:Skyrim.esm
+  - 096F91:Skyrim.esm
+  PreferredMerges:
+  - 108C0F:Skyrim.esm
+  - 1064FC:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: 1, -40
 - NavigationMesh: 079BBF:Skyrim.esm
   Unknown: 64
   Point: 22345.65, -14143.616, -4489.2134
@@ -19,6 +75,75 @@ MapInfos:
     MutagenObjectType: NavigationMapInfoWorldParent
     ParentWorldspace: 00003C:Skyrim.esm
     ParentWorldspaceCoord: -4, 5
+- NavigationMesh: 00088C:RWSystresIsles.esm
+  Unknown: 32
+  Point: 1298.3049, -494.77838, -470.1078
+  Island:
+    Min: 1023.02216, -746.9874, -473.11438
+    Max: 1563.7494, -229.51895, -468.14227
+    Triangles:
+    - 0, 1, 2
+    - 1, 0, 3
+    Vertices:
+    - 1157.1226, -229.51892, -470.27032
+    - 1446.9524, -746.9874, -468.9378
+    - 1563.7494, -388.89923, -473.11438
+    - 1023.02216, -614.5155, -468.14227
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoCellParent
+    ParentCell: 000856:RWSystresIsles.esm
+- NavigationMesh: 103120:Skyrim.esm
+  Unknown: 64
+  Point: 173984.75, -88130.71, 10525.382
+  PreferredMergesFlag: 1031317818
+  MergedTo:
+  - 106976:Skyrim.esm
+  - 106985:Skyrim.esm
+  - 106E9D:Skyrim.esm
+  PreferredMerges:
+  - 104FC5:Skyrim.esm
+  - 0E0BCB:Skyrim.esm
+  - 0E0BF5:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: -22, 42
+- NavigationMesh: 0E88CC:Skyrim.esm
+  Unknown: 64
+  Point: -35382.9, 59296.02, -12536.658
+  PreferredMergesFlag: 1041090781
+  MergedTo:
+  - 10625B:Skyrim.esm
+  PreferredMerges:
+  - 0E88CD:Skyrim.esm
+  - 0E8086:Skyrim.esm
+  - 0E88AC:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: 14, -9
+- NavigationMesh: 10377B:Skyrim.esm
+  Unknown: 64
+  Point: 26663.953, 100537.73, -13024.316
+  PreferredMergesFlag: 1036239812
+  MergedTo:
+  - 01689A:Skyrim.esm
+  - 103618:Skyrim.esm
+  PreferredMerges:
+  - 103613:Skyrim.esm
+  - 0ECBF3:Skyrim.esm
+  - 0168CE:Skyrim.esm
+  LinkedDoors:
+  - Unknown: -460622861
+    Door: 084B2D:Skyrim.esm
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoWorldParent
+    ParentWorldspace: 00003C:Skyrim.esm
+    ParentWorldspaceCoord: 24, 6
 - NavigationMesh: 098776:Skyrim.esm
   Unknown: 64
   Point: 17747.904, -75712.086, 7842.238
@@ -34,21 +159,60 @@ MapInfos:
     MutagenObjectType: NavigationMapInfoWorldParent
     ParentWorldspace: 00003C:Skyrim.esm
     ParentWorldspaceCoord: -19, 4
-- NavigationMesh: 0A3F44:Skyrim.esm
-  Unknown: 64
-  Point: -87820.7, 9849.496, -3442.701
-  PreferredMergesFlag: 1037732190
-  MergedTo:
-  - 104734:Skyrim.esm
-  PreferredMerges:
-  - 0E8230:Skyrim.esm
-  - 0F11AB:Skyrim.esm
-  - 104736:Skyrim.esm
+- NavigationMesh: 00087F:RWSystresIsles.esm
+  Unknown: 32
+  Point: 720.1104, -247.96733, -468.36154
+  Island:
+    Min: 500.1225, -446.89185, -471.99252
+    Max: 941.4466, -40.981323, -465.45963
+    Triangles:
+    - 0, 1, 2
+    - 2, 3, 0
+    Vertices:
+    - 514.2449, -60.464996, -465.45963
+    - 500.1225, -446.89185, -466.47876
+    - 923.79364, -445.2682, -469.53616
+    - 941.44666, -42.60495, -471.99252
   Unknown2: -1511415748
   Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: 2, -22
+    MutagenObjectType: NavigationMapInfoCellParent
+    ParentCell: 000856:RWSystresIsles.esm
+- NavigationMesh: 0008A6:RWSystresIsles.esm
+  Unknown: 32
+  Point: 532.89124, -2804.9614, -467.56052
+  Island:
+    Min: 331.8574, -3037.8826, -474.5042
+    Max: 731.04346, -2569.7822, -461.0511
+    Triangles:
+    - 0, 1, 2
+    - 2, 3, 0
+    Vertices:
+    - 705.49554, -2569.7822, -461.1049
+    - 360.5988, -2588.5063, -474.5042
+    - 331.8574, -3037.8826, -472.3517
+    - 731.04346, -3024.776, -462.3964
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoCellParent
+    ParentCell: 000856:RWSystresIsles.esm
+- NavigationMesh: 000881:RWSystresIsles.esm
+  Unknown: 32
+  Point: 1243.0938, 25.632359, 339.27173
+  Island:
+    Min: 1064.1871, -221.09576, 339.27173
+    Max: 1458.5966, 257.7452, 339.27173
+    Triangles:
+    - 0, 1, 2
+    - 1, 3, 2
+    Vertices:
+    - 1458.5966, 225.18405, 339.27173
+    - 1207.7522, 257.74524, 339.27173
+    - 1240.8826, -221.09576, 339.27173
+    - 1064.1871, -161.71948, 339.27173
+  Unknown2: -1511415748
+  Parent:
+    MutagenObjectType: NavigationMapInfoCellParent
+    ParentCell: 000856:RWSystresIsles.esm
 - NavigationMesh: 0B87DF:Skyrim.esm
   Unknown: 64
   Point: 137317.58, 22598.166, -12089.594
@@ -66,21 +230,6 @@ MapInfos:
     MutagenObjectType: NavigationMapInfoWorldParent
     ParentWorldspace: 00003C:Skyrim.esm
     ParentWorldspaceCoord: 5, 33
-- NavigationMesh: 0E88CC:Skyrim.esm
-  Unknown: 64
-  Point: -35382.9, 59296.02, -12536.658
-  PreferredMergesFlag: 1041090781
-  MergedTo:
-  - 10625B:Skyrim.esm
-  PreferredMerges:
-  - 0E88CD:Skyrim.esm
-  - 0E8086:Skyrim.esm
-  - 0E88AC:Skyrim.esm
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: 14, -9
 - NavigationMesh: 100F4B:Skyrim.esm
   Unknown: 64
   Point: 109263.77, 104283.68, -8915.636
@@ -105,155 +254,6 @@ MapInfos:
     MutagenObjectType: NavigationMapInfoWorldParent
     ParentWorldspace: 00003C:Skyrim.esm
     ParentWorldspaceCoord: 25, 26
-- NavigationMesh: 1030CB:Skyrim.esm
-  Unknown: 64
-  Point: -161513.11, 5981.7256, -4981.5986
-  PreferredMergesFlag: 1025392031
-  MergedTo:
-  - 0F58C3:Skyrim.esm
-  - 1064EF:Skyrim.esm
-  - 0F58C2:Skyrim.esm
-  - 1064E9:Skyrim.esm
-  - 096F91:Skyrim.esm
-  PreferredMerges:
-  - 108C0F:Skyrim.esm
-  - 1064FC:Skyrim.esm
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: 1, -40
-- NavigationMesh: 103120:Skyrim.esm
-  Unknown: 64
-  Point: 173984.75, -88130.71, 10525.382
-  PreferredMergesFlag: 1031317818
-  MergedTo:
-  - 106976:Skyrim.esm
-  - 106985:Skyrim.esm
-  - 106E9D:Skyrim.esm
-  PreferredMerges:
-  - 104FC5:Skyrim.esm
-  - 0E0BCB:Skyrim.esm
-  - 0E0BF5:Skyrim.esm
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: -22, 42
-- NavigationMesh: 10377B:Skyrim.esm
-  Unknown: 64
-  Point: 26663.953, 100537.73, -13024.316
-  PreferredMergesFlag: 1036239812
-  MergedTo:
-  - 01689A:Skyrim.esm
-  - 103618:Skyrim.esm
-  PreferredMerges:
-  - 103613:Skyrim.esm
-  - 0ECBF3:Skyrim.esm
-  - 0168CE:Skyrim.esm
-  LinkedDoors:
-  - Unknown: -460622861
-    Door: 084B2D:Skyrim.esm
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: 24, 6
-- NavigationMesh: 105E9A:Skyrim.esm
-  Unknown: 64
-  Point: -71841.15, 100649.5, -10293.547
-  PreferredMergesFlag: 1035081283
-  MergedTo:
-  - 0C397C:Skyrim.esm
-  - 10848F:Skyrim.esm
-  - 0DEEF2:Skyrim.esm
-  PreferredMerges:
-  - 0F0963:Skyrim.esm
-  - 0DEEF1:Skyrim.esm
-  - 0B097B:Skyrim.esm
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoWorldParent
-    ParentWorldspace: 00003C:Skyrim.esm
-    ParentWorldspaceCoord: 24, -18
-- NavigationMesh: 00087F:RWSystresIsles.esm
-  Unknown: 32
-  Point: 720.1104, -247.96733, -468.36154
-  Island:
-    Min: 500.1225, -446.89185, -471.99252
-    Max: 941.4466, -40.981323, -465.45963
-    Triangles:
-    - 0, 1, 2
-    - 2, 3, 0
-    Vertices:
-    - 514.2449, -60.464996, -465.45963
-    - 500.1225, -446.89185, -466.47876
-    - 923.79364, -445.2682, -469.53616
-    - 941.44666, -42.60495, -471.99252
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoCellParent
-    ParentCell: 000856:RWSystresIsles.esm
-- NavigationMesh: 000880:RWSystresIsles.esm
-  Point: 625.7174, -1473.7308, 47.79313
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoCellParent
-    ParentCell: 000856:RWSystresIsles.esm
-- NavigationMesh: 000881:RWSystresIsles.esm
-  Unknown: 32
-  Point: 1243.0938, 25.632359, 339.27173
-  Island:
-    Min: 1064.1871, -221.09576, 339.27173
-    Max: 1458.5966, 257.7452, 339.27173
-    Triangles:
-    - 0, 1, 2
-    - 1, 3, 2
-    Vertices:
-    - 1458.5966, 225.18405, 339.27173
-    - 1207.7522, 257.74524, 339.27173
-    - 1240.8826, -221.09576, 339.27173
-    - 1064.1871, -161.71948, 339.27173
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoCellParent
-    ParentCell: 000856:RWSystresIsles.esm
-- NavigationMesh: 00088C:RWSystresIsles.esm
-  Unknown: 32
-  Point: 1298.3049, -494.77838, -470.1078
-  Island:
-    Min: 1023.02216, -746.9874, -473.11438
-    Max: 1563.7494, -229.51895, -468.14227
-    Triangles:
-    - 0, 1, 2
-    - 1, 0, 3
-    Vertices:
-    - 1157.1226, -229.51892, -470.27032
-    - 1446.9524, -746.9874, -468.9378
-    - 1563.7494, -388.89923, -473.11438
-    - 1023.02216, -614.5155, -468.14227
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoCellParent
-    ParentCell: 000856:RWSystresIsles.esm
-- NavigationMesh: 0008A6:RWSystresIsles.esm
-  Unknown: 32
-  Point: 532.89124, -2804.9614, -467.56052
-  Island:
-    Min: 331.8574, -3037.8826, -474.5042
-    Max: 731.04346, -2569.7822, -461.0511
-    Triangles:
-    - 0, 1, 2
-    - 2, 3, 0
-    Vertices:
-    - 705.49554, -2569.7822, -461.1049
-    - 360.5988, -2588.5063, -474.5042
-    - 331.8574, -3037.8826, -472.3517
-    - 731.04346, -3024.776, -462.3964
-  Unknown2: -1511415748
-  Parent:
-    MutagenObjectType: NavigationMapInfoCellParent
-    ParentCell: 000856:RWSystresIsles.esm
 PreferredPathing:
   NavmeshSets:
   - Navmeshes:
@@ -6659,22 +6659,22 @@ PreferredPathing:
   - Navmeshes:
     - 0A3F44:Skyrim.esm
   NavmeshTree:
-  - NavMesh: 103120:Skyrim.esm
-    NodeIndex: 2
-  - NavMesh: 079BBF:Skyrim.esm
-    NodeIndex: 6
   - NavMesh: 0B87DF:Skyrim.esm
     NodeIndex: 4
-  - NavMesh: 100F4B:Skyrim.esm
-    NodeIndex: 3
-  - NavMesh: 105E9A:Skyrim.esm
-  - NavMesh: 10377B:Skyrim.esm
-    NodeIndex: 1
-  - NavMesh: 0E88CC:Skyrim.esm
-    NodeIndex: 7
   - NavMesh: 098776:Skyrim.esm
     NodeIndex: 5
-  - NavMesh: 0A3F44:Skyrim.esm
-    NodeIndex: 9
+  - NavMesh: 103120:Skyrim.esm
+    NodeIndex: 2
   - NavMesh: 1030CB:Skyrim.esm
     NodeIndex: 8
+  - NavMesh: 10377B:Skyrim.esm
+    NodeIndex: 1
+  - NavMesh: 105E9A:Skyrim.esm
+  - NavMesh: 079BBF:Skyrim.esm
+    NodeIndex: 6
+  - NavMesh: 0E88CC:Skyrim.esm
+    NodeIndex: 7
+  - NavMesh: 0A3F44:Skyrim.esm
+    NodeIndex: 9
+  - NavMesh: 100F4B:Skyrim.esm
+    NodeIndex: 3
